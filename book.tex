@@ -1,0 +1,161 @@
+\documentclass[11pt, a4paper, twoside]{book} % set draft / final
+% packages
+% -tex
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{titlesec}
+%\usepackage[top=1.5in, bottom=2in]{geometry}
+\usepackage[margin=2.5cm]{geometry}
+\geometry{bindingoffset=2cm}
+% -graphics/floats
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage{framed}
+% -lists and tables
+\usepackage{paralist}
+\usepackage{tabularx}
+% -index
+\usepackage{makeidx}
+\makeindex
+% -text
+\usepackage{mathpazo}
+\usepackage{multicol}
+\usepackage{ragged2e}
+\usepackage[activate, tracking=true, kerning=true]{microtype}
+	\SetTracking{}{500}
+\usepackage{libertine}
+% graphicspath
+\graphicspath{{figs/}}
+
+\makeatletter
+\newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
+\newcommand\HUGE{\@setfontsize\Huge{40}{50}}
+\makeatother
+
+% chapter heading
+\titleformat{\chapter}[block]{\HUUGE}{\thechapter}{20pt}{\HUGE}
+
+\newpagestyle{mystyle}{
+  \sethead{}{}{}
+  \setfoot{}{\thepage}{}}
+\pagestyle{mystyle}
+
+%%% Rezept %%%
+%\rezept{Titel}{stretch}{Untertitel}{Zutaten als Tabelle}{Anleitung}
+\newcommand{\rezept}[5]{ 
+\vfill
+\vspace{10pt}
+\hrulefill \textls[#2]{\huge \textsc{ #1}} \hrulefill
+\index{#1}
+
+\begin{flushright}
+\textit{#3}
+\end{flushright}
+\vspace{2pt}
+
+\begin{multicols}{2}
+\textbf{Zutaten:}
+
+\vspace{7pt}
+\begin{tabularx}{\linewidth}{rl X}
+#4
+\end{tabularx}
+\vspace{7pt}
+
+\vfill
+\textbf{Anleitung:}
+
+\vspace{4pt}
+#5
+\vfill
+\end{multicols}
+\vfill
+}
+
+%%%%%%%%%%%%%%%%
+%%% DOCUMENT %%% 
+%%%%%%%%%%%%%%%%
+
+\begin{document}
+%% NEW COMMANDS %%
+\renewcommand{\indexname}{Stichwortverzeichnis}
+
+%%% FORMAT %%% 
+\pagenumbering{gobble}
+\justify
+\setlength\parindent{0pt}
+%\setlength{\parskip}{5pt}
+
+%%% TITLEPAGE %%%
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+{\HUGE{\textsc{\textls[-10]{Rezepte}}}}
+\vspace{2cm}
+
+{\Large{von}
+\vfill
+\Huge\textsc{Thorsten} 
+\vfill
+\Large{und}
+\vfill
+\Huge\textsc{Fari}}
+\vspace{2cm}
+
+Gewidmet unserer K\"uche
+\vfill
+Wir danken unserem Herd, Ofen und Mixer
+
+Wasserkocher, Toaster und Topf
+
+und den Zutaten
+\end{center}
+\vspace{3cm}
+\newpage
+
+\tableofcontents
+
+%%% CONTENT %%%
+\pagenumbering{arabic}
+
+\chapter{So\ss{}en}
+\thispagestyle{empty}
+\include{sossen}
+\chapter{Vorspeisen}
+\thispagestyle{empty}
+\include{vorspeisen}
+\chapter{Salate}
+\thispagestyle{empty}
+\include{salate}
+\chapter{Dressings}
+\thispagestyle{empty}
+\include{dressings}
+\chapter{Suppen}
+\thispagestyle{empty}
+\include{suppen}
+\chapter{Hauptgerichte}
+\thispagestyle{empty}
+\include{hauptgerichte}
+\chapter{Desserts}
+\thispagestyle{empty}
+\include{desserts}
+\chapter{Getr\"anke}
+\thispagestyle{empty}
+\include{getraenke}
+\chapter{Snacks}
+\thispagestyle{empty}
+\include{snacks}
+\chapter{Backwaren}
+\thispagestyle{empty}
+\include{backwaren}
+\chapter{Marmeladen}
+\thispagestyle{empty}
+\include{marmeladen}
+
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Stichwortverzeichnis}
+\printindex
+
+\end{document}

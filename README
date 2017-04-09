@@ -1,0 +1,2 @@
+makeindex book.idx
+pdflatex book
