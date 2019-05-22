@@ -100,7 +100,12 @@
 
 \tableofcontents
 
+\cleardoublepage
+\addcontentsline{toc}{chapter}{Stichwortverzeichnis}
+\printindex
+
 %%% CONTENT %%%
+\cleardoublepage
 \pagenumbering{arabic}
 
 \chapter{So\ss{}en}
@@ -130,15 +135,14 @@
 \chapter{Snacks}
 \thispagestyle{empty}
 \include{snacks}
-\chapter{Backwaren}
+\chapter{Backwaren (süß)}
 \thispagestyle{empty}
-\include{backwaren}
+\include{backsuess}
+\chapter{Backwaren (herzhaft)}
+\thispagestyle{empty}
+\include{backherzhaft}
 \chapter{Marmeladen}
 \thispagestyle{empty}
 \include{marmeladen}
-
-\cleardoublepage
-\addcontentsline{toc}{chapter}{Stichwortverzeichnis}
-\printindex
 
 \end{document}
