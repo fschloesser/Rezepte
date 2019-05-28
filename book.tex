@@ -4,7 +4,7 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
-\usepackage{titlesec}
+\usepackage{titlesec} % A package providing an inter­face to sectioning commands for selection from various title styles
 %\usepackage[top=1.5in, bottom=2in]{geometry}
 \usepackage[margin=2.5cm]{geometry}
 \geometry{bindingoffset=2cm}
@@ -20,22 +20,39 @@
 \usepackage{makeidx}
 \makeindex
 % -text
-\usepackage{mathpazo}
+%\usepackage{mathpazo}
 \usepackage{multicol}
 \usepackage{ragged2e}
 \usepackage[activate, tracking=true, kerning=true]{microtype}
 	\SetTracking{}{500}
 \usepackage{libertine}
+
+% make table of contents clickable
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
 % graphicspath
-\graphicspath{{figs/}}
+\graphicspath{{img/}}
 
 \makeatletter
 \newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
 \newcommand\HUGE{\@setfontsize\Huge{40}{50}}
+\newcommand\GRANDE{\@setfontsize\Huge{120}{0}}
+\newcommand\GRAANDE{\@setfontsize\Huge{250}{0}}
 \makeatother
 
-% chapter heading
-\titleformat{\chapter}[block]{\HUUGE}{\thechapter}{20pt}{\HUGE}
+% chapter heading (provided by package titlesec)
+%\titleformat{\chapter}[block]{\HUUGE}{\thechapter}{20pt}{\HUGE}
+%\titleformat{\chapter}[frame]{\HUUGE}{\thechapter}{2em}{\HUGE}
+%\titleformat{\chapter}[display]{\GRAANDE}{\thechapter}{0em}{\raggedleft\GRANDE}[]
+%\titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\raggedleft\GRANDE}[]
+\titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\GRANDE}[]
+%\titleformat{\chapter}[display]{\HUUGE}{\thechapter}{2em}{\raggedleft\HUGE}[]
 
 \newpagestyle{mystyle}{
   \sethead{}{}{}
@@ -80,7 +97,7 @@
 
 \begin{document}
 %% NEW COMMANDS %%
-\renewcommand{\indexname}{Stichwortverzeichnis}
+\renewcommand{\indexname}{S\-t\-i\-c\-h\-w\-o\-r\-t\-v\-e\-r\-z\-e\-i\-c\-h\-n\-i\-s}
 
 %%% FORMAT %%%
 \pagenumbering{gobble}
@@ -92,7 +109,7 @@
 \thispagestyle{empty}
 \vspace*{3cm}
 \begin{center}
-{\HUGE{\textsc{\textls[-10]{Rezepte}}}}
+{\GRAANDE{\textsc{\textls[10]{R\-e\-z\-e\-p\-t\-e}}}}
 \vspace{2cm}
 \end{center}
 \vspace{3cm}
@@ -101,47 +118,46 @@
 \tableofcontents
 
 \cleardoublepage
-\addcontentsline{toc}{chapter}{Stichwortverzeichnis}
 \printindex
 
 %%% CONTENT %%%
 \cleardoublepage
 \pagenumbering{arabic}
 
-\chapter{So\ss{}en}
+\chapter{S\-o\-ß\-e\-n}
 \thispagestyle{empty}
 \include{sossen}
-\chapter{Vorspeisen}
+\chapter{V\-o\-r\-s\-p\-e\-i\-s\-e\-n}
 \thispagestyle{empty}
 \include{vorspeisen}
-\chapter{Salate}
+\chapter{S\-a\-l\-a\-t\-e}
 \thispagestyle{empty}
 \include{salate}
-\chapter{Dressings}
+\chapter{D\-r\-e\-s\-s\-i\-n\-g\-s}
 \thispagestyle{empty}
 \include{dressings}
-\chapter{Suppen}
+\chapter{S\-u\-p\-p\-e\-n}
 \thispagestyle{empty}
 \include{suppen}
-\chapter{Hauptgerichte}
+\chapter{H\-a\-u\-p\-t\-g\-e\-r\-i\-c\-h\-t\-e}
 \thispagestyle{empty}
 \include{hauptgerichte}
-\chapter{Desserts}
+\chapter{D\-e\-s\-s\-e\-r\-t\-s}
 \thispagestyle{empty}
 \include{desserts}
-\chapter{Getr\"anke}
+\chapter{G\-e\-t\-r\-ä\-n\-k\-e}
 \thispagestyle{empty}
 \include{getraenke}
-\chapter{Snacks}
+\chapter{S\-n\-a\-c\-k\-s}
 \thispagestyle{empty}
 \include{snacks}
-\chapter{Backwaren (süß)}
+\chapter{s\-ü\-ß\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
 \thispagestyle{empty}
 \include{backsuess}
-\chapter{Backwaren (herzhaft)}
+\chapter{h\-e\-r\-z\-h\-a\-f\-t\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
 \thispagestyle{empty}
 \include{backherzhaft}
-\chapter{Marmeladen}
+\chapter{M\-a\-r\-m\-e\-l\-a\-d\-e\-n}
 \thispagestyle{empty}
 \include{marmeladen}
 
