@@ -1,4 +1,4 @@
-\documentclass[11pt, a4paper, twoside]{book} % set draft / final
+\documentclass[10pt, a4paper, twoside]{book} % set draft / final
 % packages
 % -tex
 \usepackage[T1]{fontenc}
@@ -47,12 +47,7 @@
 \makeatother
 
 % chapter heading (provided by package titlesec)
-%\titleformat{\chapter}[block]{\HUUGE}{\thechapter}{20pt}{\HUGE}
-%\titleformat{\chapter}[frame]{\HUUGE}{\thechapter}{2em}{\HUGE}
-%\titleformat{\chapter}[display]{\GRAANDE}{\thechapter}{0em}{\raggedleft\GRANDE}[]
-%\titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\raggedleft\GRANDE}[]
 \titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\GRANDE}[]
-%\titleformat{\chapter}[display]{\HUUGE}{\thechapter}{2em}{\raggedleft\HUGE}[]
 
 \newpagestyle{mystyle}{
   \sethead{}{}{}
@@ -124,6 +119,9 @@
 \cleardoublepage
 \pagenumbering{arabic}
 
+\chapter{K\-ü\-c\-h\-e\-n\-t\-i\-p\-s}
+\thispagestyle{empty}
+\include{tips}
 \chapter{S\-o\-ß\-e\-n}
 \thispagestyle{empty}
 \include{sossen}
@@ -151,12 +149,18 @@
 \chapter{S\-n\-a\-c\-k\-s}
 \thispagestyle{empty}
 \include{snacks}
-\chapter{s\-ü\-ß\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
-\thispagestyle{empty}
-\include{backsuess}
 \chapter{h\-e\-r\-z\-h\-a\-f\-t\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
 \thispagestyle{empty}
 \include{backherzhaft}
+\chapter{K\-u\-c\-h\-e\-n}
+\thispagestyle{empty}
+\include{kuchen}
+\chapter{K\-e\-k\-s\-e}
+\thispagestyle{empty}
+\include{kekse}
+\chapter{s\-ü\-ß\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
+\thispagestyle{empty}
+\include{backsuess}
 \chapter{M\-a\-r\-m\-e\-l\-a\-d\-e\-n}
 \thispagestyle{empty}
 \include{marmeladen}
