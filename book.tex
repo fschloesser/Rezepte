@@ -54,6 +54,21 @@
   \setfoot{}{\thepage}{}}
 \pagestyle{mystyle}
 
+%%% Tips %%%
+%\tips{Titel}{Content}
+\newcommand{\tips}[2]{
+\vspace{30pt}
+\hspace{15pt}\hrulefill \textls{\huge \textsc{ #1}} \hrulefill
+\vspace{20pt}
+
+\begin{multicols}{2}
+
+\begin{compactitem}
+#2
+\end{compactitem}
+\end{multicols}
+}
+
 %%% Rezept %%%
 %\rezept{Titel}{stretch}{Untertitel}{Zutaten als Tabelle}{Anleitung}
 \newcommand{\rezept}[5]{
@@ -65,23 +80,23 @@
 \begin{flushright}
 \textit{#3}
 \end{flushright}
-\vspace{2pt}
 
 \begin{multicols}{2}
-\textbf{Zutaten:}
+\begin{minipage}{\linewidth}
+  \textbf{Zutaten:}
 
-\vspace{7pt}
-\begin{tabularx}{\linewidth}{rl X}
-#4
-\end{tabularx}
-\vspace{7pt}
-
+  \vspace{7pt}
+  \begin{tabularx}{\linewidth}{rl X}
+  #4
+  \end{tabularx}
+  \vspace{7pt}
+\end{minipage}
 \vfill
+
 \textbf{Anleitung:}
 
-\vspace{4pt}
+\vspace{7pt}
 #5
-\vfill
 \end{multicols}
 \vfill
 }
@@ -125,9 +140,6 @@
 \chapter{S\-o\-ß\-e\-n}
 \thispagestyle{empty}
 \include{sossen}
-\chapter{V\-o\-r\-s\-p\-e\-i\-s\-e\-n}
-\thispagestyle{empty}
-\include{vorspeisen}
 \chapter{S\-a\-l\-a\-t\-e}
 \thispagestyle{empty}
 \include{salate}
