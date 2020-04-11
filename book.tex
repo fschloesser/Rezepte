@@ -47,7 +47,10 @@
 \makeatother
 
 % chapter heading (provided by package titlesec)
+%\titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
 \titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\GRANDE}[]
+\titleformat{\section}[block]{\huge \scshape \centering}{\thesection}{0.5em}{}[\vspace{-2.5ex}%
+\rule{\textwidth}{0.3pt}]
 
 \newpagestyle{mystyle}{
   \sethead{}{}{}
@@ -71,10 +74,10 @@
 
 %%% Rezept %%%
 %\rezept{Titel}{stretch}{Untertitel}{Zutaten als Tabelle}{Anleitung}
+%old title \hrulefill\textls[#2]\textsc{#1}\hrulefill
 \newcommand{\rezept}[5]{
-\vfill
 \begin{samepage}
-\hrulefill \textls[#2]{\huge \textsc{ #1}} \hrulefill
+\section*{\huge \textsc{#1}}
 \index{#1}
 
 \begin{flushright}
@@ -167,10 +170,15 @@
 \thispagestyle{empty}
 \newpage
 \input{rezepte/rec_champignontomatensosse}
+\input{rezepte/rec_flammkuchen}
 \input{rezepte/rec_gemuesecurry}
 \input{rezepte/rec_kartoffelquark}
 \input{rezepte/rec_koshary}
 \input{rezepte/rec_linsenlasagne}
+\input{rezepte/rec_muerbeteig}
+\input{rezepte/rec_quiche}
+\input{rezepte/rec_pizzaoelteig}
+\input{rezepte/rec_sauerkraut}
 \input{rezepte/rec_schmorgurken}
 \input{rezepte/rec_semmelknoedel}
 \input{rezepte/rec_volognese}
@@ -185,42 +193,39 @@
 \chapter{D\-e\-s\-s\-e\-r\-t\-s}
 \thispagestyle{empty}
 \newpage
+\input{rezepte/rec_birchermuesli}
 \input{rezepte/rec_bratapfel}
 \input{rezepte/rec_obstquark}
 \input{rezepte/rec_pannacotta}
-\chapter{G\-e\-t\-r\-ä\-n\-k\-e}
-\thispagestyle{empty}
-\newpage
-\input{rezepte/rec_chaitee}
-\input{rezepte/rec_ingwerbier}
-\input{rezepte/rec_zitronenlimo}
-\chapter{S\-n\-a\-c\-k\-s}
-\thispagestyle{empty}
-\newpage
-\input{rezepte/rec_birchermuesli}
-\input{rezepte/rec_sauerkraut}
-\chapter{h\-e\-r\-z\-h\-a\-f\-t\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
+\chapter{B\-r\-o\-t\-e}
 \thispagestyle{empty}
 \newpage
 \input{rezepte/rec_sauerteigbrot}
 \input{rezepte/rec_hefebrot}
 \input{rezepte/rec_marraqueta}
-\input{rezepte/rec_pizzaoelteig}
-\input{rezepte/rec_flammkuchen}
-\input{rezepte/rec_muerbeteig}
-\input{rezepte/rec_quiche}
+\chapter{s\-ü\-ß\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
+\thispagestyle{empty}
+\newpage
+\input{rezepte/rec_americanpancakes}
+\input{rezepte/rec_pfannkuchenmama}
+\input{rezepte/rec_windbeutel}
 \chapter{K\-u\-c\-h\-e\-n}
 \thispagestyle{empty}
 \newpage
+\input{rezepte/rec_apfelmuffins}
 \input{rezepte/rec_bisquit}
+\input{rezepte/rec_blondies}
 \input{rezepte/rec_blueberrypie}
 \input{rezepte/rec_cremapastelera}
 \input{rezepte/rec_hefekuchenteig}
 \input{rezepte/rec_hefezopf}
+\input{rezepte/rec_joghurtmuffins}
+\input{rezepte/rec_karottenmuffins}
 \input{rezepte/rec_streusel}
 \input{rezepte/rec_tortapompadour}
 \input{rezepte/rec_tresleches}
 \input{rezepte/rec_toffeepudding}
+\input{rezepte/rec_veganemuffins}
 \chapter{K\-e\-k\-s\-e}
 \thispagestyle{empty}
 \newpage
@@ -229,21 +234,16 @@
 \input{rezepte/rec_lebkuchen}
 \input{rezepte/rec_streuselkekse}
 \input{rezepte/rec_zimtsterne}
-\chapter{s\-ü\-ß\-e B\-a\-c\-k\-w\-a\-r\-e\-n}
-\thispagestyle{empty}
-\newpage
-\input{rezepte/rec_americanpancakes}
-\input{rezepte/rec_apfelmuffins}
-\input{rezepte/rec_blondies}
-\input{rezepte/rec_joghurtmuffins}
-\input{rezepte/rec_karottenmuffins}
-\input{rezepte/rec_pfannkuchenmama}
-\input{rezepte/rec_veganemuffins}
-\input{rezepte/rec_windbeutel}
 \chapter{M\-a\-r\-m\-e\-l\-a\-d\-e\-n}
 \thispagestyle{empty}
 \newpage
 \input{rezepte/rec_birnenmarmelade}
+\chapter{G\-e\-t\-r\-ä\-n\-k\-e}
+\thispagestyle{empty}
+\newpage
+\input{rezepte/rec_chaitee}
+\input{rezepte/rec_ingwerbier}
+\input{rezepte/rec_zitronenlimo}
 \chapter{N\-\"a\-h\-r\-s\-t\-o\-f\-f\-e}
 \thispagestyle{empty}
 \include{naehrstoffe}
