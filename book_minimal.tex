@@ -1,4 +1,4 @@
-\documentclass[10pt, a4paper, twoside]{book} % set draft / final
+\documentclass[9pt, a4paper, twoside]{book} % set draft / final
 % packages
 % -tex
 \usepackage[T1]{fontenc}
@@ -6,8 +6,8 @@
 \usepackage[ngerman]{babel}
 \usepackage{titlesec} % A package providing an inter­face to sectioning commands for selection from various title styles
 %\usepackage[top=1.5in, bottom=2in]{geometry}
-\usepackage[margin=2.5cm]{geometry}
-\geometry{bindingoffset=2cm}
+\usepackage[margin=1cm]{geometry}
+\geometry{bindingoffset=0cm}
 % -graphics/floats
 \usepackage{graphicx}
 \usepackage{xcolor}
@@ -23,9 +23,8 @@
 %\usepackage{mathpazo}
 \usepackage{multicol}
 \usepackage{ragged2e}
-\usepackage[activate, tracking=true, kerning=true]{microtype}
-	\SetTracking{}{500}
-\usepackage{libertine}
+%\usepackage[activate, tracking=true, kerning=true]{microtype}
+%	\SetTracking{}{500}
 
 % make table of contents clickable
 \usepackage{hyperref}
@@ -61,15 +60,13 @@
 %\tips{Titel}{Content}
 \newcommand{\tips}[2]{
 \vspace{30pt}
-\hspace{15pt}\hrulefill \textls{\huge \textsc{ #1}} \hrulefill
+\hspace{15pt}\hrulefill \huge \textsc{ #1} \hrulefill
 \vspace{20pt}
 
-\begin{multicols}{2}
 
 \begin{compactitem}
 #2
 \end{compactitem}
-\end{multicols}
 }
 
 %%% Rezept %%%
@@ -77,16 +74,15 @@
 %old title \hrulefill\textls[#2]\textsc{#1}\hrulefill
 \newcommand{\rezept}[5]{
 \begin{samepage}
-\section*{\huge \textsc{#1}}
+\section*{\textsc{#1}}
 \index{#1}
 
 \begin{flushright}
 \textit{#3}
 \end{flushright}
 
-\begin{multicols}{2}
 \begin{minipage}{\linewidth}
-  \textbf{\large Zutaten:}
+  \textbf{Zutaten:}
 
   \vspace{7pt}
   \begin{tabularx}{\linewidth}{rl X}
@@ -95,11 +91,10 @@
   \vspace{7pt}
 \end{minipage}
 
-\textbf{\large Anleitung:}
+\textbf{Anleitung:}
 
 \vspace{7pt}
 #5
-\end{multicols}
 \end{samepage}
 \vspace{1cm} }
 
@@ -121,7 +116,7 @@
 \thispagestyle{empty}
 \vspace*{3cm}
 \begin{center}
-{\GRAANDE{\textsc{\textls[10]{R\-e\-z\-e\-p\-t\-e}}}}
+{\GRAANDE{\textsc{R\-e\-z\-e\-p\-t\-e}}}
 \vspace{2cm}
 \end{center}
 \vspace{3cm}
