@@ -1,11 +1,10 @@
-\documentclass[9pt, a4paper, twoside]{book} % set draft / final
+\documentclass[9pt, twocolumn, a4paper, twoside]{book} % set draft / final
 % packages
 % -tex
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
 \usepackage{titlesec} % A package providing an inter­face to sectioning commands for selection from various title styles
-%\usepackage[top=1.5in, bottom=2in]{geometry}
 \usepackage[margin=1cm]{geometry}
 \geometry{bindingoffset=0cm}
 % -graphics/floats
@@ -21,7 +20,6 @@
 \makeindex
 % -text
 %\usepackage{mathpazo}
-\usepackage{multicol}
 \usepackage{ragged2e}
 %\usepackage[activate, tracking=true, kerning=true]{microtype}
 %	\SetTracking{}{500}
@@ -39,17 +37,17 @@
 \graphicspath{{img/}}
 
 \makeatletter
-\newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
 \newcommand\HUGE{\@setfontsize\Huge{40}{50}}
-\newcommand\GRANDE{\@setfontsize\Huge{120}{0}}
-\newcommand\GRAANDE{\@setfontsize\Huge{250}{0}}
+\newcommand\HUUGE{\@setfontsize\Huge{40}{50}}
+\newcommand\GRANDE{\@setfontsize\Huge{40}{50}}
+\newcommand\GRAANDE{\@setfontsize\Huge{40}{50}}
 \makeatother
 
 % chapter heading (provided by package titlesec)
 %\titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
-\titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\GRANDE}[]
+\titleformat{\chapter}[block]{\hfill\huge}{\thechapter}{0em}{\huge}[]
 \titleformat{\section}[block]{\huge \scshape \centering}{\thesection}{0.5em}{}[\vspace{-2.5ex}%
-\rule{\textwidth}{0.3pt}]
+\rule{\linewidth}{0.3pt}]
 
 \newpagestyle{mystyle}{
   \sethead{}{}{}
@@ -60,9 +58,8 @@
 %\tips{Titel}{Content}
 \newcommand{\tips}[2]{
 \vspace{30pt}
-\hspace{15pt}\hrulefill \huge \textsc{ #1} \hrulefill
+\hspace{15pt}\hrulefill {\huge \textsc{#1} } \hrulefill
 \vspace{20pt}
-
 
 \begin{compactitem}
 #2
@@ -104,19 +101,17 @@
 
 \begin{document}
 %% NEW COMMANDS %%
-\renewcommand{\indexname}{S\-t\-i\-c\-h\-w\-o\-r\-t\-v\-e\-r\-z\-e\-i\-c\-h\-n\-i\-s}
+\renewcommand{\indexname}{Stichwortverzeichnis}
 
 %%% FORMAT %%%
 \pagenumbering{gobble}
 \justify
-\setlength\parindent{0pt}
-%\setlength{\parskip}{5pt}
 
 %%% TITLEPAGE %%%
 \thispagestyle{empty}
 \vspace*{3cm}
 \begin{center}
-{\GRAANDE{\textsc{R\-e\-z\-e\-p\-t\-e}}}
+  Rezepte
 \vspace{2cm}
 \end{center}
 \vspace{3cm}
