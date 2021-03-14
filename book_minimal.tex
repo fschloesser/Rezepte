@@ -1,11 +1,11 @@
-\documentclass[9pt, twocolumn, a4paper, twoside]{book} % set draft / final
+\documentclass[9pt, a4paper, twoside]{book} % set draft / final
 % packages
 % -tex
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc}
 \usepackage[ngerman]{babel}
 \usepackage{titlesec} % A package providing an inter­face to sectioning commands for selection from various title styles
-\usepackage[margin=1cm]{geometry}
+\usepackage[margin=2cm]{geometry}
 \geometry{bindingoffset=0cm}
 % -graphics/floats
 \usepackage{graphicx}
@@ -19,10 +19,10 @@
 \usepackage{makeidx}
 \makeindex
 % -text
-%\usepackage{mathpazo}
 \usepackage{ragged2e}
 %\usepackage[activate, tracking=true, kerning=true]{microtype}
 %	\SetTracking{}{500}
+%\usepackage{libertine}
 
 % make table of contents clickable
 \usepackage{hyperref}
@@ -38,14 +38,26 @@
 
 \makeatletter
 \newcommand\HUGE{\@setfontsize\Huge{40}{50}}
-\newcommand\HUUGE{\@setfontsize\Huge{40}{50}}
-\newcommand\GRANDE{\@setfontsize\Huge{40}{50}}
-\newcommand\GRAANDE{\@setfontsize\Huge{40}{50}}
+\newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
+\newcommand\GRANDE{\@setfontsize\Huge{120}{0}}
+\newcommand\GRAANDE{\@setfontsize\Huge{250}{0}}
+\def\WFfill{\par
+    \ifx\parshape\WF@fudgeparshape
+    \nobreak
+    \ifnum\c@WF@wrappedlines>\@ne
+    \advance\c@WF@wrappedlines\m@ne
+    \vskip\c@WF@wrappedlines\baselineskip
+    \global\c@WF@wrappedlines\z@
+    \fi
+    \allowbreak
+    \WF@finale
+    \fi
+}
 \makeatother
 
 % chapter heading (provided by package titlesec)
 %\titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
-\titleformat{\chapter}[block]{\hfill\huge}{\thechapter}{0em}{\huge}[]
+\titleformat{\chapter}[block]{\hfill\GRAANDE}{\thechapter}{0em}{\GRANDE}[]
 \titleformat{\section}[block]{\huge \scshape \centering}{\thesection}{0.5em}{}[\vspace{-2.5ex}%
 \rule{\linewidth}{0.3pt}]
 
@@ -78,22 +90,29 @@
 \textit{#3}
 \end{flushright}
 
-\begin{minipage}{\linewidth}
+\begin{wrapfigure}{l}{0.35\textwidth}
+  \vspace{-13pt}
   \textbf{Zutaten:}
 
-  \vspace{7pt}
+  \vspace{10pt}
   \begin{tabularx}{\linewidth}{rl X}
   #4
   \end{tabularx}
-  \vspace{7pt}
-\end{minipage}
+\end{wrapfigure}
 
+\vbox{%
 \textbf{Anleitung:}
 
 \vspace{7pt}
 #5
+}
+
+\WFfill
+\WFclear
+
+\vspace{2cm}
 \end{samepage}
-\vspace{1cm} }
+}
 
 %%%%%%%%%%%%%%%%
 %%% DOCUMENT %%%
@@ -105,7 +124,7 @@
 
 %%% FORMAT %%%
 \pagenumbering{gobble}
-\justify
+\setlength\parindent{0pt}
 
 %%% TITLEPAGE %%%
 \thispagestyle{empty}

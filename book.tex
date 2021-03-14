@@ -20,8 +20,6 @@
 \usepackage{makeidx}
 \makeindex
 % -text
-%\usepackage{mathpazo}
-\usepackage{multicol}
 \usepackage{ragged2e}
 \usepackage[activate, tracking=true, kerning=true]{microtype}
 	\SetTracking{}{500}
@@ -40,10 +38,22 @@
 \graphicspath{{img/}}
 
 \makeatletter
-\newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
 \newcommand\HUGE{\@setfontsize\Huge{40}{50}}
+\newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
 \newcommand\GRANDE{\@setfontsize\Huge{120}{0}}
 \newcommand\GRAANDE{\@setfontsize\Huge{250}{0}}
+\def\WFfill{\par
+    \ifx\parshape\WF@fudgeparshape
+    \nobreak
+    \ifnum\c@WF@wrappedlines>\@ne
+    \advance\c@WF@wrappedlines\m@ne
+    \vskip\c@WF@wrappedlines\baselineskip
+    \global\c@WF@wrappedlines\z@
+    \fi
+    \allowbreak
+    \WF@finale
+    \fi
+}
 \makeatother
 
 % chapter heading (provided by package titlesec)
@@ -64,19 +74,16 @@
 \hspace{15pt}\hrulefill \textls{\huge \textsc{ #1}} \hrulefill
 \vspace{20pt}
 
-\begin{multicols}{2}
-
 \begin{compactitem}
 #2
 \end{compactitem}
-\end{multicols}
 }
 
 %%% Rezept %%%
 %\rezept{Titel}{stretch}{Untertitel}{Zutaten als Tabelle}{Anleitung}
 %old title \hrulefill\textls[#2]\textsc{#1}\hrulefill
 \newcommand{\rezept}[5]{
-%\vbox{%
+\begin{samepage}
 \section*{\huge \textsc{#1}}
 \index{#1}
 
@@ -84,16 +91,15 @@
 \textit{#3}
 \end{flushright}
 
-\begin{multicols}{2}
-\begin{minipage}{.5\linewidth}
+\begin{wrapfigure}{l}{0.35\textwidth}
+  \vspace{-13pt}
   \textbf{\large Zutaten:}
 
-  \vspace{7pt}
+  \vspace{9pt}
   \begin{tabularx}{\linewidth}{rl X}
   #4
   \end{tabularx}
-  \vspace{7pt}
-\end{minipage}
+\end{wrapfigure}
 
 \vbox{%
 \textbf{\large Anleitung:}
@@ -101,19 +107,17 @@
 \vspace{7pt}
 #5
 }
-\end{multicols}
-%}
-\vspace{1cm} }
+
+\WFfill
+\WFclear
+
+\vspace{2cm}
+\end{samepage}
+}
 
 %%%%%%%%%%%%%%%%
 %%% DOCUMENT %%%
 %%%%%%%%%%%%%%%%
-
-
-\makeatletter
-%\let\ftype@table\ftype@figure
-\makeatother
-
 
 \begin{document}
 %% NEW COMMANDS %%
@@ -121,7 +125,6 @@
 
 %%% FORMAT %%%
 \pagenumbering{gobble}
-\justify
 \setlength\parindent{0pt}
 %\setlength{\parskip}{5pt}
 
