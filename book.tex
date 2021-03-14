@@ -76,7 +76,7 @@
 %\rezept{Titel}{stretch}{Untertitel}{Zutaten als Tabelle}{Anleitung}
 %old title \hrulefill\textls[#2]\textsc{#1}\hrulefill
 \newcommand{\rezept}[5]{
-\begin{samepage}
+%\vbox{%
 \section*{\huge \textsc{#1}}
 \index{#1}
 
@@ -85,7 +85,7 @@
 \end{flushright}
 
 \begin{multicols}{2}
-\begin{minipage}{\linewidth}
+\begin{minipage}{.5\linewidth}
   \textbf{\large Zutaten:}
 
   \vspace{7pt}
@@ -95,17 +95,25 @@
   \vspace{7pt}
 \end{minipage}
 
+\vbox{%
 \textbf{\large Anleitung:}
 
 \vspace{7pt}
 #5
+}
 \end{multicols}
-\end{samepage}
+%}
 \vspace{1cm} }
 
 %%%%%%%%%%%%%%%%
 %%% DOCUMENT %%%
 %%%%%%%%%%%%%%%%
+
+
+\makeatletter
+%\let\ftype@table\ftype@figure
+\makeatother
+
 
 \begin{document}
 %% NEW COMMANDS %%
