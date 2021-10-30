@@ -83,6 +83,7 @@
 %old title \hrulefill\textls[#2]\textsc{#1}\hrulefill
 \newcommand{\rezept}[5]{
 \begin{samepage}
+\begin{wrapfigure}{l}{\textwidth}
 \section*{\textsc{#1}}
 \index{#1}
 
@@ -90,7 +91,7 @@
 \textit{#3}
 \end{flushright}
 
-\begin{wrapfigure}{l}{0.35\textwidth}
+\begin{wrapfigure}{l}{0.4\textwidth}
   \vspace{-13pt}
   \textbf{Zutaten:}
 
@@ -106,6 +107,7 @@
 \vspace{7pt}
 #5
 }
+\end{wrapfigure}
 
 \WFfill
 \WFclear
