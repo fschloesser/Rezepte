@@ -1,0 +1,135 @@
+\documentclass[9pt, a4paper, twoside, twocolumn]{book} % set draft / final
+% packages
+% -tex
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{titlesec} % A package providing an inter­face to sectioning commands for selection from various title styles
+\usepackage[margin=2cm]{geometry}
+\geometry{bindingoffset=0cm}
+% -graphics/floats
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{wrapfig}
+\usepackage{framed}
+% -lists and tables
+\usepackage{paralist}
+\usepackage{tabularx}
+% -index
+\usepackage{makeidx}
+\makeindex
+% -text
+\usepackage{ragged2e}
+%\usepackage[activate, tracking=true, kerning=true]{microtype}
+%	\SetTracking{}{500}
+%\usepackage{libertine}
+
+% make table of contents clickable
+\usepackage{hyperref}
+\hypersetup{
+    colorlinks,
+    citecolor=black,
+    filecolor=black,
+    linkcolor=black,
+    urlcolor=black
+}
+% graphicspath
+\graphicspath{{img/}}
+
+\makeatletter
+\newcommand\HUGE{\@setfontsize\Huge{40}{50}}
+\newcommand\HUUGE{\@setfontsize\Huge{90}{110}}
+\newcommand\GRANDE{\@setfontsize\Huge{120}{0}}
+\newcommand\GRAANDE{\@setfontsize\Huge{250}{0}}
+%\def\WFfill{\par
+%    \ifx\parshape\WF@fudgeparshape
+%    \nobreak
+%    \ifnum\c@WF@wrappedlines>\@ne
+%    \advance\c@WF@wrappedlines\m@ne
+%    \vskip\c@WF@wrappedlines\baselineskip
+%    \global\c@WF@wrappedlines\z@
+%    \fi
+%    \allowbreak
+%    \WF@finale
+%    \fi
+%}
+\makeatother
+
+% chapter heading (provided by package titlesec)
+%\titleformat{command}[shape]{format}{label}{sep}{before-code}[after-code]
+\titleformat{\chapter}[block]{\GRAANDE}{}{0em}{\GRANDE\thechapter\quad}[]
+\titleformat{\section}[block]{\huge \scshape \centering}{\thesection}{0.5em}{}[\vspace{-2.5ex}%
+\rule{\linewidth}{0.3pt}]
+
+%\newpagestyle{mystyle}{
+%  \sethead{}{}{}
+%  \setfoot{}{\thepage}{}}
+%\pagestyle{mystyle}
+
+%%% Tips %%%
+%\tips{Titel}{Content}
+\newcommand{\tips}[2]{
+\vspace{30pt}
+\hspace{15pt}\hrulefill {\huge \textsc{#1} } \hrulefill
+\vspace{20pt}
+
+\begin{compactitem}
+#2
+\end{compactitem}
+}
+
+%%% Rezept %%%
+%\rezept{Titel}{stretch}{Untertitel}{Zutaten als Tabelle}{Anleitung}
+\newcommand{\rezept}[5]{
+\section*{\textsc{#1}}
+\index{#1}
+
+\begin{flushright}
+\textit{#3}
+\end{flushright}
+
+\textbf{Zutaten:}
+
+\begin{tabularx}{\linewidth}{rl X}
+#4
+\end{tabularx}
+
+\textbf{Anleitung:}
+
+#5
+}
+
+%%%%%%%%%%%%%%%%
+%%% DOCUMENT %%%
+%%%%%%%%%%%%%%%%
+
+\begin{document}
+%% NEW COMMANDS %%
+\renewcommand{\indexname}{Stichwortverzeichnis}
+
+%%% FORMAT %%%
+\pagenumbering{gobble}
+\setlength\parindent{0pt}
+
+%%% TITLEPAGE %%%
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+  Rezepte
+\vspace{2cm}
+\end{center}
+\vspace{3cm}
+\newpage
+
+\tableofcontents
+
+\cleardoublepage
+\printindex
+
+%%% CONTENT %%%
+\cleardoublepage
+\pagenumbering{arabic}
+
+\input{chapters}
+
+\end{document}
