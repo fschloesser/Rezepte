@@ -1,0 +1,19 @@
+ingredients:
+- amount: '1'
+  ingredient: saure Sahne
+  unit: Becher
+- amount: '1'
+  ingredient: Zwiebel
+  unit: ''
+- amount: '1'
+  ingredient: Knoblauch
+  unit: Zehe
+- amount: ''
+  ingredient: grüne Bohnen
+  unit: ''
+instructions: 'Für die Soße die saure Sahne mit Salz, Pfeffer, Zucker, Essig und geriebenen
+  Knoblauch vermischen.
+
+  Bohnen mit Bohnenkraut und Zwiebeln kochen und warm in die Soße geben.'
+subtitle: a la Mama
+title: Bohnensalat

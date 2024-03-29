@@ -1,0 +1,30 @@
+ingredients:
+- amount: '400'
+  ingredient: Mehl
+  unit: g
+- amount: '1'
+  ingredient: Hefe
+  unit: Päckchen
+- amount: '1'
+  ingredient: Zucker
+  unit: TL
+- amount: '1'
+  ingredient: (warme) Milch
+  unit: Tasse
+- amount: ''
+  ingredient: oder Wasser
+  unit: ''
+- amount: '6'
+  ingredient: Öl
+  unit: EL
+- amount: '1'
+  ingredient: Salz
+  unit: TL
+instructions: 'Alles zusammen mischen und eine halbe Stunde an einem warmen Ort gehen
+  lassen.
+
+  Auf dem Blech ausrollen und mit Obst und Streuseln belegen.
+
+  25 bis 30 Minuten bei 175 Grad Umluft backen.'
+subtitle: ein Blech, für Blechkuchen
+title: Hefeteig

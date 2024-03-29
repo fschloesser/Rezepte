@@ -1,0 +1,16 @@
+ingredients:
+- amount: '1'
+  ingredient: Banane
+  unit: ''
+- amount: '2'
+  ingredient: Eier
+  unit: ''
+- amount: '100'
+  ingredient: Sauerteigstarter
+  unit: g
+- amount: ''
+  ingredient: Wasser
+  unit: ''
+instructions: In einer gebutterten Pfanne ausbacken und genießen.
+subtitle: amerikanisches Rezept
+title: Bananen-Pfannkuchen

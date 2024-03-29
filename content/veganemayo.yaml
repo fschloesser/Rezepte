@@ -1,0 +1,26 @@
+ingredients:
+- amount: '150'
+  ingredient: Öl
+  unit: ml
+- amount: '50'
+  ingredient: Sojamilch
+  unit: ml
+- amount: '1'
+  ingredient: Senf
+  unit: EL
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '1'
+  ingredient: Pfeffer
+  unit: Prise
+- amount: 1/2
+  ingredient: Zitrone
+  unit: ''
+instructions: 'Öl, Sojamilch, Senf und Zitronensaft mit einem Stabmixer
+
+  zu einer cremigen Masse pürieren. Mit Salz und Pfeffer abschmecken.
+
+  Tip: Öl und Sojamilch sollten etwa die gleiche Temperatur haben.'
+subtitle: gehaltvoll
+title: Vegane Mayonnaise

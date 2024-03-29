@@ -1,0 +1,40 @@
+ingredients:
+- amount: 1,5
+  ingredient: Weißkohl
+  unit: kg
+- amount: '450'
+  ingredient: Möhren
+  unit: g
+- amount: '1'
+  ingredient: Zitronen
+  unit: ''
+- amount: '2'
+  ingredient: Salz
+  unit: TL
+- amount: '2'
+  ingredient: Zucker
+  unit: TL
+- amount: '50'
+  ingredient: Milch
+  unit: ml
+- amount: '30'
+  ingredient: Öl
+  unit: ml
+- amount: '50'
+  ingredient: Joghurt
+  unit: g
+- amount: '1'
+  ingredient: Essig
+  unit: TL
+instructions: 'Weißkohl und Möhren in feine Streifen schneiden, zum Beispiel mit einer
+  Mandoline und in einer Schüssel mit Salz und Zucker vermischen.
+
+  Das Kraut kneten bis die gewünschte Konsistenz erreicht ist und sich am Schüsselboden
+  Wasser sammelt, 20 min ziehen lassen.
+
+  Milch mit einem Pürierstab mixen und das Öl in kleinen Portionen nach und nach hinzugeben,
+  Joghurt und Essig dazugeben, pfeffern.
+
+  Zitronen auspressen und mit der Soße über den Salat geben, nochmal ziehen lassen.'
+subtitle: aka Krautsalat
+title: Coleslaw

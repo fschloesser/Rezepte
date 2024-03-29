@@ -1,0 +1,46 @@
+ingredients:
+- amount: '3'
+  ingredient: Bananen
+  unit: reife
+- amount: '80'
+  ingredient: Öl
+  unit: ml
+- amount: '110'
+  ingredient: brauner Zucker
+  unit: g
+- amount: '2'
+  ingredient: Eier
+  unit: ''
+- amount: '200'
+  ingredient: Mehl
+  unit: g
+- amount: '3'
+  ingredient: Backpulver
+  unit: TL
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '1'
+  ingredient: Vanilleschote
+  unit: ''
+- amount: '1'
+  ingredient: Zimt
+  unit: Prise
+instructions: 'Ofen auf 180 Grad Celsius Ober-/Unterhitze vorheizen.
+
+  Kastenform mit Butter einfetten.
+
+  Bananen mit einer Gabel zerdrücken.
+
+  Öl mit Zucker und Eiern verquirlen.
+
+  Mehl, Backpulver, Salz, Zimt und Vanilleschote vermischen und mit der Öl-Eiermasse
+  verrühren.
+
+  Bananen-Püree dazugeben und einrühren.
+
+  Teig in die Form geben und 55 Minuten backen.
+
+  Nach dem Backen vollständig auskühlen lassen und erst dann aus der Form nehmen.'
+subtitle: mit Datteln
+title: Bananenbrot

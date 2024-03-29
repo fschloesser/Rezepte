@@ -1,0 +1,17 @@
+ingredients:
+- amount: '100'
+  ingredient: Mehl
+  unit: g
+- amount: '1'
+  ingredient: Ei
+  unit: ''
+- amount: ''
+  ingredient: Salz
+  unit: ''
+- amount: ''
+  ingredient: Wasser
+  unit: etwas
+instructions: 'Zutaten zu einem zähflüssigen Teig mischen und in gesalzenes, kochendes Wasser schaben.
+  Kochen bis die Spätzle an die Oberfläche schwimmen, heraus nehmen und servieren.'
+subtitle: traditional schwäbisch
+title: Spätzle

@@ -1,0 +1,21 @@
+ingredients:
+- amount: '300'
+  ingredient: 'Zucker, braun'
+  unit: g
+- amount: '400'
+  ingredient: mote
+  unit: g
+- amount: '400'
+  ingredient: Pfirsiche, getrocknet (huesillo)
+  unit: g
+instructions: 'Remojar huesillos en agua durante la noche.
+
+  El dia siguiente:
+
+  Hervir mote en agua por 20 minutos.
+
+  Hervir  huesillos en azúcar con canela en agua por 40 minutos.
+
+  Refrigerar y servir.'
+subtitle: receta tradicional chilena; 3420 kcal
+title: Mote con huesillos

@@ -1,0 +1,22 @@
+ingredients:
+- amount: '5'
+  ingredient: Champignons
+  unit: ''
+- amount: ''
+  ingredient: Petersilie
+  unit: ''
+- amount: '1'
+  ingredient: Zwiebel
+  unit: grosse
+- amount: '2'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: ''
+  ingredient: Salz und Pfeffer
+  unit: ''
+instructions: 'Champignons, Zwiebel und Knoblauch klein schneiden und anbraten bis
+  die gewuenschte Konsistenz erreicht ist.
+
+  Abschmecken, mit der geputzten und geschnittenen Petersilie vermengen und servieren.'
+subtitle: auch als Fuellung
+title: Champignoncreme

@@ -1,0 +1,15 @@
+Milchkefir
+===
+probiotisch und fermentiert
+
+Zutaten:
+---
+-   haltbare Bio-Vollmilch
+-   Kefirknollen
+
+Anleitung:
+---
+Pro 500 ml zimmerwarmer Milch 2 EL Kefirknollen in einem sauberen Glas bei Raumtemperatur ein bis zwei Tage gären lassen.
+Das Glas nicht fest verschließen, da die Gärgase entweichen müssen.
+Durch ein Sieb den Kefir abgießen, die Knollen abspülen und den nächsten Ansatz machen.
+Im Kühlschrank geht die Gärung langsamer, für längere Zeit können die Knollen aufbewahrt werden wenn sie sauber gespült werden, mit Wasser bedeckt und etwas (1 TL pro 100 g) Milchzucker bestreut im Kühlschrank gestellt werden.

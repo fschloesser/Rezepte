@@ -1,0 +1,27 @@
+ingredients:
+- amount: '200'
+  ingredient: Mehl
+  unit: g
+- amount: '100'
+  ingredient: Zucker
+  unit: g
+- amount: '100'
+  ingredient: Butter
+  unit: g
+- amount: '1'
+  ingredient: Vanillezucker
+  unit: Päckchen
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: 2-3
+  ingredient: Pflaumenmuß
+  unit: EL
+instructions: 'Streusel zusammenkneten und am Ende Marmelade hinzufügen, sodass eine
+  feuchte, klebrige Masse entsteht.
+
+  Zu kleinen Kugeln formen und aufs Blech drücken, braucht kein Backpapier.
+
+  15-20 Minuten bei 170 Grad backen, bis die Kekse ein wenig gebräunt sind.'
+subtitle: für 1 Blech
+title: Streuselkekse

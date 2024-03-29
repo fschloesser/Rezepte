@@ -1,0 +1,34 @@
+ingredients:
+- amount: '75'
+  ingredient: Margarine
+  unit: g
+- amount: '50'
+  ingredient: Puderzucker
+  unit: g
+- amount: '50'
+  ingredient: Mehl
+  unit: g
+- amount: '175'
+  ingredient: Speisestärke
+  unit: g
+- amount: 1/2
+  ingredient: Backpulver
+  unit: TL
+- amount: '1'
+  ingredient: Ei
+  unit: ''
+instructions: 'Margarine mit Puderzucker verrühren.
+
+  Das Ei hinzufügen und verrühren.
+
+  Mehl, Speisestärke, Backpulver dazu mischen, im Kühlschrank ruhen lassen.
+
+  Ausrollen und ausstechen.
+
+  10-12 Minuten bei 160-180 Grad backen.
+
+  Mit Marmelade/Manjar/Schokolade zu Doppelkeksen zusammenkleben.
+
+  Tip: Etwas Mehl kann durch Backakao ersetzt werden.'
+subtitle: für etwa 20
+title: Alfajores

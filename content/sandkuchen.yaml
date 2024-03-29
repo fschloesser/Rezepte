@@ -1,0 +1,47 @@
+ingredients:
+- amount: '4'
+  ingredient: Äpfel
+  unit: ''
+- amount: '150'
+  ingredient: Butter, Raumtemperatur
+  unit: g
+- amount: '150'
+  ingredient: Zucker
+  unit: g
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '2'
+  ingredient: Eier
+  unit: ''
+- amount: '1'
+  ingredient: Puddingpulver
+  unit: Päckchen
+- amount: '250'
+  ingredient: Mehl
+  unit: g
+- amount: '3'
+  ingredient: Backpulver
+  unit: TL
+- amount: '5'
+  ingredient: Milch
+  unit: EL
+- amount: 1/2
+  ingredient: Streusel
+  unit: Portion
+instructions: 'nächster Versuch: Weniger Mehl. Mit Rosinen oder Mandelsplittern. Am
+  Schluss mit Sirup bestreichen.
+
+  Die Äpfel schälen und in Stücke schneiden.
+
+  Butter, Zucker, Salz mit dem Handmixer schaumig schlagen, dann die Eier unterrühren.
+
+  Mehl, Puddingpulver, Backpulver vermischen und unterrühren, dann die Apfelstücke
+  unterheben.
+
+  Nach Belieben mit Streuseln bestreuen.
+
+  Eine Backform fetten, mehlen und den Teig hineingeben, bei etwa 175 Grad Celsius
+  Ober-/Unterhitze circa 45 Minuten backen.'
+subtitle: Zum Beispiel mit Apfel
+title: Sandkuchen

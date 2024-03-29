@@ -1,0 +1,55 @@
+ingredients:
+- amount: '4'
+  ingredient: Bananen
+  unit: ''
+- amount: '2'
+  ingredient: Mehl
+  unit: Tassen
+- amount: '1'
+  ingredient: Backpulver
+  unit: TL
+- amount: 1/2
+  ingredient: Natron
+  unit: TL
+- amount: 1/2
+  ingredient: Salz
+  unit: TL
+- amount: '1'
+  ingredient: Zimt
+  unit: TL
+- amount: '125'
+  ingredient: Butter
+  unit: g
+- amount: 1/2
+  ingredient: Zucker
+  unit: Tasse
+- amount: 1/2
+  ingredient: brauner Zucker
+  unit: Tasse
+- amount: '2'
+  ingredient: Eier
+  unit: große
+- amount: '1'
+  ingredient: Vanillezucker
+  unit: Päckchen
+- amount: 1 1/2
+  ingredient: Datteln
+  unit: Tassen
+instructions: 'Den Ofen auf 170 C vorheizen und eine Backform buttern und Mehlen.
+
+  In einer Schüssel Mehl, Backpulver, Natron, Salz, Zimt vermischen.
+
+  In einer großen Schüssel die Butter und den Zucker cremig rühren.
+
+  Die Eier hinzugeben und unterrühren.
+
+  Die Bananen zerdrücken und unterrühren.
+
+  Nun nach und nach die Mehlmischung dazu geben und verrühren, aber nicht zu viel.
+
+  Nach Belieben Datteln, Rosinen, Schokostücke oder Nüsse unterheben.
+
+  Je nach Backform 50 bis 70 Minuten bei 170 Grad Celsius backen oder bis nichts mehr
+  am Holzspies kleben bleibt.'
+subtitle: mit Datteln
+title: Bananabread mit Datteln

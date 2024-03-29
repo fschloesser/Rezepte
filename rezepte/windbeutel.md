@@ -1,0 +1,28 @@
+Windbeutel
+===
+Profiteroles
+
+Zutaten:
+---
+- 250 ml Wasser
+- 115 g Butter
+- 3 g Salz (1/2 TL)
+- 7 g Zucker
+- 125 g Mehl
+- 4  Eier
+
+Anleitung:
+---
+Das Wasser in einem Topf auf mittlerer Hitze geben.
+Die Butter würfeln und im Wasser schmelzen.
+Zucker, Salz und Mehl mit einem Holzlöffel untermischen und den Teig konstant rühren bis sich auf dem Boden des Topfes ein Film bildet.
+Zwei bis drei Minuten kochen.
+Von der heißen Platte nehmen und drei Minuten auskühlen lassen, dann die Eier nacheinander einzeln dazu geben und verrühren.
+Der Teig sollte glatt und nicht klebrig sein und eine Spitze halten können.
+Mit einem Sprizbeutel in etwa 3.5 bis 4 cm große Kreise spritzen.
+Den Finger in Wasser anfeuchten und die Spitzen herunter drücken, sodass sie nicht verbrennen.
+Optional mit Eigelb bestreichen.
+Bei 190 Grad Ober-Unterhitze etwa 25 - 30 Minuten backen.
+Wichtig: dabei den Ofen nicht öffnen, sie fallen sonst zusammen.
+Kann mit etwa 700 ml Crema pastelera gefüllt werden oder mit geschlagener Sahne, vielleicht auch mit Käsesoße.
+Füllung entweder von unten hineinspritzen oder aufschneiden und füllen.

@@ -1,0 +1,33 @@
+ingredients:
+- amount: '1'
+  ingredient: Honig
+  unit: EL
+- amount: '1'
+  ingredient: Senf
+  unit: EL
+- amount: 2-3
+  ingredient: Balsamicoessig
+  unit: EL
+- amount: '10'
+  ingredient: Olivenöl
+  unit: EL
+- amount: ''
+  ingredient: Sonnenblumenöl
+  unit: ''
+- amount: ''
+  ingredient: Salz
+  unit: ''
+- amount: ''
+  ingredient: Pfeffer
+  unit: ''
+instructions: 'Erst Salz, Pfeffer, Essig, Honig und Senf glatt rühren, dann mit dem
+  Olivenöl verrühren.
+
+  Zum Schluss mit dem Mixstab pürieren und das geschmacksneutrale Öl hinzugeben bis
+  die gewünschte Konsistenz erreicht ist.
+
+  Tipp: Man kann daraus auch ein Joghurtdressing machen.
+
+  Dazu tausche man den Balsamicoessig und die Öle durch einen Becher Joghurt aus.'
+subtitle: Klassiker
+title: Honig-Senf-Vinegraitte

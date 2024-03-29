@@ -1,0 +1,28 @@
+ingredients:
+- amount: '2'
+  ingredient: Limetten
+  unit: ''
+- amount: '1'
+  ingredient: Reisessig
+  unit: TL
+- amount: '1'
+  ingredient: Ingwer
+  unit: cm
+- amount: '1'
+  ingredient: Sesam
+  unit: TL
+- amount: '1'
+  ingredient: Sojasauce
+  unit: TL
+- amount: '1'
+  ingredient: geroestetes Sesamoel
+  unit: TL
+- amount: '1'
+  ingredient: Agavendicksaft
+  unit: TL
+- amount: '0.5'
+  ingredient: Chiliflocken
+  unit: TL
+instructions: Limetten auspressen und mit den restlichen Zutaten vermischen, fertig.
+subtitle: zum Beispiel zu Sommerrollen
+title: Soja Limetten Dip

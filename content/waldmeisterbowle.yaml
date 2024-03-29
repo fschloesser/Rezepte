@@ -1,0 +1,24 @@
+ingredients:
+- amount: '200'
+  ingredient: Erdbeeren
+  unit: g
+- amount: '6'
+  ingredient: Waldmeister
+  unit: Zweige
+- amount: '2'
+  ingredient: Zucker
+  unit: EL
+- amount: '1'
+  ingredient: Rosewein
+  unit: l
+- amount: 0,7
+  ingredient: Sekt (trocken)
+  unit: l
+instructions: 'Erdbeeren waschen, schneiden, mit Waldmeister zusammen in eine Bowle
+  geben und mit dem Zucker bestreuen.
+
+  Wein dazu geben und 30 Minuten im Kuehlschrank ziehen lassen.
+
+  Vor dem Servieren den Waldmeister entfernen und mit Sekt aufgiessen.'
+subtitle: Klassiker
+title: Waldmeisterbowle

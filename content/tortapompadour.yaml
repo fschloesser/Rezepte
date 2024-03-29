@@ -1,0 +1,37 @@
+ingredients:
+- amount: '360'
+  ingredient: Butter
+  unit: g
+- amount: '360'
+  ingredient: Puderzucker
+  unit: g
+- amount: '260'
+  ingredient: Mandel oder Kokos
+  unit: g
+- amount: '2'
+  ingredient: Milch
+  unit: Tassen
+- amount: '5'
+  ingredient: Eigelb
+  unit: ''
+- amount: '3'
+  ingredient: Gelatine
+  unit: Blatt
+- amount: '4'
+  ingredient: Vanillezucker
+  unit: Päckchen
+- amount: ''
+  ingredient: Katzenzungen
+  unit: Pakete
+instructions: 'Die Butter mit dem Zucker schaumig schlagen.
+
+  Crema Pastelera aus Milch, Zucker, Vanille, Gelatine und Kokos machen und dazu geben.
+
+  Für die Torte in einer Springform die Kekse auf dem Boden und an den Rändern auslegen.
+
+  Abwechselnd Creme und Kekse in Schichten auslegen bis die Form voll ist.
+
+  Mit Merengue bedecken und im Ofen mit voller Hitze eine Minute den Eischnee an den
+  Spitzen karamellisieren.'
+subtitle: 7000 cals
+title: Torta Pompadour

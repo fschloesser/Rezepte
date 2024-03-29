@@ -1,0 +1,41 @@
+ingredients:
+- amount: '300'
+  ingredient: Karotten
+  unit: g
+- amount: '200'
+  ingredient: Apfel
+  unit: g
+- amount: '150'
+  ingredient: Wasser
+  unit: g
+- amount: '10'
+  ingredient: Kokosöl
+  unit: EL
+- amount: '300'
+  ingredient: Zucker
+  unit: g
+- amount: '400'
+  ingredient: geriebene Nüsse
+  unit: g
+- amount: '300'
+  ingredient: Mehl
+  unit: g
+- amount: '2'
+  ingredient: Backkakao
+  unit: EL
+- amount: '1'
+  ingredient: Backpulver
+  unit: Pkg
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+instructions: 'Karotten und Apfel reiben und mit dem Wasser vermischen.
+
+  Kokosöl und Zucker vermischen und zu der Apfel-Karotten-Mischung geben.
+
+  Die restlichen Zutaten mischen und darunterheben.
+
+  Bei 180 Grad Ober- Unterhitze etwa 20-40 Minuten backen (Kuchen braucht länger als
+  Muffins.)'
+subtitle: 24 Muffins a 240 kcal
+title: Vegane Apfel Karotte Nuss Muffins

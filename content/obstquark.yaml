@@ -1,0 +1,19 @@
+ingredients:
+- amount: ''
+  ingredient: Obst/Beeren
+  unit: ''
+- amount: '250'
+  ingredient: Quark
+  unit: g
+- amount: '125'
+  ingredient: Joghurt
+  unit: g
+- amount: ''
+  ingredient: Zucker
+  unit: ''
+- amount: ''
+  ingredient: Zitrone
+  unit: ''
+instructions: Alles zusammenmischen, zum Schluss Obst oder Beeren hinzugeben.
+subtitle: a la Mama
+title: Obstquark

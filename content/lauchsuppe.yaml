@@ -1,0 +1,38 @@
+ingredients:
+- amount: '1'
+  ingredient: Lauch
+  unit: Stange
+- amount: '4'
+  ingredient: Kartoffeln
+  unit: kleine
+- amount: '3'
+  ingredient: Zwiebeln
+  unit: ''
+- amount: '3'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: '2'
+  ingredient: Wasser
+  unit: Tassen
+- amount: '1'
+  ingredient: Brühwürfel
+  unit: ''
+- amount: '250'
+  ingredient: Hafercreme
+  unit: ml
+- amount: '2'
+  ingredient: Salz
+  unit: Prisen
+instructions: 'Das Lauch, Zwiebeln und Knoblauch schneiden und in einem Topf anbraten,
+  kleingeschnittene Kartoffeln dazu geben.
+
+  Bevor alles anbrennt mit Wasser ablöschen und den Brühwürfel dazu geben, die Hafercreme
+  untermischen.
+
+  Alles köcheln lassen bis die Kartoffeln weich sind.
+
+  Mit einem Kartoffelstampfer die großen Stücke nach Belieben zerdrücken.
+
+  Servieren.'
+subtitle: potentially vegan, 2-3 Portions
+title: Lauchsuppe

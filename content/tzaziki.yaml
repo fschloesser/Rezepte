@@ -1,0 +1,30 @@
+ingredients:
+- amount: '1'
+  ingredient: Zitrone
+  unit: ''
+- amount: '2'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: '1'
+  ingredient: Mayonaise
+  unit: Becher
+- amount: '2'
+  ingredient: Joghurt
+  unit: Becher
+- amount: '1'
+  ingredient: Dill
+  unit: Bund
+- amount: ''
+  ingredient: Salz und Pfeffer
+  unit: ''
+- amount: 1/2
+  ingredient: Gurke
+  unit: ''
+instructions: 'Die Zitrone auspressen und den kleingeschnittenen Knoblauch darin 5
+  bis 10 Minuten einlegen.
+
+  Majonaise und Joghurt mischen, den kleingeschnittenen Dill, Knoblauch, Zitronensaft
+  und die geriebene oder sehr fein geschnittene Gurke untermischen und mit Salz und
+  Pfeffer abschmecken.'
+subtitle: geht auch vegan
+title: Tzaziki

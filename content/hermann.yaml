@@ -1,0 +1,40 @@
+ingredients:
+- amount: '200'
+  ingredient: Portion Hermann-Teig von Tag 10
+  unit: g
+- amount: '200'
+  ingredient: Weizenmehl
+  unit: g
+- amount: '100'
+  ingredient: Zucker
+  unit: g
+- amount: '200'
+  ingredient: Milch
+  unit: ml
+- amount: '100'
+  ingredient: Öl
+  unit: ml
+- amount: '3'
+  ingredient: Eier
+  unit: ''
+- amount: '1'
+  ingredient: Vanillezucker
+  unit: Päckchen
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '2'
+  ingredient: Backpulver
+  unit: TL
+- amount: '100'
+  ingredient: 'optional: geriebene oder gehackte Nüsse, Mandeln, Rosinen oder Schokostreusel'
+  unit: g
+instructions: 'Alle Zutaten zu einem glatten Teig verrühren.
+
+  In eine gefettete, bemehlte Kastenform oder Gugelhupfform füllen.
+
+  Im vorgeheizten Backofen bei 180 °C (Umluft 160 °C) circa 45 bis 55 Minuten backen.
+
+  Zum Ende der Backzeit eine Stäbchenprobe machen.'
+subtitle: Kuchen - 3000 kcal
+title: Hermann

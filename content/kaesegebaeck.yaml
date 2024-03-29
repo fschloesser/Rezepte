@@ -1,0 +1,41 @@
+ingredients:
+- amount: '300'
+  ingredient: Dinkelmehl
+  unit: g
+- amount: '1'
+  ingredient: Backpulver
+  unit: TL
+- amount: '80'
+  ingredient: Butter
+  unit: g
+- amount: '1'
+  ingredient: Ei
+  unit: ''
+- amount: '2'
+  ingredient: geriebener Kaese
+  unit: EL
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '150'
+  ingredient: Milch
+  unit: ml
+- amount: ''
+  ingredient: Sesam, Kuemmel etc
+  unit: ''
+instructions: 'Mehl und Backpulver mischen.
+
+  Den Kaese, die Butter in Wuerfeln, das Ei, die Milch und das Salz dazu geben und
+  vermengen.
+
+  Zu einem geschmeidigen Teig kneten und 30 Minuten im Kuehlschrank ruhen lassen.
+
+  Duenn ausrollen, Formen ausstechen und auf ein mit Backpapier ausgelegtes Backblech
+  legen.
+
+  Mit Eigelb bestreichen und mit Salz und Sesam, Kuemmel, Chili etc nach Belieben
+  bestreuen.
+
+  Bei 200 Grad Ober- und Unterhitze etwa 12 Minuten backen.'
+subtitle: einfach und herzhaft
+title: Kaesegebaeck

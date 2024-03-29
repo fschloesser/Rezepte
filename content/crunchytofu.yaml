@@ -1,0 +1,34 @@
+ingredients:
+- amount: '1'
+  ingredient: Erdnussbutter
+  unit: EL
+- amount: '1'
+  ingredient: Sojasausse
+  unit: EL
+- amount: '1'
+  ingredient: Zitronensaft
+  unit: EL
+- amount: '1'
+  ingredient: Ahornsirup
+  unit: TL
+- amount: '1'
+  ingredient: Srirachasausse
+  unit: TL
+- amount: '1'
+  ingredient: Chili Oel
+  unit: TL
+- amount: '1'
+  ingredient: Knoblauchpulver
+  unit: TL
+- amount: '1'
+  ingredient: Tofu
+  unit: Block
+instructions: 'Die Marinade mit etwas Wasser in einer Schale mischen.
+
+  Das Wasser aus dem Tofu pressen, in die Schale kruemeln und vermischen.
+
+  Auf einem geoelten Blech ausbreiten und salzen.
+
+  Etwa 40 Minuten bei 230 C backen, nach der Haelfte die Tofustuecke einmal wenden.'
+subtitle: a la Kylie
+title: crunchy Tofu

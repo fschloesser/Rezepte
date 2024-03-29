@@ -1,0 +1,22 @@
+ingredients:
+- amount: '250'
+  ingredient: Butter
+  unit: g
+- amount: '2'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: '1'
+  ingredient: gemischte Kraeuter
+  unit: Bund
+- amount: ''
+  ingredient: Salz
+  unit: ''
+instructions: 'Butter auf kleinster Flamme aufwaermen und schaumig ruehren.
+
+  Knoblauch fein hacken und auf Salz zerdruecken.
+
+  Kraeuter und Knoblauch mit der Butter vermengen und nach Belieben salzen.
+
+  Kalt stellen.'
+subtitle: klassisch
+title: Kraeuterbutter

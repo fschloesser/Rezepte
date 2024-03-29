@@ -1,0 +1,33 @@
+ingredients:
+- amount: '3'
+  ingredient: Eier
+  unit: grosse
+- amount: '1'
+  ingredient: Bruehe
+  unit: Tasse
+- amount: '1'
+  ingredient: Salz
+  unit: TL
+- amount: '2'
+  ingredient: Fruehlingszwiebeln
+  unit: TL
+- amount: '1'
+  ingredient: Sojasausse
+  unit: TL
+- amount: '1'
+  ingredient: Sesamoel
+  unit: TL
+- amount: 1/2
+  ingredient: Sesam
+  unit: TL
+instructions: 'Die Eier mit der Bruehe, der Sojasausse und den Salz gut schlagen.
+
+  Eine Schuessel oelen und die Fruehlingszwiebeln und den den Eiermix hinein fuellen.
+
+  Die Schuesseln mit einem Deckel, Alufolie oder kleinen Teller bedecken und in einem
+  etwa 90 Grad Celsius Wasserbad fuer 15 bis 20 Minuten garen.
+
+  Koennen auch auf einem Gitter in einem Schnellkochtopf fuer 10 Minuten bei wenig
+  Hitze und wenig Druck gedaempft werden.'
+subtitle: koreanisch, japanisch
+title: gedaempfte Eier

@@ -1,0 +1,28 @@
+ingredients:
+- amount: '500'
+  ingredient: Mehl
+  unit: g
+- amount: '1'
+  ingredient: Salz
+  unit: TL
+- amount: '6'
+  ingredient: Öl
+  unit: EL
+- amount: '1'
+  ingredient: Hefe
+  unit: Päckchen
+- amount: '300'
+  ingredient: Wasser
+  unit: ml
+instructions: 'Mehl, Salz und Öl vermischen.
+
+  1 Würfel Hefe in die Mitte bröseln.
+
+  Wasser dazugeben und durchkneten bis der Teig sich vom Rand löst.
+
+  Tuch drüberlegen und ruhen lassen.
+
+  Teig ausrollen, belegen und bei 200 Grad Celsius etwa 30 Minuten backen oder bis
+  der Rand die gewünschte Farbe erreicht hat.'
+subtitle: Einfach
+title: Pizza-Öl-Teig

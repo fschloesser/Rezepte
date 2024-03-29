@@ -1,0 +1,25 @@
+ingredients:
+- amount: '3'
+  ingredient: Eier
+  unit: ''
+- amount: '200'
+  ingredient: Mehl
+  unit: g
+- amount: '200'
+  ingredient: Milch
+  unit: ml
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '1'
+  ingredient: Zucker
+  unit: Prise
+instructions: 'Zutaten zu einemehr flüssigen Teig zusammen mischen und eine Stunde
+  ziehen lassen.
+
+  Pfannkuchen in einer gefetteten Pfanne bei mittlerer Hitze (4-5/9) und mit Deckel
+  ausbacken.
+
+  Nach Belieben mit Obst oder Gemüse belegen, ein halber Apfel pro Pfannkuchen.'
+subtitle: Reicht für 6 große
+title: Mamas Pfannkuchen

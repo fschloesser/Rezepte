@@ -1,0 +1,33 @@
+ingredients:
+- amount: '250'
+  ingredient: Milch
+  unit: ml
+- amount: '3'
+  ingredient: Eigelb
+  unit: ''
+- amount: '2'
+  ingredient: Maisstärke
+  unit: EL
+- amount: '3'
+  ingredient: Zucker
+  unit: EL
+- amount: '2'
+  ingredient: Butter
+  unit: EL
+- amount: ''
+  ingredient: Vanille
+  unit: ''
+instructions: 'Die Milch mit ein wenig des Zuckers erhitzen.
+
+  In einer Schüssel Eigelb, Stärke, Zucker und Vanille vermischen.
+
+  Zum temperieren etwa die Hälfte der Milch dazugeben und mit einem Schneebesen schlagen.
+
+  Alles zurück zu der restlichen Milch in den Topf geben, aufkochen und durchgängig
+  schlagen bis die Creme andickt.
+
+  Durch ein Sieb in eine Schüssel geben und mit der Butter verrühren.
+
+  Abgedeckt auskühlen und ruhen lassen.'
+subtitle: ~925 kcal
+title: Crema pastelera

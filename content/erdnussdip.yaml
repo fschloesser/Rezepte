@@ -1,0 +1,19 @@
+ingredients:
+- amount: '2'
+  ingredient: Erdnussbutter
+  unit: EL
+- amount: '5'
+  ingredient: Wasser
+  unit: EL
+- amount: '1'
+  ingredient: Agavendicksaft
+  unit: TL
+- amount: '2'
+  ingredient: Sojasauce
+  unit: TL
+- amount: '2'
+  ingredient: Limettensaft
+  unit: TL
+instructions: Verruehren, abschmecken, fertig.
+subtitle: zum Beispiel zu Sommerrollen
+title: Erdnussdip

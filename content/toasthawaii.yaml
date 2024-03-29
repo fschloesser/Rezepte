@@ -1,0 +1,27 @@
+ingredients:
+- amount: ''
+  ingredient: Toastbrot
+  unit: ''
+- amount: ''
+  ingredient: Butter
+  unit: ''
+- amount: ''
+  ingredient: Kochschinken
+  unit: ''
+- amount: ''
+  ingredient: eingelegte Ananasscheiben
+  unit: ''
+- amount: ''
+  ingredient: Gouda
+  unit: ''
+- amount: ''
+  ingredient: Preiselbeermarmelade
+  unit: ''
+instructions: 'Toast duenn mit Butter bestreichen.
+
+  Lege nun auf jedes Toast je eine Scheibe Kochschinken, einen Ring Ananas, eine Scheibe
+  Gouda und backe sie im Ofen bei 180 Grad Ober-/Unterhitze fuer 8 Minuten.
+
+  Vor dem Servieren das Loch in der Mitte mit Preiselbeermarmelade fuellen.'
+subtitle: Klassiker
+title: Toast Hawaii

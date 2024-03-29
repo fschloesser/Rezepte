@@ -1,0 +1,47 @@
+ingredients:
+- amount: '1'
+  ingredient: Gemüsezwiebeln
+  unit: kg
+- amount: '1'
+  ingredient: Knoblauchzehe
+  unit: dicke
+- amount: 1,7
+  ingredient: Brühe nach Eurer Wahl
+  unit: L
+- amount: '150'
+  ingredient: Weißwein
+  unit: ml
+- amount: '1'
+  ingredient: Honig
+  unit: EL
+- amount: '2'
+  ingredient: mildes Paparikapulver
+  unit: EL
+- amount: '1'
+  ingredient: Fenchelsamen
+  unit: EL
+- amount: '1'
+  ingredient: Thymian
+  unit: EL
+- amount: '1'
+  ingredient: Oregano
+  unit: EL
+- amount: ''
+  ingredient: Salz und Pfeffer
+  unit: ''
+- amount: ''
+  ingredient: Olivenöl
+  unit: ''
+instructions: 'Die Zwiebeln und den Knoblauch in Ringe schneiden und bei hoher Hitze
+  in zwei EL Olivenöl anschwitzen.
+
+  Paprikapulver hinzugeben und kurz anschwitzen, mit dem Wein und der Brüe ablöschen.
+
+  Die restlichen Gewürze hinzugeben.
+
+  Wenn die Zwiebeln verkocht sind die Suppe in Schälchen geben und mit Croutons und
+  Käse bestreuen.
+
+  Im Ofen übergrillen und servieren.'
+subtitle: klassisch
+title: Zwiebelsuppe

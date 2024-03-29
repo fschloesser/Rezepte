@@ -1,0 +1,32 @@
+ingredients:
+- amount: '200'
+  ingredient: Marzipanrohmasse
+  unit: g
+- amount: '100'
+  ingredient: gemahlene Mandeln
+  unit: g
+- amount: '2'
+  ingredient: Zitronensaft
+  unit: TL
+- amount: '2'
+  ingredient: Eiweiß
+  unit: ''
+- amount: '100'
+  ingredient: Puderzucker
+  unit: g
+- amount: '100'
+  ingredient: gehobelte Mandeln
+  unit: g
+- amount: '100'
+  ingredient: Schokoglasur
+  unit: g
+instructions: 'Marzipan, gemahlene Mandeln, Zitronensaft, Eiweiß und Puderzucker zu
+  einem Teig mischen und Hörnchen formen.
+
+  Diese mit Wasser bestreichen und in den gehobelten Mandeln wälzen.
+
+  Bei 175 Grad Celsius mit Umluft etwa 18 Minuten backen.
+
+  Die Enden der abgekühlten Hörnchen in Schokoglasur tauchen.'
+subtitle: Ein Weihnachtsklassiker
+title: Mandelhörnchen

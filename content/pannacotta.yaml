@@ -1,0 +1,26 @@
+ingredients:
+- amount: '500'
+  ingredient: Milch oder Schlagsahne
+  unit: ml
+- amount: '25'
+  ingredient: Zucker
+  unit: g
+- amount: '1'
+  ingredient: Gelatine
+  unit: Blatt
+- amount: ''
+  ingredient: Rum oder Vanille
+  unit: ''
+instructions: 'Die Gelatine in kaltem Wasser einweichen.
+
+  Die Milch mit Vanille und Zucker aufkochen und vom Feuer nehmen.
+
+  Die aufgeweichte Gelatine einrühren und durch ein Sieb geben.
+
+  (Vorsicht: Gelatine darf nicht gekocht werden!)
+
+  In Formen füllen und über Nacht im Kühlschrank ruhen lassen.
+
+  Zum Servieren die Formen 5 Sekunden in warmes Wasser tauchen.'
+subtitle: ''
+title: Panna cotta

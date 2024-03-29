@@ -1,0 +1,39 @@
+ingredients:
+- amount: 2-3
+  ingredient: Eier
+  unit: ''
+- amount: '2'
+  ingredient: Tomaten
+  unit: ''
+- amount: '1'
+  ingredient: Zwiebel
+  unit: ''
+- amount: '6'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: '150'
+  ingredient: Milch
+  unit: ml
+- amount: '100'
+  ingredient: Schafskäse
+  unit: g
+- amount: '1'
+  ingredient: Zucchini
+  unit: ''
+- amount: '6'
+  ingredient: Karotten
+  unit: ''
+instructions: 'Mürbeteig mit Ei vorbereiten und kalt stellen wie oben beschrieben.
+
+  Gemüse reiben und mit Zwiebeln, Knoblauch in Olivenöl andünsten, Form fetten.
+
+  Eier und Milch mit Salz, Pfeffer und Kräutern vermischen.
+
+  Teig dünn ausrollen und in die Form drücken, mit dem Gemüse belegen und die Eiermischung
+  darüber gießen.
+
+  Den Schafskäse darüber krümeln.
+
+  Bei 200 Grad etwa 30 bis 40 Minuten backen.'
+subtitle: für 16 Muffins, 6 kleine Tartes oder eine große
+title: Quiche

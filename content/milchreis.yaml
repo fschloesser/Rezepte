@@ -1,0 +1,20 @@
+ingredients:
+- amount: '75'
+  ingredient: Milchreis
+  unit: g
+- amount: '400'
+  ingredient: Milch
+  unit: ml
+- amount: '1'
+  ingredient: Vanillezucker
+  unit: Pkg
+- amount: '100'
+  ingredient: Kirschen aus dem Glas
+  unit: g
+instructions: 'Die Zutaten in einen Topf geben und unter ständigem Rühren aufkochen,
+  dabei aufpassen, dass nichts am Boden anbrennt.
+
+  Wenn der Reis die gewünschte Konsistenz erreicht hat in eine Schüssel geben und
+  mit den Kirschen servieren.'
+subtitle: a la mama, 1 Portion
+title: Milchreis

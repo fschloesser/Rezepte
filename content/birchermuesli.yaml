@@ -1,0 +1,27 @@
+ingredients:
+- amount: '300'
+  ingredient: Joghurt
+  unit: g
+- amount: '1'
+  ingredient: Banane
+  unit: ''
+- amount: '70'
+  ingredient: Quark
+  unit: g
+- amount: '100'
+  ingredient: Milch
+  unit: ml
+- amount: '100'
+  ingredient: Früchtemüsli
+  unit: g
+- amount: '70'
+  ingredient: Zucker
+  unit: g
+- amount: '70'
+  ingredient: gefrorene Beeren
+  unit: g
+instructions: 'Banane zerdrücken und Müsli zerkleinern.
+
+  Alles vermischen und über Nacht ziehen lassen.'
+subtitle: ''
+title: Bircher-Müsli

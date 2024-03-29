@@ -1,0 +1,25 @@
+ingredients:
+- amount: '10'
+  ingredient: Reispapier
+  unit: Stueck
+- amount: ''
+  ingredient: Obst und Gemuese
+  unit: ''
+- amount: ''
+  ingredient: Koriander
+  unit: ''
+- amount: ''
+  ingredient: Tofu
+  unit: ''
+- amount: ''
+  ingredient: Reisnudeln oder Reis
+  unit: ''
+instructions: 'Obst, Gemuese und Tofu in Streifen schneiden, evtl marinieren und oder
+  anbraten.
+
+  Reis oder Nudeln kochen.
+
+  Reispapier kurz einweichen und auf ein Holzbrett legen, Fuellung darauf legen und
+  einrollen.'
+subtitle: vegan
+title: Sommerrollen

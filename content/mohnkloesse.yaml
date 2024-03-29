@@ -1,0 +1,28 @@
+ingredients:
+- amount: '250'
+  ingredient: Mohn
+  unit: g
+- amount: '5'
+  ingredient: Zucker
+  unit: EL
+- amount: '50'
+  ingredient: Mandeln
+  unit: g
+- amount: '50'
+  ingredient: Rosinen
+  unit: g
+- amount: '5'
+  ingredient: Rum
+  unit: EL
+- amount: '1'
+  ingredient: Zimt
+  unit: TL
+- amount: 1/2
+  ingredient: Milch
+  unit: Liter
+- amount: ''
+  ingredient: Broetchen oder Zwieback
+  unit: ''
+instructions: ''
+subtitle: traditionell
+title: Mohnkloesse

@@ -1,0 +1,50 @@
+ingredients:
+- amount: '15'
+  ingredient: Rosinen
+  unit: g
+- amount: '1'
+  ingredient: Rum
+  unit: EL
+- amount: '2'
+  ingredient: getrennt
+  unit: Eier
+- amount: '15'
+  ingredient: Zucker
+  unit: g
+- amount: 1/2
+  ingredient: Salz
+  unit: Prise
+- amount: 1/2
+  ingredient: Vanillezucker
+  unit: Päckchen
+- amount: '180'
+  ingredient: Milch
+  unit: ml
+- amount: '65'
+  ingredient: Mehl
+  unit: g
+- amount: '20'
+  ingredient: Butter
+  unit: g
+- amount: ''
+  ingredient: Puderzucker
+  unit: ''
+instructions: 'Rosinen 30 Minuten mit Rum in einer Schüssel einweichen.
+
+  Eigelb, Zucker, Salz und Vanillezucker in einer Schüssel schaumig rühren, bis die
+  Masse hellgelb cremig ist.
+
+  Erst die Milch und dann nach und nach das Mehl unterrühren, dann die Rosinen zugeben.
+
+  Eiweiß sehr steif schlagen und vorsichtig unter den Teig heben.
+
+  Butter in einer Pfanne erhitzen, Teig einfüllen und bei kleiner Hitze braten, bis
+  die Unterseite leicht gebräunt ist.
+
+  Dabei immer wieder wenden, bis alles leicht angebraten ist und zerreißen.
+
+  Anrichten und mit Puderzucker bestreuen.
+
+  Als Beilage Zwetschgen- oder Apfelkompott dazu servieren.'
+subtitle: eine Portion
+title: Kaiserschmarrn

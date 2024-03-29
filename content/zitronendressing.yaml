@@ -1,0 +1,13 @@
+ingredients:
+- amount: '1'
+  ingredient: saure Sahne
+  unit: Becher
+- amount: '1'
+  ingredient: Zitrone
+  unit: ''
+- amount: ''
+  ingredient: Zucker
+  unit: ''
+instructions: Alles zusammen kippen und nach Geschmack süßen.
+subtitle: für Süßes
+title: Zitronendessing

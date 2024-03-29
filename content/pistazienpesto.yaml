@@ -1,0 +1,29 @@
+ingredients:
+- amount: '1'
+  ingredient: Knoblauch
+  unit: Zehe
+- amount: '3'
+  ingredient: Basilikum
+  unit: EL
+- amount: '4'
+  ingredient: Pistazienkerne ungesalzen
+  unit: EL
+- amount: '5'
+  ingredient: Mayonnaise
+  unit: EL
+- amount: '2'
+  ingredient: Weißweinessig
+  unit: TL
+- amount: 1/2
+  ingredient: grobes Meersalz
+  unit: TL
+- amount: 1/4
+  ingredient: Pfeffer
+  unit: TL
+instructions: 'Den Knoblauch zerkleinern.
+
+  Basilikum und Pistazien hinzufügen und alles fein hacken.
+
+  Die Mischung in eine große Schüssel geben und mit den übrigen Zutaten vermischen.'
+subtitle: zum Beispiel zum Grillkartoffelsalat
+title: Pistazienpesto

@@ -1,0 +1,51 @@
+ingredients:
+- amount: '80'
+  ingredient: Hefe
+  unit: g
+- amount: '1'
+  ingredient: Mehl
+  unit: kg
+- amount: 1 1/2
+  ingredient: Milch
+  unit: Tassen
+- amount: '1'
+  ingredient: Salz
+  unit: EL
+- amount: '200'
+  ingredient: Zucker
+  unit: g
+- amount: '250'
+  ingredient: Butter
+  unit: g
+- amount: '250'
+  ingredient: Rosinen
+  unit: g
+- amount: '250'
+  ingredient: Mandeln
+  unit: g
+- amount: '100'
+  ingredient: Zitronat
+  unit: g
+- amount: '2'
+  ingredient: Rum
+  unit: EL
+- amount: ''
+  ingredient: Schale von 1 Zitrone
+  unit: ''
+- amount: 1/2
+  ingredient: Vanille
+  unit: Stange
+- amount: '4'
+  ingredient: Butter
+  unit: EL
+- amount: ''
+  ingredient: Mohnfuellung
+  unit: ''
+instructions: 'Zu einem Teig verkneten, dick ausrollen und mit der Mohnfuellung bestreichen.
+
+  Zu einem Laib zweimal einklappen und 50 Minuten backen.
+
+  Zur Haelfte mit Butter bestreichen und am Schluss nach dem Abkuehlen mit Puderzucker
+  bestreuen.'
+subtitle: von 1945
+title: Stollen

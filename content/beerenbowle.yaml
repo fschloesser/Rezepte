@@ -1,0 +1,30 @@
+ingredients:
+- amount: '1'
+  ingredient: sauerer Beerensaft
+  unit: l
+- amount: '300'
+  ingredient: Wodka
+  unit: ml
+- amount: '750'
+  ingredient: Weisswein
+  unit: ml
+- amount: '100'
+  ingredient: Zucker
+  unit: g
+- amount: '500'
+  ingredient: (gefrorene) Beeren
+  unit: g
+- amount: '900'
+  ingredient: Eiswuerfel
+  unit: ml
+- amount: '1'
+  ingredient: Zitrone
+  unit: Stueck
+- amount: '1'
+  ingredient: Orange
+  unit: Stueck
+instructions: "Beeren mit Zucker und Wodka vermischen, 24 Stunden kuehl stellen.\n\
+  \  Vor dem Servieren mit Saft und Wein aufgiessen, geschnittene Zitrusfruechte und\
+  \ Eiswuerfel hinzugeben."
+subtitle: fruchtig
+title: Beerenbowle

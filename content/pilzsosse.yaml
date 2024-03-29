@@ -1,0 +1,33 @@
+ingredients:
+- amount: '300'
+  ingredient: gemischte Pilze
+  unit: g
+- amount: 1/2
+  ingredient: Petersilie
+  unit: Bund
+- amount: '1'
+  ingredient: Zwiebel
+  unit: kleine
+- amount: '1'
+  ingredient: Knoblauch
+  unit: Zehe
+- amount: '2'
+  ingredient: Olivenöl
+  unit: EL
+- amount: '250'
+  ingredient: Sahne oder Bechamelsoße
+  unit: g
+- amount: ''
+  ingredient: Salz und Pfeffer
+  unit: ''
+instructions: 'Alle Zutaten klein schneiden.
+
+Öl erhitzen, Zwiebeln und Knoblauch hinzugeben.
+Pilze portionsweise hinzugeben und anbraten.
+
+Mit Salz und Pfeffer abschmecken und mit der Sahne ablöschen.
+15 Minuten köcheln lassen, bis die Pilze weich sind.
+
+Dazu schmecken gut Knödel.'
+subtitle: etwa zwei Portionen
+title: Pilzsoße

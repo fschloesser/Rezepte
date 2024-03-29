@@ -1,0 +1,27 @@
+ingredients:
+- amount: '2'
+  ingredient: Kartoffeln
+  unit: ''
+- amount: '4'
+  ingredient: Möhren
+  unit: ''
+- amount: 1/2
+  ingredient: Lauch
+  unit: Stange
+- amount: '100'
+  ingredient: Nudeln
+  unit: g
+- amount: '100'
+  ingredient: Linsen
+  unit: g
+- amount: ''
+  ingredient: Petersilie
+  unit: viel
+instructions: 'Gemüse klein schneiden und mit den Nudeln und den Linsen in einen Topf
+  geben.
+
+  Mit Wasser auffüllen bis alles großzügig bedeckt ist.
+
+  Mit Salz, Pfeffer und Muskat würzen und kochen bis das Gemüse gar ist.'
+subtitle: traditional
+title: Gemüsesuppe

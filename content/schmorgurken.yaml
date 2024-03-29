@@ -1,0 +1,46 @@
+ingredients:
+- amount: '1'
+  ingredient: Gurken
+  unit: kg
+- amount: 1/4
+  ingredient: Brühe
+  unit: l
+- amount: '40'
+  ingredient: Speck
+  unit: g
+- amount: '1'
+  ingredient: Zwiebel
+  unit: ''
+- amount: '1'
+  ingredient: Zucker
+  unit: TL
+- amount: '1'
+  ingredient: Mehl
+  unit: EL
+- amount: ''
+  ingredient: Dill
+  unit: ''
+- amount: ''
+  ingredient: Tomaten
+  unit: ''
+- amount: ''
+  ingredient: Kartoffeln als Beilage
+  unit: ''
+instructions: 'Die Gurken schälen, entkernen und in zweifingerbreite Stücke schneiden.
+
+  Den Speck und die Zwiebel würfeln, dann anbraten.
+
+  Die Gurkenstückchen hinzu und etwa 20 Minuten mitbraten, sodass sie glasig aussehen,
+  aber noch ein wenig Biss haben.
+
+  Bei Bedarf kleingeschnittene Tomaten oder Kirschtomaten hinzu fügen und kurz mitbraten.
+
+  Im Fett Zucker und Mehl bräunen, mit der Fleischbrühe auffüllen, pikant mit Salz,
+  Pfeffer nud Essig abschmecken.
+
+  Über die geschmorten Gurken geben, kleingehackten Dill dazu, umrühren und noch
+  ein wenig durchziehen lassen.
+
+  Dazu Kartoffeln reichen.'
+subtitle: auch mit Speck
+title: Schmorgurken

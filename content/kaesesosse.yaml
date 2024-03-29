@@ -1,0 +1,31 @@
+ingredients:
+- amount: '3'
+  ingredient: Butter
+  unit: EL
+- amount: '3'
+  ingredient: Mehl
+  unit: EL
+- amount: 1/2
+  ingredient: Salz
+  unit: TL
+- amount: 1/4
+  ingredient: Senf
+  unit: TL
+- amount: 1/8
+  ingredient: Pfeffer
+  unit: TL
+- amount: 1 1/2
+  ingredient: Milch
+  unit: Tasse
+- amount: '1'
+  ingredient: Cheddar/Käse
+  unit: Tasse
+instructions: 'Eine Mehlschwitze machen: Butter in der Pfanne schmelzen und das Mehl
+  dazu geben.
+
+  Zwei Minuten kochen lassen und nach und nach die Milch hinzugeben und zu einer Bechamelsoße
+  verrühren.
+
+  Mit den Gewürzen abschmecken und den Käse hineinschmelzen.'
+subtitle: für Nudeln, Windbeutel
+title: Käsesoße

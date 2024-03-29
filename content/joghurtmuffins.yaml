@@ -1,0 +1,35 @@
+ingredients:
+- amount: 200
+  ingredient: Joghurt
+  unit: g
+- amount: 150
+  ingredient: Mehl
+  unit: g
+- amount: 2
+  ingredient: Backpulver
+  unit: Messerspitzen
+- amount: 170
+  ingredient: Zucker
+  unit: g
+- amount: 60
+  ingredient: Öl
+  unit: g
+- amount: '2'
+  ingredient: Eier
+  unit: ''
+- amount: 1 Prise
+  ingredient: Salz
+  unit: ''
+- amount: ''
+  ingredient: Füllung (z.B. Blaubeeren)
+  unit: ''
+instructions: 'Info: 1 cup = 225 ml.
+
+  Trockene Zutaten mischen,
+
+  Nasse Zutaten mischen, Zucker dazu, Mehl und Backpulver dazu, Beeren/Schokolade
+  dazu, alles zusammen rühren.
+
+  Teig in die Muffinformen füllen und bei 180°C etwa 40 bis 50 min backen.'
+subtitle: etwa 12 Stück a 130 kcal
+title: Joghurt Muffins

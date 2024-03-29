@@ -1,0 +1,36 @@
+ingredients:
+- amount: '250'
+  ingredient: Mehl
+  unit: g
+- amount: '150'
+  ingredient: Zucker
+  unit: g
+- amount: '125'
+  ingredient: Butter
+  unit: g
+- amount: '2'
+  ingredient: Eier
+  unit: ''
+- amount: '1'
+  ingredient: Vanillezucker
+  unit: Pkg.
+- amount: 1/2
+  ingredient: Backpulver
+  unit: Pkg.
+- amount: '250'
+  ingredient: Milch
+  unit: ml
+- amount: '2'
+  ingredient: Äpfel (z.B. Booskoop)
+  unit: ''
+instructions: 'Zutaten wie Mehl, Zucker, Margarine, Eier, Vanillezucker, Backpulver
+  und Milch in eine große Schüssel geben und mit dem Mixer durchrühren.
+
+  Danach die geschälten, in kleine Stücke geschnittenen Äpfel hinzugeben und in den
+  Teig mischen.
+
+  Die Papierförmchen jeweils zu 3/4 mit dem Teig füllen und auf ein Backblech stellen.
+
+  Im vorgeheizten Backofen bei 150°C Heißluft ca. 20-25 Minuten backen.'
+subtitle: etwa 16 Stück
+title: Apfel Muffins

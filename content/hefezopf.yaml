@@ -1,0 +1,35 @@
+ingredients:
+- amount: '500'
+  ingredient: Mehl
+  unit: g
+- amount: ''
+  ingredient: Hefe
+  unit: ''
+- amount: '1'
+  ingredient: Vanillezucker
+  unit: Päckchen
+- amount: '100'
+  ingredient: Zucker
+  unit: g
+- amount: '100'
+  ingredient: Butter
+  unit: g
+- amount: '1'
+  ingredient: Salz
+  unit: Prise
+- amount: '2'
+  ingredient: Eier
+  unit: ''
+- amount: '80'
+  ingredient: Rosinen
+  unit: g
+- amount: '125'
+  ingredient: Milch
+  unit: g
+instructions: 'Alles zusammen mischen, eine Stunde gehen lassen.
+
+  Zopf flechten und mit Milch bestreichen, eine halbe Stunde gehen lassen.
+
+  Eine halbe Stunde bei 175 Grad Umluft backen.'
+subtitle: zu Ostern
+title: Hefezopf mit Rosinen

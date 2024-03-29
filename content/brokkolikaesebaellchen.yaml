@@ -1,0 +1,23 @@
+ingredients:
+- amount: '1'
+  ingredient: Brokkoli
+  unit: kg
+- amount: '1'
+  ingredient: Haferflocken
+  unit: Tasse
+- amount: '1'
+  ingredient: Oel
+  unit: EL
+- amount: '1'
+  ingredient: Salz
+  unit: TL
+- amount: '200'
+  ingredient: geriebener Kaese
+  unit: g
+instructions: 'Brokkoli putzen, schneiden und 5 Minuten duensten.
+
+  Mit den restlichen Zutaten puerieren und kleine Baellchen formen.
+
+  Im Backofen bei 160 Grad Ober- und Unterhitze etwa 30 Minuten backen.'
+subtitle: easy
+title: Brokkoli-Kaese-Baellchen
