@@ -1,0 +1,39 @@
+ingredients:
+- amount: '1'
+  ingredient: 'Zwiebel'
+  unit: ''
+- amount: '2'
+  ingredient: 'Knoblauch'
+  unit: 'Zehen'
+- amount: '3'
+  ingredient: 'Moehren'
+  unit: ''
+- amount: '4'
+  ingredient: 'Kartoffeln'
+  unit: ''
+- amount: '500'
+  ingredient: 'gruene Bohnen'
+  unit: 'g'
+- amount: '2'
+  ingredient: 'Mettenden oder Cabanossi'
+  unit: ''
+- amount: '3'
+  ingredient: 'Thymian'
+  unit: 'Zweige'
+- amount: '3'
+  ingredient: 'Bohnenkraut'
+  unit: 'Zweige'
+- amount: '2'
+  ingredient: 'Lorbeerblaetter'
+  unit: ''
+instructions: 'Knoblauchzehen schaelen, klein wuerfeln und im Topf anschwitzen. Moehren und Kartoffeln schaelen und in Wuerfel schneiden. Die Bohnen puten, deren Enden abschneiden und in Stuecke schneiden. Alles in den Schnellkochtopf schichten.
+
+Die Pelle der Mettenden mehrmals anstechen und mit den Kraeutern in den Topf geben.
+
+Den Topf zu zwei Dritteln mit Wasser fuellen oder so, dass alles halbwegs bedeckt ist. Fuer 15 Minuten kochen.
+
+Anschliessend die Wuerstchen in Streifen schneiden oder zumindest erst mal aus derm Topf raus nehmen. Die Suppe mit Salz, Pfeffer und evtl einem Gemuesebruehwuerfel wuerzen, nach Belieben zusaetzlich mit einer klein geschnitten Knoblauchknolle.
+
+Die Suppe anstampfen, die Wuerstchen wieder hinzugeben und gut durch ruehren.'
+subtitle: a la Mama
+title: klassisch
