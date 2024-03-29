@@ -18,6 +18,9 @@ Zutaten:
 Anleitung:
 ---
 Die Karotten mit einem Gemueseschaeler in duenne Streifen schneiden und 5 Minuten daempfen oder blanchieren.
+
 Aus den restlichen Zutaten eine Marinade mischen und die noch warmen Karottenstreifen hinein geben.
+
 Ueber Nacht kuehl stellen.
+
 Tip: 1 EL Liquid smoke in der Marinade gibt dem ganzen einen rauchigen Charakter.

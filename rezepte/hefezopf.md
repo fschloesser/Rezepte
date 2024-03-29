@@ -17,5 +17,7 @@ Zutaten:
 Anleitung:
 ---
 Alles zusammen mischen, eine Stunde gehen lassen.
+
 Zopf flechten und mit Milch bestreichen, eine halbe Stunde gehen lassen.
+
 Eine halbe Stunde bei 175 Grad Umluft backen.

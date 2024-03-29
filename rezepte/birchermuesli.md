@@ -15,4 +15,5 @@ Zutaten:
 Anleitung:
 ---
 Banane zerdrücken und Müsli zerkleinern.
+
 Alles vermischen und über Nacht ziehen lassen.

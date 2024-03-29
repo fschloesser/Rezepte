@@ -16,7 +16,11 @@ Zutaten:
 Anleitung:
 ---
 Knoblauch, Zitronensaft und Salz mixen, das Sesammus dazu geben und weiter mixen.
+
 Kichererbsen abgiessen und 50 ml des Wassers auffangen.
+
 Die 50 ml Kichererbsenwasser und das kalte Wasser in die Masse hineinmixen.
+
 Zum Schluss die Kichererbsen, das Olivenoel und den Kreuzkuemmel hinzugeben und mindestens 3 Minuten puerieren.
+
 Mit Salz und Zitronensaft abschmecken, servieren.

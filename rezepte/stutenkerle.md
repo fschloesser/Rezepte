@@ -23,7 +23,11 @@ Zutaten:
 Anleitung:
 ---
 Aus den Zutaten für den Teig einen Hefeteig zubereiten und zugedeckt eine halbe Stunde gehen lassen.
+
 Den Teig durchkneten und in zwei Teile für zwei große Figuren oder mehrere Teile für kleine Figuren teilen.
+
 Aus je zwei Drittel der Teigteile auf einem gebutterten Blech den Kopf und Laib formen und aus dem letzten Drittel die Dekoration fertigen.
+
 Das Eigelb mit Milch verquirlen und die Stutenkerle damit bepinseln, mit Rosinen, Orangeat und Mandeln verzieren.
+
 Nach 20-30 Minuten Ruhezeit bei 180 Grad 30 Minuten goldbraun backen.

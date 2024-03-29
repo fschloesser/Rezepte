@@ -16,6 +16,9 @@ Zutaten:
 Anleitung:
 ---
 Info: 1 cup = 225 ml.
+
 Trockene Zutaten mischen,
+
 Nasse Zutaten mischen, Zucker dazu, Mehl und Backpulver dazu, Beeren/Schokolade dazu, alles zusammen rühren.
+
 Teig in die Muffinformen füllen und bei 180°C etwa 40 bis 50 min backen.

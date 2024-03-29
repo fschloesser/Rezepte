@@ -18,8 +18,13 @@ Zutaten:
 Anleitung:
 ---
 Die Nudeln normal kochen.
+
 Für die Soße die Zwiebeln und den Knoblauch klein schneiden, die Champignons putzen und in dünne Scheiben schneiden, die Tomaten klein würfeln.
+
 Zuerst die Zwieblen mit dem Knoblauch in einer Pfanne mit etwas Öl leicht anbraten, die Champignonscheiben dazugeben und mit anbraten.
+
 Die Tomaten sowie das Tomatenmark zufügen, mit der Sahne aufgießen und bei niedriger Temperatur köcheln lassen.
+
 Falls die Soße zu dickflüssig ist Milch hinzugeben.
+
 Nun das Basilikum hinzufügen und mit Pfeffer und Brühe nach Geschmack würzen.

@@ -13,5 +13,7 @@ Zutaten:
 Anleitung:
 ---
 Erdbeeren waschen, schneiden, mit Waldmeister zusammen in eine Bowle geben und mit dem Zucker bestreuen.
+
 Wein dazu geben und 30 Minuten im Kuehlschrank ziehen lassen.
+
 Vor dem Servieren den Waldmeister entfernen und mit Sekt aufgiessen.

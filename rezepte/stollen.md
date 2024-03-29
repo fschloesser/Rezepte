@@ -22,5 +22,7 @@ Zutaten:
 Anleitung:
 ---
 Zu einem Teig verkneten, dick ausrollen und mit der Mohnfuellung bestreichen.
+
 Zu einem Laib zweimal einklappen und 50 Minuten backen.
+
 Zur Haelfte mit Butter bestreichen und am Schluss nach dem Abkuehlen mit Puderzucker bestreuen.

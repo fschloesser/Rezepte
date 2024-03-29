@@ -24,12 +24,21 @@ Zutaten:
 Anleitung:
 ---
 Für die Füllung deren Zutaten vermischen bis sich der Zucker aufgelöst hat.
+
 Die Möhren reiben.
+
 In einer großen Schüssel Zucker, Öl, Eier und Vanille vermischen, dann Karotten, Salz und Pumpkinspice daruner rühren.
+
 Das Mehl mit dem Natron sieben und unterheben.
+
 Den Ofen auf 190 Grad Celcius vorheizen und Muffinformen mit Muffinpapier auslegen.
+
 Etwa 2 EL des Teiges in die Formen und darauf einen EL der Füllung geben (Hier wird noch nicht die gesamte Füllung verbraucht).
+
 Die Muffins mit Teig auffüllen und 18-20 Minuten backen.
+
 Auf dem Rost etwa 10 Minuten auskühlen lassen.
+
 Die Füllung in einen Spritzbeutel geben und damit die Muffins füllen.
+
 Notiz: Pumpkin Spice sind 18 Teile gemahlener Zimt, 4 Teile gemahlener Muskatnuss, 4 Teile gemahlener Ingwer, 3 Teile gemahlener Nelken und 3 Teile gemahlener Piment.

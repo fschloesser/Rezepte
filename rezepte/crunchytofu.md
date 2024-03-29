@@ -16,6 +16,9 @@ Zutaten:
 Anleitung:
 ---
 Die Marinade mit etwas Wasser in einer Schale mischen.
+
 Das Wasser aus dem Tofu pressen, in die Schale kruemeln und vermischen.
+
 Auf einem geoelten Blech ausbreiten und salzen.
+
 Etwa 40 Minuten bei 230 C backen, nach der Haelfte die Tofustuecke einmal wenden.

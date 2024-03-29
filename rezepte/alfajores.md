@@ -14,9 +14,15 @@ Zutaten:
 Anleitung:
 ---
 Margarine mit Puderzucker verrühren.
+
 Das Ei hinzufügen und verrühren.
+
 Mehl, Speisestärke, Backpulver dazu mischen, im Kühlschrank ruhen lassen.
+
 Ausrollen und ausstechen.
+
 10-12 Minuten bei 160-180 Grad backen.
+
 Mit Marmelade/Manjar/Schokolade zu Doppelkeksen zusammenkleben.
+
 Tip: Etwas Mehl kann durch Backakao ersetzt werden.

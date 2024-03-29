@@ -15,5 +15,7 @@ Zutaten:
 Anleitung:
 ---
 Gemüse und Brot in kleine Würfel schneiden, Salat putzen.
+
 Alles in eine Schüssel geben, mit Öl beträufeln, salzen und pfeffern.
+
 Ziehen lassen - fertig.

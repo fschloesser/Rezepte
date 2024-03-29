@@ -14,5 +14,7 @@ Zutaten:
 Anleitung:
 ---
 Gemüse sehr klein würfeln und mit den restlichen Zutaten vermischen.
+
 Nach Geschmack mit Salz, Pfeffer und Knoblauch würzen.
+
 Tip: Auch lecker nur mit Tomaten.

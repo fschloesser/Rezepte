@@ -19,8 +19,13 @@ Zutaten:
 Anleitung:
 ---
 Linsen mit Wasser im Verhaeltnis 1:3 auf kleiner Flamme circa 30 Minuten kochen.
+
 Walnuesse, Aepfel, Sellerie und Petersilie putzen und klein schneiden.
+
 Walnuesse roesten.
+
 In einer weiteren Schuessel Oel, Zitronensaft, Senf, Honig, Knoblauch, Salz und Pfeffer vermischen.
+
 Gemuese, Linsen und Dressing zusammen in eine Schuessel geben und abkuehlen lassen.
+
 Vor dem Servieren die Walnuesse hinueber geben.

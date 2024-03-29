@@ -16,8 +16,13 @@ Zutaten:
 Anleitung:
 ---
 Mürbeteig mit Ei vorbereiten und kalt stellen wie oben beschrieben.
+
 Gemüse reiben und mit Zwiebeln, Knoblauch in Olivenöl andünsten, Form fetten.
+
 Eier und Milch mit Salz, Pfeffer und Kräutern vermischen.
+
 Teig dünn ausrollen und in die Form drücken, mit dem Gemüse belegen und die Eiermischung darüber gießen.
+
 Den Schafskäse darüber krümeln.
+
 Bei 200 Grad etwa 30 bis 40 Minuten backen.

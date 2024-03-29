@@ -13,5 +13,7 @@ Zutaten:
 Anleitung:
 ---
 Obst, Gemuese und Tofu in Streifen schneiden, evtl marinieren und oder anbraten.
+
 Reis oder Nudeln kochen.
+
 Reispapier kurz einweichen und auf ein Holzbrett legen, Fuellung darauf legen und einrollen.

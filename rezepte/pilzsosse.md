@@ -15,6 +15,9 @@ Zutaten:
 Anleitung:
 ---
 Alle Zutaten klein schneiden.
+
 Öl erhitzen, Zwiebeln und Knoblauch hinzugeben. Pilze portionsweise hinzugeben und anbraten.
+
 Mit Salz und Pfeffer abschmecken und mit der Sahne ablöschen. 15 Minuten köcheln lassen, bis die Pilze weich sind.
+
 Dazu schmecken gut Knödel.

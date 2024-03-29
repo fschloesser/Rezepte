@@ -13,4 +13,5 @@ Zutaten:
 Anleitung:
 ---
 Champignons, Zwiebel und Knoblauch klein schneiden und anbraten bis die gewuenschte Konsistenz erreicht ist.
+
 Abschmecken, mit der geputzten und geschnittenen Petersilie vermengen und servieren.

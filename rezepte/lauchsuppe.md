@@ -16,7 +16,11 @@ Zutaten:
 Anleitung:
 ---
 Das Lauch, Zwiebeln und Knoblauch schneiden und in einem Topf anbraten, kleingeschnittene Kartoffeln dazu geben.
+
 Bevor alles anbrennt mit Wasser ablöschen und den Brühwürfel dazu geben, die Hafercreme untermischen.
+
 Alles köcheln lassen bis die Kartoffeln weich sind.
+
 Mit einem Kartoffelstampfer die großen Stücke nach Belieben zerdrücken.
+
 Servieren.

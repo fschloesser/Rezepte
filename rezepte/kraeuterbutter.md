@@ -12,6 +12,9 @@ Zutaten:
 Anleitung:
 ---
 Butter auf kleinster Flamme aufwaermen und schaumig ruehren.
+
 Knoblauch fein hacken und auf Salz zerdruecken.
+
 Kraeuter und Knoblauch mit der Butter vermengen und nach Belieben salzen.
+
 Kalt stellen.

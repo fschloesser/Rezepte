@@ -16,4 +16,5 @@ Zutaten:
 Anleitung:
 ---
 Beeren mit Zucker und Wodka vermischen, 24 Stunden kuehl stellen.
+
   Vor dem Servieren mit Saft und Wein aufgiessen, geschnittene Zitrusfruechte und Eiswuerfel hinzugeben.

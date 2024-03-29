@@ -13,5 +13,7 @@ Zutaten:
 Anleitung:
 ---
 Brokkoli putzen, schneiden und 5 Minuten duensten.
+
 Mit den restlichen Zutaten puerieren und kleine Baellchen formen.
+
 Im Backofen bei 160 Grad Ober- und Unterhitze etwa 30 Minuten backen.

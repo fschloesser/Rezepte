@@ -22,9 +22,15 @@ Zutaten:
 Anleitung:
 ---
 Den Rotkohl in schmale Streifen, die Zwiebeln und Aepfel klein schneiden.
+
 Die Zwiebeln im Oel glasig anduensten. Dann den Rotkohl und Aepfel dazu geben und mit duensten.
+
 Zucker und Salz hinzu geben und mit Rotwein oder Apfelsaft abloeschen.
+
 Lorbeerblaetter, Wacholderbeeren oder Piment, Nelken, Zimt und Marmelade hinzu geben und mit kochen.
+
 Eine halbe Stunde kochen oder im Schnellkochtopf bei 12 Minuten.
+
 Mit Rotwein abschmecken und mit Mehl andicken.
+
 Einen Tag ziehen lassen.

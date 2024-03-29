@@ -19,7 +19,11 @@ Zutaten:
 Anleitung:
 ---
 Die Zwiebeln und den Knoblauch in Ringe schneiden und bei hoher Hitze in zwei EL Olivenöl anschwitzen.
+
 Paprikapulver hinzugeben und kurz anschwitzen, mit dem Wein und der Brüe ablöschen.
+
 Die restlichen Gewürze hinzugeben.
+
 Wenn die Zwiebeln verkocht sind die Suppe in Schälchen geben und mit Croutons und Käse bestreuen.
+
 Im Ofen übergrillen und servieren.

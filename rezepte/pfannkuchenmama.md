@@ -13,5 +13,7 @@ Zutaten:
 Anleitung:
 ---
 Zutaten zu einemehr flüssigen Teig zusammen mischen und eine Stunde ziehen lassen.
+
 Pfannkuchen in einer gefetteten Pfanne bei mittlerer Hitze (4-5/9) und mit Deckel ausbacken.
+
 Nach Belieben mit Obst oder Gemüse belegen, ein halber Apfel pro Pfannkuchen.

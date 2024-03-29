@@ -13,7 +13,7 @@ def create_markdown_file(filename,src_directory,target_directory):
         for ing in recipe["ingredients"]:
             markdown.write("- {} {} {}\n".format(ing["amount"],ing["unit"],ing["ingredient"]))
         markdown.write("\nAnleitung:\n---\n")
-        markdown.write(recipe["instructions"])
+        markdown.write(recipe["instructions"].replace('\n','\n\n'))
 
 # main loop
 src_directory = '../content'

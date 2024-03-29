@@ -12,4 +12,5 @@ Zutaten:
 Anleitung:
 ---
 Die Zutaten in einen Topf geben und unter ständigem Rühren aufkochen, dabei aufpassen, dass nichts am Boden anbrennt.
+
 Wenn der Reis die gewünschte Konsistenz erreicht hat in eine Schüssel geben und mit den Kirschen servieren.

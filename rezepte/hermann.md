@@ -18,6 +18,9 @@ Zutaten:
 Anleitung:
 ---
 Alle Zutaten zu einem glatten Teig verrühren.
+
 In eine gefettete, bemehlte Kastenform oder Gugelhupfform füllen.
+
 Im vorgeheizten Backofen bei 180 °C (Umluft 160 °C) circa 45 bis 55 Minuten backen.
+
 Zum Ende der Backzeit eine Stäbchenprobe machen.
