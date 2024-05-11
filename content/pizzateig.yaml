@@ -1,21 +1,21 @@
 ingredients:
-- amount: '1'
+- amount: '350'
   ingredient: Wasser (20 C)
-  unit: l
-- amount: '1.5'
+  unit: ml
+- amount: '1'
   ingredient: Mehl
   unit: kg
-- amount: '50'
+- amount: '20'
   ingredient: feines Salz
   unit: g
-- amount: '5'
+- amount: '2'
   ingredient: Trockenhefe
   unit: g
 instructions: 'Mehl und Trockenhefe mischen, Salz in Wasser auflösen, danach zur Mehlmischung
   geben und alles mixen.
 
-  15 Minuten kneten und 2 Stunden ruhen lassen.
+  15 Minuten ordentlich kneten und 2 Stunden ruhen lassen.
 
-  Den Teig in 4 oder 6 kleinere Kugeln teilen und 4 weitere Stunden ruhen lassen.'
+  Den Teig in 2 oder 3 kleinere Kugeln teilen und 4 weitere Stunden ruhen lassen.'
 subtitle: original italienisch
 title: Pizzateig
