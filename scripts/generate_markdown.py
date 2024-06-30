@@ -22,7 +22,7 @@ def process_file(filename,src_directory,target_directory):
 # main loop
 src_directory = '../content'
 target_directory = '../rezepte'
-readme_file = '../README'
+readme_file = '../README.md'
 readme_entries = []
 
 for file in os.listdir(src_directory):
