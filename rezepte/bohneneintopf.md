@@ -1,4 +1,4 @@
-klassisch
+Bohneneintopf
 ===
 a la Mama
 
