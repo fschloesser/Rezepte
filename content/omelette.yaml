@@ -1,0 +1,29 @@
+ingredients:
+- amount: '3'
+  ingredient: Eier
+  unit: ''
+- amount: '2'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: '1'
+  ingredient: Gemüsezwiebel
+  unit: ''
+- amount: ''
+  ingredient: Salz
+  unit: ''
+instructions: 'Die Zwiebeln und den Knoblauch schaelen und in ca Halbzentimetergrosse Stuecke schneiden.
+
+  Die Eier mit einem Schwapp Wasser und Salz in einer Schuessel verquirlen.
+
+  Das Gemuese mit etwas Oel in der Pfanne goldig anbraten.
+
+  Zu der Eiermasse geben und alles zusammen nochmal kraeftig aufschlagen und alles in die Pfanne geben.
+
+  Bei Stufe 6.5/9 mit dem Deckel zugedeckt etwa 5 Minuten braten, bis die Masse auf von oben gestockt ist.
+
+  Alles einmal wenden und weitere zwei Minuten gold anbraten und servieren.'
+subtitle: leicht
+title: Omelette
+tags:
+  - Hauptspeisen
+rating: 1

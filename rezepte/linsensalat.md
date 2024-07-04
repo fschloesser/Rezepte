@@ -1,6 +1,6 @@
 Linsensalat
 ===
-
+lauwarm
 
 Zutaten:
 ---

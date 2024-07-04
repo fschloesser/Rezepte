@@ -17,13 +17,26 @@ def process_file(filename,src_directory,target_directory):
             markdown.write("- {} {} {}\n".format(ing["amount"],ing["unit"],ing["ingredient"]))
         markdown.write("\nAnleitung:\n---\n")
         markdown.write(recipe["instructions"].replace('\n','\n\n'))
-    return {"title": recipe["title"], "subtitle": recipe["subtitle"], "tags": recipe["tags"], "filename": new_filename}
+    return {"title": recipe["title"], "subtitle": recipe["subtitle"], "tags": recipe["tags"], "filename": new_filename, "rating": recipe["rating"]}
 
 # main loop
 src_directory = '../content'
 target_directory = '../rezepte'
 readme_file = '../README.md'
 readme_entries = []
+rating_color = ":full_moon_with_face: "
+rating_grey = ":new_moon_with_face: "
+
+def format_rating(number):
+    if number < 1 or number > 3:
+        raise Exception("{} is not a valid rating".format(number))
+    out = ""
+    for i in range(3):
+        if i < number:
+            out += rating_color
+        else:
+            out += rating_grey
+    return out
 
 for file in os.listdir(src_directory):
     filename = os.fsdecode(file)
@@ -40,4 +53,4 @@ with open("{}".format(readme_file), 'w', encoding='utf-8') as readme:
                 entries[recipe["title"]] = recipe
         for i in sorted(entries.keys()):
             recipe = entries[i]
-            readme.write("- [{}](rezepte/{}) - {}\n".format(recipe["title"], recipe["filename"], recipe["subtitle"]))
+            readme.write("- {}[{}](rezepte/{}) - {}\n".format(format_rating(recipe["rating"]), recipe["title"], recipe["filename"], recipe["subtitle"]))

@@ -20,4 +20,4 @@ Am naechsten Tag die Nuesse abspuelen und mit allen Zutaten in einer Kuechenmasc
 
 In einer luftdichten Dose 2 Stunden kuehl stellen.
 
-Tip: Wenn die Masse fest werden soll, dann die Flohsamenschalen hinzugeben.
+Notiz: Das Ganze steht und faellt mit einer guten Kuechenmaschine. Tip: Wenn die Masse fest werden soll, dann die Flohsamenschalen hinzugeben.

@@ -1,6 +1,6 @@
 Crema pastelera
 ===
-~925 kcal
+fuer Kuchen und Gebaeck
 
 Zutaten:
 ---

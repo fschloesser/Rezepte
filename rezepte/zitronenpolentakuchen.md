@@ -1,6 +1,6 @@
 Zitronen Polenta Kuchen
 ===
-Für eine 25cm Springform; glutenfrei; 4700 kcal
+glutenfrei
 
 Zutaten:
 ---

@@ -4,7 +4,7 @@ a la mama
 
 Zutaten:
 ---
--   Räuchertofu/Speck
+-   Räuchertofu oder Speck
 - 1  Zwiebel
 - 200 g Möhren
 - 200 g Kartoffeln

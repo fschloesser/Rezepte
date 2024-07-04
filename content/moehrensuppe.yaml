@@ -1,6 +1,6 @@
 ingredients:
 - amount: ''
-  ingredient: Räuchertofu/Speck
+  ingredient: Räuchertofu oder Speck
   unit: ''
 - amount: '1'
   ingredient: Zwiebel
@@ -29,3 +29,4 @@ subtitle: a la mama
 title: Möhren Kartoffel Suppe
 tags:
   - Suppen
+rating: 1

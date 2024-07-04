@@ -1,6 +1,6 @@
 Zucchini-Sushi
 ===
-kompliziert
+kompliziert aber lecker
 
 Zutaten:
 ---
@@ -19,4 +19,4 @@ Auf ein Kuechenpapier legen sodass sie sich ueberlappen und mit Frischkaese best
 
 Einrollen und in ca 2 cm hohe Roellchen schneiden.
 
-Tip: Alles ziemlich friemelig, besser vielleicht mit Nori drumrum.
+Tip: Mit Zucchini oder Gurke aussen herum ist alles ziemlich friemelig, besser vielleicht mit Nori drumrum.

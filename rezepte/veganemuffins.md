@@ -1,6 +1,6 @@
 Vegane Apfel Karotte Nuss Muffins
 ===
-24 Muffins a 240 kcal
+viele Muffins
 
 Zutaten:
 ---
@@ -17,7 +17,7 @@ Zutaten:
 
 Anleitung:
 ---
-Karotten und Apfel reiben und mit dem Wasser vermischen.
+Zutaten fuer ca 24 Muffins. Karotten und Apfel reiben und mit dem Wasser vermischen.
 
 Kokosöl und Zucker vermischen und zu der Apfel-Karotten-Mischung geben.
 

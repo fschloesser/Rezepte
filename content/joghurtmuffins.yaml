@@ -24,6 +24,7 @@ ingredients:
   ingredient: Füllung (z.B. Blaubeeren)
   unit: ''
 instructions: 'Info: 1 cup = 225 ml.
+  Zutaten sind fuer etwa 12 Muffins.
 
   Trockene Zutaten mischen,
 
@@ -31,7 +32,8 @@ instructions: 'Info: 1 cup = 225 ml.
   dazu, alles zusammen rühren.
 
   Teig in die Muffinformen füllen und bei 180°C etwa 40 bis 50 min backen.'
-subtitle: etwa 12 Stück a 130 kcal
+subtitle:
 title: Joghurt Muffins
 tags:
   - suesses Gebaeck
+rating: 1

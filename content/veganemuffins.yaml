@@ -29,7 +29,8 @@ ingredients:
 - amount: '1'
   ingredient: Salz
   unit: Prise
-instructions: 'Karotten und Apfel reiben und mit dem Wasser vermischen.
+instructions: 'Zutaten fuer ca 24 Muffins.
+  Karotten und Apfel reiben und mit dem Wasser vermischen.
 
   Kokosöl und Zucker vermischen und zu der Apfel-Karotten-Mischung geben.
 
@@ -37,8 +38,9 @@ instructions: 'Karotten und Apfel reiben und mit dem Wasser vermischen.
 
   Bei 180 Grad Ober- Unterhitze etwa 20-40 Minuten backen (Kuchen braucht länger als
   Muffins.)'
-subtitle: 24 Muffins a 240 kcal
+subtitle: viele Muffins
 title: Vegane Apfel Karotte Nuss Muffins
 tags:
   - suesses Gebaeck
   - Veganes
+rating: 1

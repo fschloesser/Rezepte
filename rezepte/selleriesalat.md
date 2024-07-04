@@ -1,10 +1,10 @@
 Selleriesalat
 ===
-nach Mamas Art; 750 kcal
+nach Mamas Art
 
 Zutaten:
 ---
-- 5 EL Joghurt (1,5 \% Fett)
+- 5 EL Joghurt (1,5 % Fett)
 - 2 EL Walnussöl
 - 1 EL Zitronensaft
 - 1 EL Weißweinessig

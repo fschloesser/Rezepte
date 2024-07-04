@@ -1,6 +1,6 @@
 Mandelhörnchen
 ===
-Ein Weihnachtsklassiker
+weihnachtliche, klassisch
 
 Zutaten:
 ---

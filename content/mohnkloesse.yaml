@@ -5,26 +5,45 @@ ingredients:
 - amount: '5'
   ingredient: Zucker
   unit: EL
-- amount: '50'
-  ingredient: Mandeln
+- amount: '200'
+  ingredient: Mandelsplitter
   unit: g
-- amount: '50'
+- amount: '100'
   ingredient: Rosinen
   unit: g
-- amount: '5'
+- amount: '1'
   ingredient: Rum
-  unit: EL
+  unit: Tasse
+- amount: '1'
+  ingredient: Vanilleschote
+  unit: ''
 - amount: '1'
   ingredient: Zimt
   unit: TL
+- amount: '1'
+  ingredient: Zitrone
+  unit: ''
+- amount: 200
+  ingredient: suesse Sahne
+  unit: ml
 - amount: 1/2
   ingredient: Milch
   unit: Liter
-- amount: ''
-  ingredient: Broetchen oder Zwieback
+- amount: '4'
+  ingredient: alte Broetchen
   unit: ''
-instructions: ''
-subtitle: traditionell
+instructions: '
+  Die Rosinen einige Stunden im Rum einweichen.
+
+  Die Broetchen in duenne Scheiben schneiden, wenn sie noch feucht sind dann sollten sie kurz im Ofen getrocknet werden.
+
+  Den Mohn frisch mahlen und mit Sahne, Milch, Zucker, Salz, Zitronenschale, Zimt und dem Mark der Vanilleschote in einem Topf aufkochen. Dann vom Herd nehmen und leicht abkuehlen lassen.
+
+  In einer Schuessel abwechselnd in Schichten die Broetchenscheiben, die Mohnmasse, die Rosinen und Mandelsplitter aufschichten.
+
+  Wenn alles auf Zimmertemperatur abgekuehlt ist die Schuessel in den Kuehlschrank stellen und gut ziehen lassen.'
+subtitle: traditionell schlesisch
 title: Mohnkloesse
 tags:
   - Nachspeisen
+rating: 2

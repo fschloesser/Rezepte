@@ -1,6 +1,6 @@
 Rotkohl
 ===
-
+ganz klassisch
 
 Zutaten:
 ---

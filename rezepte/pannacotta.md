@@ -1,6 +1,6 @@
 Panna cotta
 ===
-
+ein Klassiker
 
 Zutaten:
 ---

@@ -1,6 +1,6 @@
 Hermann
 ===
-Kuchen - 3000 kcal
+nachwachsend
 
 Zutaten:
 ---

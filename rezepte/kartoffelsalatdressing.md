@@ -4,7 +4,7 @@ ohne Mayo, lecker
 
 Zutaten:
 ---
-- 1 Becher Creme Fraiche oder Joghurt (10\%)
+- 1 Becher Creme Fraiche oder Joghurt (10%)
 -  etwas Senf
 -  etwas Öl
 -  etwas Honig

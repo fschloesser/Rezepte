@@ -1,6 +1,6 @@
 Zimtsterne
 ===
-vegan
+vegan, weihnachtlich
 
 Zutaten:
 ---

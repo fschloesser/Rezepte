@@ -1,6 +1,6 @@
 Torta Pompadour
 ===
-7000 cals
+einer Grossmutters Rezept
 
 Zutaten:
 ---

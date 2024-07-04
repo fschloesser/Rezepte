@@ -1,6 +1,6 @@
 Schmorgurken
 ===
-auch mit Speck
+geht auch mit Speck
 
 Zutaten:
 ---

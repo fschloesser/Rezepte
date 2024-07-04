@@ -1,6 +1,6 @@
 Sauerteigbrot ultimate
 ===
-Tagesprojekt, 2 Brote, 3500 kcal
+Tagesprojekt, 2 Brote
 
 Zutaten:
 ---

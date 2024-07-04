@@ -16,7 +16,7 @@ Zutaten:
 
 Anleitung:
 ---
-Alles zusammen mischen, eine Stunde gehen lassen.
+Alles zu einem Teig zusammen mischen und gut durchkneten, dann in einer Schuessel eine Stunde gehen lassen.
 
 Zopf flechten und mit Milch bestreichen, eine halbe Stunde gehen lassen.
 

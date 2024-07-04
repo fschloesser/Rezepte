@@ -12,7 +12,7 @@ Zutaten:
 
 Anleitung:
 ---
-Teig schnell zusammen kneten aber nicht homogen werden lassen, d.h. die Butter nicht komplett verkneten.
+Ganz wichtig: nicht zu viel kneten, das Ganze soll kein homogener Teig werden. Die Zutaten schnell zusammen kneten, das heisst die Butter nicht komplett verkneten.
 
 Teig in eine gefettete Backform geben und mit den Händen über den Boden und am Rand auslegen.
 

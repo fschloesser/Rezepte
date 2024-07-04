@@ -23,11 +23,9 @@ ingredients:
 - amount: '2'
   ingredient: Äpfel (z.B. Booskoop)
   unit: ''
-instructions: 'Zutaten wie Mehl, Zucker, Margarine, Eier, Vanillezucker, Backpulver
-  und Milch in eine große Schüssel geben und mit dem Mixer durchrühren.
+instructions: 'Zutaten wie Mehl, Zucker, Margarine, Eier, Vanillezucker, Backpulver und Milch in eine große Schüssel geben und mit dem Mixer durchrühren.
 
-  Danach die geschälten, in kleine Stücke geschnittenen Äpfel hinzugeben und in den
-  Teig mischen.
+  Danach die geschälten, in kleine Stücke geschnittenen Äpfel hinzugeben und in den Teig mischen.
 
   Die Papierförmchen jeweils zu 3/4 mit dem Teig füllen und auf ein Backblech stellen.
 
@@ -36,3 +34,4 @@ subtitle: etwa 16 Stück
 title: Apfel Muffins
 tags:
   - suesses Gebaeck
+rating: 2

@@ -1,6 +1,6 @@
 Mote con huesillos
 ===
-receta tradicional chilena; 3420 kcal
+receta tradicional chilena
 
 Zutaten:
 ---

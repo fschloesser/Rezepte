@@ -4,228 +4,226 @@ Alle Rezepte im Ueberblick:
 
 Beilagen
 ---
-- [Ofengemüse](rezepte/ofengemuese.md) - einfach, schnell und lecker
-- [Rotkohl](rezepte/rotkohl.md) - 
-- [Semmelknödel](rezepte/semmelknoedel.md) - etwa 4 Knödel
-- [Spätzle](rezepte/spaetzle.md) - traditional schwäbisch
-- [crunchy Tofu](rezepte/crunchytofu.md) - a la Kylie
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Ofengemüse](rezepte/ofengemuese.md) - einfach, schnell und lecker
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rotkohl](rezepte/rotkohl.md) - ganz klassisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Semmelknödel](rezepte/semmelknoedel.md) - etwa 4 Knödel
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spätzle](rezepte/spaetzle.md) - traditional schwäbisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [crunchy Tofu](rezepte/crunchytofu.md) - a la Kylie
 
 Brote
 ---
-- [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
-- [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
-- [Hefebrot](rezepte/hefebrot.md) - dauert mind. 4 Stunden
-- [Marraqueta](rezepte/marraqueta.md) - tradicional
-- [Sauerteigbrot ultimate](rezepte/sauerteigbrot.md) - Tagesprojekt, 2 Brote, 3500 kcal
-
-Dip
----
-- [Chimichurri](rezepte/chimichurri.md) - 
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefebrot](rezepte/hefebrot.md) - dauert mind. 4 Stunden
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Marraqueta](rezepte/marraqueta.md) - tradicional
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Sauerteigbrot ultimate](rezepte/sauerteigbrot.md) - Tagesprojekt, 2 Brote
 
 Dips
 ---
-- [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
-- [Erdnussdip](rezepte/erdnussdip.md) - zum Beispiel zu Sommerrollen
-- [Hummus](rezepte/hummus.md) - einfach und schnell
-- [Kraeuterbutter](rezepte/kraeuterbutter.md) - klassisch
-- [Pebre](rezepte/pebre.md) - pica - scharf
-- [Quark zu Kartoffeln](rezepte/kartoffelquark.md) - a la Mama
-- [Sesammayo](rezepte/sesamayo.md) - vegan Mayo
-- [Soja Limetten Dip](rezepte/sojalimettendip.md) - zum Beispiel zu Sommerrollen
-- [Tzaziki](rezepte/tzaziki.md) - geht auch vegan
-- [Vegane Mayonnaise](rezepte/veganemayo.md) - gehaltvoll
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) - 
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Erdnussdip](rezepte/erdnussdip.md) - zum Beispiel zu Sommerrollen
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hummus](rezepte/hummus.md) - einfach und schnell
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kraeuterbutter](rezepte/kraeuterbutter.md) - klassisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pebre](rezepte/pebre.md) - pica - scharf
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Quark zu Kartoffeln](rezepte/kartoffelquark.md) - a la Mama
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sesammayo](rezepte/sesamayo.md) - vegan Mayo
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Soja Limetten Dip](rezepte/sojalimettendip.md) - zum Beispiel zu Sommerrollen
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Tzaziki](rezepte/tzaziki.md) - geht auch vegan
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Vegane Mayonnaise](rezepte/veganemayo.md) - gehaltvoll
 
 Dressings
 ---
-- [Honig-Senf-Vinegraitte](rezepte/honigsenfvinegraitte.md) - Klassiker
-- [Kartoffelsalat-Dressing](rezepte/kartoffelsalatdressing.md) - ohne Mayo, lecker
-- [Pistazienpesto](rezepte/pistazienpesto.md) - zum Beispiel zum Grillkartoffelsalat
-- [Zitronendessing](rezepte/zitronendressing.md) - für Süßes
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Honig-Senf-Vinegraitte](rezepte/honigsenfvinegraitte.md) - Klassiker
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kartoffelsalat-Dressing](rezepte/kartoffelsalatdressing.md) - ohne Mayo, lecker
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pistazienpesto](rezepte/pistazienpesto.md) - zum Beispiel zum Grillkartoffelsalat
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zitronendessing](rezepte/zitronendressing.md) - für Süßes
 
 Eingelegtes
 ---
-- [Sauerkraut](rezepte/sauerkraut.md) - selbstgemacht
-- [Zwiebelallerlei](rezepte/zwiebeln.md) - angemacht
-- [chinesischer eingelegter Knoblauch](rezepte/chinesegarlic.md) - Laba Garlic
-- [marinierte Karotten](rezepte/mariniertekarotten.md) - veganer "Lachs"
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sauerkraut](rezepte/sauerkraut.md) - selbstgemacht
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zwiebelallerlei](rezepte/zwiebeln.md) - angemacht
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [chinesischer eingelegter Knoblauch](rezepte/chinesegarlic.md) - Laba Garlic
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [marinierte Karotten](rezepte/mariniertekarotten.md) - veganer "Lachs"
 
 Fingerfood
 ---
-- [Auberginenbaellchen](rezepte/auberginenbaellchen.md) - vegane Fleischklopse
-- [Brokkoli-Kaese-Baellchen](rezepte/brokkolikaesebaellchen.md) - easy
-- [Partyspiesse](rezepte/spiesse.md) - einfach
-- [Sommerrollen](rezepte/sommerrollen.md) - vegan
-- [Zucchini-Sushi](rezepte/zucchinisushi.md) - kompliziert
-- [gefuellte Champignons](rezepte/gefuelltechampignons.md) - ueberbacken
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Auberginenbaellchen](rezepte/auberginenbaellchen.md) - vegane Fleischklopse
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Brokkoli-Kaese-Baellchen](rezepte/brokkolikaesebaellchen.md) - easy
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Partyspiesse](rezepte/spiesse.md) - einfach
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sommerrollen](rezepte/sommerrollen.md) - vegan
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zucchini-Sushi](rezepte/zucchinisushi.md) - kompliziert aber lecker
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [gefuellte Champignons](rezepte/gefuelltechampignons.md) - ueberbacken
 
 Fruehstueck
 ---
-- [American Pancakes](rezepte/americanpancakes.md) - etwa 7 mittelgroße ~, 960 kcal ohne Specials
-- [Bircher-Müsli](rezepte/birchermuesli.md) - 
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [American Pancakes](rezepte/americanpancakes.md) - einfach
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bircher-Müsli](rezepte/birchermuesli.md) - overnight oats
 
 Gebaeck
 ---
-- [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
-- [Lebkuchen](rezepte/lebkuchen.md) - für ein großes oder zwei kleine Lebkuchenhäuschen
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Lebkuchen](rezepte/lebkuchen.md) - für ein großes oder zwei kleine Lebkuchenhäuschen
 
 Getraenke
 ---
-- [Beerenbowle](rezepte/beerenbowle.md) - fruchtig
-- [Chaitee](rezepte/chaitee.md) - Gewürztee
-- [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
-- [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
-- [Ingwerbier](rezepte/ingwerbier.md) - für etwa 3 Liter
-- [Milchkefir](rezepte/milchkefir.md) - probiotisch und fermentiert
-- [Mote con huesillos](rezepte/moteconhuesillos.md) - receta tradicional chilena; 3420 kcal
-- [Waldmeisterbowle](rezepte/waldmeisterbowle.md) - Klassiker
-- [Wasserkefir](rezepte/wasserkefir.md) - ferment
-- [Zitronenlimo](rezepte/zitronenlimo.md) - alla Fari
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Beerenbowle](rezepte/beerenbowle.md) - fruchtig
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chaitee](rezepte/chaitee.md) - Gewürztee
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Ingwerbier](rezepte/ingwerbier.md) - für etwa 3 Liter
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Milchkefir](rezepte/milchkefir.md) - probiotisch und fermentiert
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Mote con huesillos](rezepte/moteconhuesillos.md) - receta tradicional chilena
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Waldmeisterbowle](rezepte/waldmeisterbowle.md) - Klassiker
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Wasserkefir](rezepte/wasserkefir.md) - ferment
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zitronenlimo](rezepte/zitronenlimo.md) - erfrischend
 
 Hauptspeisen
 ---
-- [Elsässer Flammkuchen](rezepte/flammkuchen.md) - Einfach und gut - für 4 Portionen
-- [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
-- [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - etwa 1000 kcal
-- [Koshary](rezepte/koshary.md) - für 4-6 Personen
-- [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
-- [Linsenlasagne](rezepte/linsenlasagne.md) - vegetarisch
-- [Quiche](rezepte/quiche.md) - für 16 Muffins, 6 kleine Tartes oder eine große
-- [Schmorgurken](rezepte/schmorgurken.md) - auch mit Speck
-- [Volognese](rezepte/volognese.md) - Vegane Bolognese
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Elsässer Flammkuchen](rezepte/flammkuchen.md) - Einfach und gut - für 4 Portionen
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - herzhaft. klingt komisch, ist aber gut
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Koshary](rezepte/koshary.md) - für 4-6 Personen
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Linsenlasagne](rezepte/linsenlasagne.md) - vegetarisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Omelette](rezepte/omelette.md) - leicht
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quiche](rezepte/quiche.md) - für 16 Muffins, 6 kleine Tartes oder eine große
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schmorgurken](rezepte/schmorgurken.md) - geht auch mit Speck
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Volognese](rezepte/volognese.md) - Vegane Bolognese
 
 Kekse
 ---
-- [Alfajores](rezepte/alfajores.md) - für etwa 20
-- [Berliner Brot](rezepte/berlinerbrot.md) - Ein Klassiker
-- [Chocolate-Chip-Cookies](rezepte/chocolatechipcookies.md) - 24 Kekse, jeder 160 cals
-- [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
-- [Mandelhörnchen](rezepte/mandelhoernchen.md) - Ein Weihnachtsklassiker
-- [Schwarz-Weiss Kekse](rezepte/blackwhitecookies.md) - Klassiker
-- [Streuselkekse](rezepte/streuselkekse.md) - für 1 Blech
-- [Vanille Kipferl](rezepte/vanillekipferl.md) - Zubereitung ein bisschen kompliziert
-- [Zimtsterne](rezepte/zimtsterne.md) - vegan
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Alfajores](rezepte/alfajores.md) - für etwa 20
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Berliner Brot](rezepte/berlinerbrot.md) - Ein Klassiker
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Chocolate-Chip-Cookies](rezepte/chocolatechipcookies.md) - 24 Kekse, jeder 160 cals
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mandelhörnchen](rezepte/mandelhoernchen.md) - weihnachtliche, klassisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schwarz-Weiss Kekse](rezepte/blackwhitecookies.md) - Klassiker
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Streuselkekse](rezepte/streuselkekse.md) - für 1 Blech
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Vanille Kipferl](rezepte/vanillekipferl.md) - Zubereitung ein bisschen kompliziert
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zimtsterne](rezepte/zimtsterne.md) - vegan, weihnachtlich
 
 Kuchen
 ---
-- [Apfelrührkuchen](rezepte/apfelruehrkuchen.md) - fluffig und saftig
-- [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
-- [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
-- [Banoffee Pie](rezepte/banoffee.md) - 5662 kcal; Kuchen von etwa 23 cm Durchmesser
-- [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
-- [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern
-- [Hermann](rezepte/hermann.md) - Kuchen - 3000 kcal
-- [Rhabarberkuchen](rezepte/rhabarberpie.md) - Französisch
-- [Sandkuchen](rezepte/sandkuchen.md) - Zum Beispiel mit Apfel
-- [Stollen](rezepte/stollen.md) - von 1945
-- [Torta Pompadour](rezepte/tortapompadour.md) - 7000 cals
-- [Tres Leches](rezepte/tresleches.md) - 
-- [Zitronen Polenta Kuchen](rezepte/zitronenpolentakuchen.md) - Für eine 25cm Springform; glutenfrei; 4700 kcal
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Apfelrührkuchen](rezepte/apfelruehrkuchen.md) - fluffig und saftig
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Banoffee Pie](rezepte/banoffee.md) - himmlisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Hermann](rezepte/hermann.md) - nachwachsend
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rhabarberkuchen](rezepte/rhabarberpie.md) - Französisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sandkuchen](rezepte/sandkuchen.md) - Zum Beispiel mit Apfel
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Stollen](rezepte/stollen.md) - Rezept von 1945
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Torta Pompadour](rezepte/tortapompadour.md) - einer Grossmutters Rezept
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Tres Leches](rezepte/tresleches.md) - klassisch suedamerikanisch
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Zitronen Polenta Kuchen](rezepte/zitronenpolentakuchen.md) - glutenfrei
 
 Marmeladen
 ---
-- [Birnenmarmelade](rezepte/birnenmarmelade.md) - Von der Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Birnenmarmelade](rezepte/birnenmarmelade.md) - Von der Oma
 
 Nachspeisen
 ---
-- [Bananen-Pfannkuchen](rezepte/bananenpfannkuchen.md) - amerikanisches Rezept
-- [Bratäpfel](rezepte/bratapfel.md) - Fast vegan
-- [Indischer Brotpudding](rezepte/indischerbrotpudding.md) - Double ka Meetha
-- [Kaiserschmarrn](rezepte/kaiserschmarrn.md) - eine Portion
-- [Milchreis](rezepte/milchreis.md) - a la mama, 1 Portion
-- [Mohnkloesse](rezepte/mohnkloesse.md) - traditionell
-- [Obstquark](rezepte/obstquark.md) - a la Mama
-- [Obstsalat](rezepte/obstsalat.md) - erfrischend
-- [Panna cotta](rezepte/pannacotta.md) - 
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananen-Pfannkuchen](rezepte/bananenpfannkuchen.md) - amerikanisches Rezept
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bratäpfel](rezepte/bratapfel.md) - Fast vegan
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Indischer Brotpudding](rezepte/indischerbrotpudding.md) - Double ka Meetha
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Kaiserschmarrn](rezepte/kaiserschmarrn.md) - eine Portion
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Milchreis](rezepte/milchreis.md) - a la mama, 1 Portion
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mohnkloesse](rezepte/mohnkloesse.md) - traditionell schlesisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Obstquark](rezepte/obstquark.md) - a la Mama
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Obstsalat](rezepte/obstsalat.md) - erfrischend
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Panna cotta](rezepte/pannacotta.md) - ein Klassiker
 
 Pfannengebaeck
 ---
-- [American Pancakes](rezepte/americanpancakes.md) - etwa 7 mittelgroße ~, 960 kcal ohne Specials
-- [Crumpets](rezepte/crumpets.md) - classic english
-- [Kaiserschmarrn](rezepte/kaiserschmarrn.md) - eine Portion
-- [Mamas Pfannkuchen](rezepte/pfannkuchenmama.md) - Reicht für 6 große
-- [Zucchiniroesti](rezepte/zucchiniroesti.md) - einfach und gut
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [American Pancakes](rezepte/americanpancakes.md) - einfach
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Crumpets](rezepte/crumpets.md) - classic english
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Kaiserschmarrn](rezepte/kaiserschmarrn.md) - eine Portion
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mamas Pfannkuchen](rezepte/pfannkuchenmama.md) - Reicht für 6 große
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zucchiniroesti](rezepte/zucchiniroesti.md) - einfach und gut
 
 Salate
 ---
-- [Apfel-Sellerie-Salat](rezepte/apfelselleriesalat.md) - einfach
-- [Bohnensalat](rezepte/bohnensalat.md) - a la Mama
-- [Brotsalat - Panzanella](rezepte/brotsalat.md) - Verwertung für altes, hartgewordenes Brot
-- [Coleslaw](rezepte/coleslaw.md) - aka Krautsalat
-- [Instantnudelsalat](rezepte/instantnudelsalat.md) - aus Nepal
-- [Kartoffelsalat](rezepte/kartoffelsalat.md) - mit Grillkartoffeln und Grillgemüse, 4-6 Personen, 20 min
-- [Linsensalat](rezepte/linsensalat.md) - 
-- [Obstsalat](rezepte/obstsalat.md) - erfrischend
-- [Selleriesalat](rezepte/selleriesalat.md) - nach Mamas Art; 750 kcal
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Apfel-Sellerie-Salat](rezepte/apfelselleriesalat.md) - einfach
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bohnensalat](rezepte/bohnensalat.md) - a la Mama
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Brotsalat - Panzanella](rezepte/brotsalat.md) - Verwertung für altes, hartgewordenes Brot
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Coleslaw](rezepte/coleslaw.md) - aka Krautsalat
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Instantnudelsalat](rezepte/instantnudelsalat.md) - aus Nepal
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kartoffelsalat](rezepte/kartoffelsalat.md) - mit Grillkartoffeln und Grillgemüse, 4-6 Personen, 20 min
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Linsensalat](rezepte/linsensalat.md) - lauwarm
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Obstsalat](rezepte/obstsalat.md) - erfrischend
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Selleriesalat](rezepte/selleriesalat.md) - nach Mamas Art
 
 Snacks
 ---
-- [Maroni](rezepte/maroni.md) - mit Weihnachtsmarktfeeling
-- [Toast Hawaii](rezepte/toasthawaii.md) - Klassiker
-- [gedaempfte Eier](rezepte/gedaempfteeier.md) - koreanisch, japanisch
-- [gefuellte Champignons](rezepte/gefuelltechampignons.md) - ueberbacken
-- [kandierter Ingwer](rezepte/kandierteringwer.md) - am Besten frisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Maroni](rezepte/maroni.md) - mit Weihnachtsmarktfeeling
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Toast Hawaii](rezepte/toasthawaii.md) - Klassiker
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [gedaempfte Eier](rezepte/gedaempfteeier.md) - koreanisch, japanisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [gefuellte Champignons](rezepte/gefuelltechampignons.md) - ueberbacken
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [kandierter Ingwer](rezepte/kandierteringwer.md) - am Besten frisch
 
 Sossen
 ---
-- [Bechamelsoße](rezepte/bechamel.md) - 800g; reicht knapp für eine Linsenlasagne
-- [Champignon-Tomatenrahmsoße](rezepte/champignontomatensosse.md) - mit Basilikum
-- [Champignoncreme](rezepte/champignoncreme.md) - auch als Fuellung
-- [Käsesoße](rezepte/kaesesosse.md) - für Nudeln, Windbeutel
-- [Pilzsoße](rezepte/pilzsosse.md) - etwa zwei Portionen
-- [Pistazienpesto](rezepte/pistazienpesto.md) - zum Beispiel zum Grillkartoffelsalat
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bechamelsoße](rezepte/bechamel.md) - reicht knapp für eine Linsenlasagne
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Champignon-Tomatenrahmsoße](rezepte/champignontomatensosse.md) - mit Basilikum
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Champignoncreme](rezepte/champignoncreme.md) - auch als Fuellung
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Käsesoße](rezepte/kaesesosse.md) - für Nudeln, Windbeutel
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pilzsoße](rezepte/pilzsosse.md) - etwa zwei Portionen
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pistazienpesto](rezepte/pistazienpesto.md) - zum Beispiel zum Grillkartoffelsalat
 
 Suppen
 ---
-- [Bohneneintopf](rezepte/bohneneintopf.md) - a la Mama
-- [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
-- [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
-- [Gemüsesuppe](rezepte/gemuesesuppe.md) - traditional
-- [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - etwa 1000 kcal
-- [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
-- [Lauchsuppe](rezepte/lauchsuppe.md) - potentially vegan, 2-3 Portions
-- [Linsensuppe](rezepte/linsensuppe.md) - nach Mamas Art
-- [Möhren Kartoffel Suppe](rezepte/moehrensuppe.md) - a la mama
-- [Zwiebelsuppe](rezepte/zwiebelsuppe.md) - klassisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bohneneintopf](rezepte/bohneneintopf.md) - a la Mama
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gemüsesuppe](rezepte/gemuesesuppe.md) - traditional
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - herzhaft. klingt komisch, ist aber gut
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Lauchsuppe](rezepte/lauchsuppe.md) - potentially vegan, 2-3 Portions
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Linsensuppe](rezepte/linsensuppe.md) - nach Mamas Art
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Möhren Kartoffel Suppe](rezepte/moehrensuppe.md) - a la mama
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zwiebelsuppe](rezepte/zwiebelsuppe.md) - klassisch
 
 Teige
 ---
-- [Bisquit](rezepte/bisquit.md) - sehr fluffy, gut zu schneiden, von Julien Picamil, 1654 kcal
-- [Hefeteig](rezepte/hefekuchenteig.md) - ein Blech, für Blechkuchen
-- [Mürbeteig](rezepte/muerbeteig.md) - für 16 Muffins, 6 kleine Tartes oder eine große
-- [Pizza-Öl-Teig](rezepte/pizzaoelteig.md) - Einfach
-- [Pizzateig](rezepte/pizzateig.md) - original italienisch
-- [Spätzle](rezepte/spaetzle.md) - traditional schwäbisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bisquit](rezepte/bisquit.md) - sehr fluffy, gut zu schneiden, von Julien Picamil
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefeteig](rezepte/hefekuchenteig.md) - ein Blech, für Blechkuchen
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mürbeteig](rezepte/muerbeteig.md) - für 16 Muffins, 6 kleine Tartes oder eine große
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pizza-Öl-Teig](rezepte/pizzaoelteig.md) - Einfach
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pizzateig](rezepte/pizzateig.md) - original italienisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spätzle](rezepte/spaetzle.md) - traditional schwäbisch
 
 Veganes
 ---
-- [Auberginenbaellchen](rezepte/auberginenbaellchen.md) - vegane Fleischklopse
-- [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
-- [Cashew-Ricotta](rezepte/cashewricotta.md) - vegan
-- [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
-- [Sesammayo](rezepte/sesamayo.md) - vegan Mayo
-- [Sommerrollen](rezepte/sommerrollen.md) - vegan
-- [Vegane Apfel Karotte Nuss Muffins](rezepte/veganemuffins.md) - 24 Muffins a 240 kcal
-- [Vegane Mayonnaise](rezepte/veganemayo.md) - gehaltvoll
-- [Volognese](rezepte/volognese.md) - Vegane Bolognese
-- [Zimtsterne](rezepte/zimtsterne.md) - vegan
-- [marinierte Karotten](rezepte/mariniertekarotten.md) - veganer "Lachs"
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Auberginenbaellchen](rezepte/auberginenbaellchen.md) - vegane Fleischklopse
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Cashew-Ricotta](rezepte/cashewricotta.md) - vegan
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sesammayo](rezepte/sesamayo.md) - vegan Mayo
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sommerrollen](rezepte/sommerrollen.md) - vegan
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Vegane Apfel Karotte Nuss Muffins](rezepte/veganemuffins.md) - viele Muffins
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Vegane Mayonnaise](rezepte/veganemayo.md) - gehaltvoll
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Volognese](rezepte/volognese.md) - Vegane Bolognese
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zimtsterne](rezepte/zimtsterne.md) - vegan, weihnachtlich
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [marinierte Karotten](rezepte/mariniertekarotten.md) - veganer "Lachs"
 
 Zutaten
 ---
-- [Bauernkäse](rezepte/bauernkaese.md) - traditionell englischer farmers cheese
-- [Cashew-Ricotta](rezepte/cashewricotta.md) - vegan
-- [Crema pastelera](rezepte/cremapastelera.md) - ~925 kcal
-- [Streusel](rezepte/streusel.md) - für 1 Blech
-- [Tapiokaperlen](rezepte/tapiokapearls.md) - für Bubble tea
-- [crunchy Tofu](rezepte/crunchytofu.md) - a la Kylie
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bauernkäse](rezepte/bauernkaese.md) - traditionell englischer farmers cheese
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Cashew-Ricotta](rezepte/cashewricotta.md) - vegan
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Crema pastelera](rezepte/cremapastelera.md) - fuer Kuchen und Gebaeck
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Streusel](rezepte/streusel.md) - für 1 Blech
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Tapiokaperlen](rezepte/tapiokapearls.md) - für Bubble tea
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [crunchy Tofu](rezepte/crunchytofu.md) - a la Kylie
 
 suesses Gebaeck
 ---
-- [Apfel Muffins](rezepte/apfelmuffins.md) - etwa 16 Stück
-- [Blondies](rezepte/blondies.md) - 
-- [Joghurt Muffins](rezepte/joghurtmuffins.md) - etwa 12 Stück a 130 kcal
-- [Karotten Muffins](rezepte/karottenmuffins.md) - etwa 15 Stück a 230 cals
-- [Sticky Toffee Pudding](rezepte/toffeepudding.md) - 
-- [Vegane Apfel Karotte Nuss Muffins](rezepte/veganemuffins.md) - 24 Muffins a 240 kcal
-- [Weihnachtliche Stutenkerle](rezepte/stutenkerle.md) - für zwei große Figuren
-- [Windbeutel](rezepte/windbeutel.md) - Profiteroles
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Apfel Muffins](rezepte/apfelmuffins.md) - etwa 16 Stück
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blondies](rezepte/blondies.md) - helle Brownies
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Joghurt Muffins](rezepte/joghurtmuffins.md) - None
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Karotten Muffins](rezepte/karottenmuffins.md) - etwa 15 Stück a 230 cals
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Sticky Toffee Pudding](rezepte/toffeepudding.md) - maechtig und gut
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Vegane Apfel Karotte Nuss Muffins](rezepte/veganemuffins.md) - viele Muffins
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Weihnachtliche Stutenkerle](rezepte/stutenkerle.md) - für zwei große Figuren
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Windbeutel](rezepte/windbeutel.md) - Profiteroles

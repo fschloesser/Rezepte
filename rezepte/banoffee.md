@@ -1,6 +1,6 @@
 Banoffee Pie
 ===
-5662 kcal; Kuchen von etwa 23 cm Durchmesser
+himmlisch
 
 Zutaten:
 ---
@@ -36,7 +36,7 @@ Die Butter dazu geben und mixen bis der Teig einer krümelige Textur hat.
 
 Das Ei hinzugeben und gründlich mischen bis der Teig zusammenkommt.
 
-Eine Kuchenbodenform damit auslegen und mit einer Gabel den Boden einstechen.
+Eine Kuchenbodenform von ca 23 Zentimeter damit auslegen und mit einer Gabel den Boden einstechen.
 
 Im Kühlschrank für mindestens eine Stunde kalt stellen.
 

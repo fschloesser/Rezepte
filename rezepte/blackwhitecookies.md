@@ -19,7 +19,7 @@ Wenn der Teig zu trocken ist, etwas Wasser dazu geben.
 
 Den Teig halbieren, zu einer Hälfte den Backkakao hinzugeben und einarbeiten, zu dem anderen den Vanillezucker.
 
-Beide Teige ca eine eine Stunde im Kühlschrank ruhen lassen.
+Beide Teige circa eine eine Stunde im Kühlschrank ruhen lassen.
 
 Dann zwischen Backpapier zu dünnen Rechtecken ausrollen, aufeinander legen und zusammen zu einer Rolle formen, diese in Scheiben schneiden, sodass man die Spirale sieht.
 

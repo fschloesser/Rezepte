@@ -18,7 +18,7 @@ Gewaschenen Reis dazu geben und weitere 10 Minuten kochen.
 
 In der Zwischenzeit Nudeln al dente kochen.
 
-Tomatensoße mit Öl, Curry, Suker, Salz, Pfeffer etc. kochen.
+Tomatensoße mit Öl, Curry, Zucker, Salz, Pfeffer etc. kochen.
 
 2 Zwiebeln in Spalten schneiden und auf minimaler Hitze in Öl karamellisieren.
 

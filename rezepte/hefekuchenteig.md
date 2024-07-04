@@ -14,7 +14,7 @@ Zutaten:
 
 Anleitung:
 ---
-Alles zusammen mischen und eine halbe Stunde an einem warmen Ort gehen lassen.
+Alles zusammen mischen, zu einem Teig verkneten und eine halbe Stunde an einem warmen Ort gehen lassen.
 
 Auf dem Blech ausrollen und mit Obst und Streuseln belegen.
 

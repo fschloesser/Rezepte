@@ -1,6 +1,6 @@
 ingredients:
 - amount: '5'
-  ingredient: Joghurt (1,5 \% Fett)
+  ingredient: Joghurt (1,5 % Fett)
   unit: EL
 - amount: '2'
   ingredient: Walnussöl
@@ -42,7 +42,8 @@ instructions: '1.  Für das Dressing Joghurt mit Walnussöl, Zitronensaft, Weiß
   4.  Petersilie waschen, trocken schütteln, die Blätter abzupfen. Petersilienblätter
   fein hacken und mit Apfelraspeln, Sellerie und dem Dressing mischen. Den Salat abschmecken
   und in Schälchen anrichten.'
-subtitle: nach Mamas Art; 750 kcal
+subtitle: nach Mamas Art
 title: Selleriesalat
 tags:
   - Salate
+rating: 2

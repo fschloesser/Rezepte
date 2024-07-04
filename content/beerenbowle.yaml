@@ -23,10 +23,10 @@ ingredients:
 - amount: '1'
   ingredient: Orange
   unit: Stueck
-instructions: "Beeren mit Zucker und Wodka vermischen, 24 Stunden kuehl stellen.\n\
-  \  Vor dem Servieren mit Saft und Wein aufgiessen, geschnittene Zitrusfruechte und\
-  \ Eiswuerfel hinzugeben."
+instructions: 'Beeren mit Zucker und Wodka vermischen, 24 Stunden kuehl stellen.
+  Vor dem Servieren mit Saft und Wein aufgiessen, geschnittene Zitrusfruechte und Eiswuerfel hinzugeben.'
 subtitle: fruchtig
 title: Beerenbowle
 tags:
   - Getraenke
+rating: 1

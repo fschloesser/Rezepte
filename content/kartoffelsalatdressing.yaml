@@ -1,6 +1,6 @@
 ingredients:
 - amount: '1'
-  ingredient: Creme Fraiche oder Joghurt (10\%)
+  ingredient: Creme Fraiche oder Joghurt (10%)
   unit: Becher
 - amount: ''
   ingredient: Senf
@@ -16,3 +16,4 @@ subtitle: ohne Mayo, lecker
 title: Kartoffelsalat-Dressing
 tags:
   - Dressings
+rating: 1

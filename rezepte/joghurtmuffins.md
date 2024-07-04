@@ -1,6 +1,6 @@
 Joghurt Muffins
 ===
-etwa 12 Stück a 130 kcal
+None
 
 Zutaten:
 ---
@@ -15,7 +15,7 @@ Zutaten:
 
 Anleitung:
 ---
-Info: 1 cup = 225 ml.
+Info: 1 cup = 225 ml. Zutaten sind fuer etwa 12 Muffins.
 
 Trockene Zutaten mischen,
 

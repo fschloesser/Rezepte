@@ -1,6 +1,6 @@
 Kakaolinsensuppe
 ===
-etwa 1000 kcal
+herzhaft. klingt komisch, ist aber gut
 
 Zutaten:
 ---

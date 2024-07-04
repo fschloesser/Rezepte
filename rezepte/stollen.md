@@ -1,6 +1,6 @@
 Stollen
 ===
-von 1945
+Rezept von 1945
 
 Zutaten:
 ---

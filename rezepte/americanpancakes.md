@@ -1,6 +1,6 @@
 American Pancakes
 ===
-etwa 7 mittelgroße ~, 960 kcal ohne Specials
+einfach
 
 Zutaten:
 ---
@@ -15,7 +15,7 @@ Zutaten:
 
 Anleitung:
 ---
-Zuerst die trockenen Zutaten mischen und dann die Nassen dazu geben.
+Zutaten fuer etwa 7 mittelgroße Pancakes. Zuerst die trockenen Zutaten mischen und dann die Nassen dazu geben.
 
 Zu einem zähflüssigen Teig vermischen und in etwas Butter von beiden Seiten bei mittlerer Hitze (4-5/9) ausbacken.
 

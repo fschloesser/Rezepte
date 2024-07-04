@@ -1,6 +1,6 @@
 Bisquit
 ===
-sehr fluffy, gut zu schneiden, von Julien Picamil, 1654 kcal
+sehr fluffy, gut zu schneiden, von Julien Picamil
 
 Zutaten:
 ---

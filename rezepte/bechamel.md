@@ -1,6 +1,6 @@
 Bechamelsoße
 ===
-800g; reicht knapp für eine Linsenlasagne
+reicht knapp für eine Linsenlasagne
 
 Zutaten:
 ---

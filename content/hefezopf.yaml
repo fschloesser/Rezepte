@@ -26,7 +26,7 @@ ingredients:
 - amount: '125'
   ingredient: Milch
   unit: g
-instructions: 'Alles zusammen mischen, eine Stunde gehen lassen.
+instructions: 'Alles zu einem Teig zusammen mischen und gut durchkneten, dann in einer Schuessel eine Stunde gehen lassen.
 
   Zopf flechten und mit Milch bestreichen, eine halbe Stunde gehen lassen.
 
@@ -35,3 +35,4 @@ subtitle: zu Ostern
 title: Hefezopf mit Rosinen
 tags:
   - Kuchen
+rating: 2
