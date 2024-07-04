@@ -12,6 +12,8 @@ Beilagen
 
 Brote
 ---
+- [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
+- [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
 - [Hefebrot](rezepte/hefebrot.md) - dauert mind. 4 Stunden
 - [Marraqueta](rezepte/marraqueta.md) - tradicional
 - [Sauerteigbrot ultimate](rezepte/sauerteigbrot.md) - Tagesprojekt, 2 Brote, 3500 kcal
@@ -19,7 +21,6 @@ Brote
 Dip
 ---
 - [Chimichurri](rezepte/chimichurri.md) - 
-- [Tzaziki](rezepte/tzaziki.md) - geht auch vegan
 
 Dips
 ---
@@ -31,6 +32,7 @@ Dips
 - [Quark zu Kartoffeln](rezepte/kartoffelquark.md) - a la Mama
 - [Sesammayo](rezepte/sesamayo.md) - vegan Mayo
 - [Soja Limetten Dip](rezepte/sojalimettendip.md) - zum Beispiel zu Sommerrollen
+- [Tzaziki](rezepte/tzaziki.md) - geht auch vegan
 - [Vegane Mayonnaise](rezepte/veganemayo.md) - gehaltvoll
 
 Dressings
@@ -107,7 +109,7 @@ Kuchen
 ---
 - [Apfelrührkuchen](rezepte/apfelruehrkuchen.md) - fluffig und saftig
 - [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
-- [Bananenbrot](rezepte/bananenbrot.md) - mit Datteln
+- [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
 - [Banoffee Pie](rezepte/banoffee.md) - 5662 kcal; Kuchen von etwa 23 cm Durchmesser
 - [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
 - [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern

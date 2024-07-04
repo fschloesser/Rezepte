@@ -1,6 +1,6 @@
 Bananenbrot
 ===
-mit Datteln
+ohne Datteln
 
 Zutaten:
 ---
@@ -31,3 +31,5 @@ Bananen-Püree dazugeben und einrühren.
 Teig in die Form geben und 55 Minuten backen.
 
 Nach dem Backen vollständig auskühlen lassen und erst dann aus der Form nehmen.
+
+Tip: auch gut mit Schokostuecken.
