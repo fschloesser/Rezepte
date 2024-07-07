@@ -1,0 +1,50 @@
+ingredients:
+- amount: '200'
+  unit: g
+  ingredient: festkochende Kartoffeln
+- amount: '2'
+  unit: ''
+  ingredient: Eier
+- amount: '0.5'
+  unit: ''
+  ingredient: Gurken
+- amount: '2'
+  unit: ''
+  ingredient: Fruehlingszwiebeln
+- amount: '0.5'
+  unit: 'Bund'
+  ingredient: Dill
+- amount: '5'
+  unit: ''
+  ingredient: Radieschen
+- amount: '150'
+  unit: 'g'
+  ingredient: Schmand
+- amount: '500'
+  unit: 'ml'
+  ingredient: Kefir
+- amount: '250'
+  unit: 'ml'
+  ingredient: Sprudelwasser
+- amount: '2'
+  unit: 'EL'
+  ingredient: grober Senf
+- amount: ''
+  unit: ''
+  ingredient: Salz und Pfeffer
+- amount: ''
+  unit: ''
+  ingredient: Meerrettich
+instructions: 'Eier und Kartoffeln kochen und abkuehlen lassen.
+  Pellen und in kleine Wuerfel schneiden.
+
+  Gurke, Fruehlingszwiebeln, Zwiebeln, Radieschen klein schneiden, Dill hacken.
+
+  Schmand, Kefir, Wasser und Senf gut verruehren, mit Salz und Pfeffer abschmecken und das Gemuese dazu geben.
+
+  Kalt stellen und kuehl servieren.'
+subtitle: russische Sommersuppe
+title: Okroshka
+tags:
+  - Suppen
+rating: 2

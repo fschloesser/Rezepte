@@ -1,0 +1,47 @@
+ingredients:
+- amount: '3'
+  ingredient: Zwiebeln
+  unit: ''
+- amount: '2'
+  ingredient: Knoblauch
+  unit: 'Zehen'
+- amount: '500'
+  ingredient: Paprika
+  unit: 'g'
+- amount: '500'
+  ingredient: Tomaten
+  unit: 'g'
+- amount: '2'
+  ingredient: Ketchup
+  unit: 'EL'
+- amount: '150'
+  ingredient: Wasser
+  unit: 'ml'
+- amount: '1'
+  ingredient: Paprikapulver
+  unit: 'EL'
+- amount: '1'
+  ingredient: Zucker
+  unit: 'TL'
+- amount: '1'
+  ingredient: Salz
+  unit: 'Prise'
+- amount: '1'
+  ingredient: Pfeffer
+  unit: 'Prise'
+instructions: 'Zwiebeln und Knoblauch schaelen und hacken.
+  Paprika in mundgerechte Stuecke schneiden.
+  Tomaten waschen, Schalen kreuzweise anschneiden und blanchieren.
+  Die Haut abziehen und die Tomaten in kleine Stuecke schneiden.
+
+  Zwiebeln und Knoblauch in Oel oder Butter glasig anbraten.
+
+  Paprika, Tomatenwuerfel und Ketchup hinzugeben, und mit dem Wasser auffuellen.
+
+  Mit Salz, Pfeffer und Paprikapulver abschmecken, dann das Ganze kochen bis es weich ist.
+  '
+subtitle: Paprikasuppe
+title: Letscho
+tags:
+  - Suppen
+rating: 1

@@ -1,0 +1,24 @@
+ingredients:
+- amount: '10-15'
+  unit: ''
+  ingredient: Bio-Zitronen
+- amount: '1'
+  unit: l
+  ingredient: Ethanol
+- amount: '700'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '1'
+  unit: 'l'
+  ingredient: Wasser
+instructions: 'Die Zitronen gut waschen und die Zesten, das heisst den gelben Teil der Schale abschaelen.
+  Die Zesten in den Ethanol geben und mindestens zwei Wochen ziehen lassen.
+
+  (Aus dem Zitronensaft einen Zitronenkuchen backen.)
+
+  Den Zucker im lauwarmen Liter Wasser aufloesen und den infundierten Ethanol dazu geben (nicht die Zesten).'
+subtitle: nach italienischem Rezept
+title: Limoncello
+tags:
+  - Getraenke
+rating: 3

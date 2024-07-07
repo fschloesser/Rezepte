@@ -1,0 +1,35 @@
+ingredients:
+- amount: '2'
+  unit: 'Bund'
+  ingredient: Petersilie
+- amount: '1'
+  unit: 'Bund'
+  ingredient: Minze
+- amount: '3'
+  unit: ''
+  ingredient: Fruehlingszwiebeln
+- amount: '3'
+  unit: ''
+  ingredient: Tomaten
+- amount: '50'
+  unit: ml
+  ingredient: Olivenoel
+- amount: '1'
+  unit: ''
+  ingredient: Zitrone
+- amount: '1'
+  unit: 'EL'
+  ingredient: Bulgur
+instructions: 'Bulgur mit heissem Wasser uebergiessen und etwa zwei bis drei Minuten stehen lassen.
+
+  Kraeuter waschen und klein hacken.
+
+  Fruehlingszwiebeln in kleine Ringe schneiden, Tomaten in kleine Wuerfel.
+
+  In einer Schuessel mit dem Bulgur, Olivenoel, Saft der Zitrone und dem Salz vermengen.'
+subtitle: Petersiliensalat
+title: Taboule
+tags:
+  - Salate
+  - Veganes
+rating: 1

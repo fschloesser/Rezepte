@@ -1,0 +1,34 @@
+ingredients:
+- amount: '4'
+  ingredient: gelbe Bete
+  unit: ''
+- amount: '1'
+  ingredient: Knoblauch
+  unit: Zehe
+- amount: '200'
+  ingredient: Wasser
+  unit: ml
+- amount: '60'
+  ingredient: Honig
+  unit: g
+- amount: '1'
+  ingredient: Pfefferkoerner
+  unit: TL
+- amount: '250'
+  ingredient: Tafelessig
+  unit: ml
+instructions: 'Die gelben Bete waschen und in Wasser etwa eine halbe Stunde kochen.
+  Mit kaltem Wasser abschrecken, schaelen und in feine Spalten schneiden.
+
+  Knoblauch schaelen und in Scheiben schneiden.
+
+  Knoblauch und Bete ein sauberes Literglas fuellen.
+
+  Das Wasser mit Knoblauch, Honig, Essig und Pfefferkoernern aufkochen, und direkt in das Glas geben und verschliessen.
+
+  Nach drei Tagen an einem kuehlen und dunklen Ort koennen die Bete genossen werden.'
+subtitle: eingelegte
+title: Gelbe Bete
+tags:
+  - Eingelegtes
+rating: 1

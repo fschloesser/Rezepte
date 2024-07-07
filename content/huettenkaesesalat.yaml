@@ -1,0 +1,32 @@
+ingredients:
+- amount: '1'
+  unit: ''
+  ingredient: Gurke
+- amount: '5'
+  unit: ''
+  ingredient: Radieschen
+- amount: '1'
+  unit: ''
+  ingredient: Fruehlingszwiebel
+- amount: '200'
+  unit: g
+  ingredient: Huettenkaese
+- amount: ''
+  unit: ''
+  ingredient: geroestete Sonnenblumenkerne
+- amount: ''
+  unit: ''
+  ingredient: Salz und Pfeffer
+- amount: ''
+  unit: 'etwas'
+  ingredient: Schnittlauch
+instructions: 'Gurke in Wuerfel, Radieschen in Scheiben und Fruehlingszwiebel in Ringe schneiden.
+
+  Mit Huettenkaese, etwas Olivenoel und Sonnenblumenkernen in einer Schuessel vermischen.
+
+  Mit Salz und Pfeffer abschmecken, mit Schnittlauch garnieren und und kuehl servieren.'
+subtitle: russische Sommersuppe
+title: Okroshka
+tags:
+  - Suppen
+rating: 1

@@ -1,0 +1,49 @@
+ingredients:
+- amount: '3'
+  unit: ''
+  ingredient: saeuerliche Aepfel
+- amount: '0.5'
+  unit: 'EL'
+  ingredient: gehackter Dill
+- amount: '2'
+  unit: ''
+  ingredient: Eier
+- amount: '100'
+  unit: g
+  ingredient: gekochte Erbsen
+- amount: '100'
+  unit: g
+  ingredient: Gewuerzgurken
+- amount: '200'
+  unit: g
+  ingredient: Kartoffeln
+- amount: '50'
+  unit: g
+  ingredient: Knollensellerie
+- amount: '100'
+  unit: g
+  ingredient: Karotten
+- amount: '4'
+  unit: EL
+  ingredient: Gurkensud
+- amount: '200'
+  unit: g
+  ingredient: Mayonnaise
+- amount: ''
+  unit: ''
+  ingredient: Salz und Pfeffer
+instructions: 'Kartoffeln, Karotten und Sellerie putzen und in kleine Wuerfel schneiden.
+  Diese etwa eine Viertelstunde in Wasser bissfest kochen und abkuehlen lassen.
+
+  Die Eier hart kochen.
+
+  Eier, Gurken und Aepfel in kleine Wuerfel schneiden.
+
+  In einer Schuessel alles gut vermengen, mit Mayonnaise, Gurkensud, Gewuerzen und Dill abschmecken und abkuehlen lassen.
+
+  Kalt servieren.'
+subtitle: polnischer Salat
+title: Jarzynowa
+tags:
+  - Salate
+rating: 1

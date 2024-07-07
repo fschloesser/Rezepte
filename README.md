@@ -21,7 +21,7 @@ Brote
 Dips
 ---
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
-- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) - 
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) -
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Erdnussdip](rezepte/erdnussdip.md) - zum Beispiel zu Sommerrollen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hummus](rezepte/hummus.md) - einfach und schnell
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kraeuterbutter](rezepte/kraeuterbutter.md) - klassisch
@@ -41,6 +41,7 @@ Dressings
 
 Eingelegtes
 ---
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gelbe Bete](rezepte/eingelegtegelbebete.md) - eingelegte
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sauerkraut](rezepte/sauerkraut.md) - selbstgemacht
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zwiebelallerlei](rezepte/zwiebeln.md) - angemacht
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [chinesischer eingelegter Knoblauch](rezepte/chinesegarlic.md) - Laba Garlic
@@ -72,6 +73,7 @@ Getraenke
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Ingwerbier](rezepte/ingwerbier.md) - für etwa 3 Liter
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Limoncello](rezepte/limoncello.md) - nach italienischem Rezept
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Milchkefir](rezepte/milchkefir.md) - probiotisch und fermentiert
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Mote con huesillos](rezepte/moteconhuesillos.md) - receta tradicional chilena
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Waldmeisterbowle](rezepte/waldmeisterbowle.md) - Klassiker
@@ -150,10 +152,12 @@ Salate
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Brotsalat - Panzanella](rezepte/brotsalat.md) - Verwertung für altes, hartgewordenes Brot
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Coleslaw](rezepte/coleslaw.md) - aka Krautsalat
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Instantnudelsalat](rezepte/instantnudelsalat.md) - aus Nepal
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Jarzynowa](rezepte/jarzynowa.md) - polnischer Salat
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kartoffelsalat](rezepte/kartoffelsalat.md) - mit Grillkartoffeln und Grillgemüse, 4-6 Personen, 20 min
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Linsensalat](rezepte/linsensalat.md) - lauwarm
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Obstsalat](rezepte/obstsalat.md) - erfrischend
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Selleriesalat](rezepte/selleriesalat.md) - nach Mamas Art
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Taboule](rezepte/petersiliensalat.md) - Petersiliensalat
 
 Snacks
 ---
@@ -181,8 +185,10 @@ Suppen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - herzhaft. klingt komisch, ist aber gut
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Lauchsuppe](rezepte/lauchsuppe.md) - potentially vegan, 2-3 Portions
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Letscho](rezepte/letscho.md) - Paprikasuppe
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Linsensuppe](rezepte/linsensuppe.md) - nach Mamas Art
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Möhren Kartoffel Suppe](rezepte/moehrensuppe.md) - a la mama
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Okroshka](rezepte/huettenkaesesalat.md) - russische Sommersuppe
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zwiebelsuppe](rezepte/zwiebelsuppe.md) - klassisch
 
 Teige
@@ -202,6 +208,7 @@ Veganes
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sesammayo](rezepte/sesamayo.md) - vegan Mayo
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sommerrollen](rezepte/sommerrollen.md) - vegan
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Taboule](rezepte/petersiliensalat.md) - Petersiliensalat
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Vegane Apfel Karotte Nuss Muffins](rezepte/veganemuffins.md) - viele Muffins
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Vegane Mayonnaise](rezepte/veganemayo.md) - gehaltvoll
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Volognese](rezepte/volognese.md) - Vegane Bolognese
