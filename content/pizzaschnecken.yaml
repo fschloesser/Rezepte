@@ -1,0 +1,39 @@
+ingredients:
+- amount: '200'
+  ingredient: geriebener Kaese
+  unit: g
+- amount: '2'
+  ingredient: Zwiebeln
+  unit: kleine
+- amount: '1'
+  ingredient: Mais
+  unit: kleine Dose
+- amount: '1'
+  ingredient: Tomatenmark
+  unit: kleine Dose
+- amount: '1'
+  ingredient: Pizzasosse
+  unit: halbe Dose
+- amount: ''
+  ingredient: Pizzateig von 500 g Mehl
+  unit:
+instructions: '
+  Den Teig in zwei Haelften teilen und je auf Groesse eines Blechs ausrollen.
+
+  Duenn mit Tomatenmark bestreichen und darueber die Sosse ausbreiten. Dabei auf der linken Seite einen ca 2 cm breiten Streifen frei lassen.
+
+  Den tomatigen Teil mit klein gewuerfelten Zwiebeln, Mais und Kaese bestreuen.
+
+  Von rechts aufrollen und am Ende mit dem frei gelassenen Teil zusammen kleben.
+
+  Die Rolle in ca 1 bis 1.5cm breite Scheiben schneiden und auf ein mit Backpapier belegtem Blech legen.
+
+  Die Mengen sollten fuer zwei Bleche reichen.
+
+  Bei 160 Grad Umluft etwa 40 Minuten backen und auf einem Rost auskuehlen lassen.
+  '
+subtitle: super fuer Partys
+title: Pizzaschnecken
+tags:
+  - Fingerfood
+rating: 1

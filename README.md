@@ -21,7 +21,7 @@ Brote
 Dips
 ---
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
-- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) -
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) - 
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Erdnussdip](rezepte/erdnussdip.md) - zum Beispiel zu Sommerrollen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hummus](rezepte/hummus.md) - einfach und schnell
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kraeuterbutter](rezepte/kraeuterbutter.md) - klassisch
@@ -52,6 +52,7 @@ Fingerfood
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Auberginenbaellchen](rezepte/auberginenbaellchen.md) - vegane Fleischklopse
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Brokkoli-Kaese-Baellchen](rezepte/brokkolikaesebaellchen.md) - easy
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Partyspiesse](rezepte/spiesse.md) - einfach
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pizzaschnecken](rezepte/pizzaschnecken.md) - super fuer Partys
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sommerrollen](rezepte/sommerrollen.md) - vegan
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zucchini-Sushi](rezepte/zucchinisushi.md) - kompliziert aber lecker
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [gefuellte Champignons](rezepte/gefuelltechampignons.md) - ueberbacken
@@ -73,6 +74,7 @@ Getraenke
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Ingwerbier](rezepte/ingwerbier.md) - für etwa 3 Liter
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Lillet Berry](rezepte/lilletberry.md) - neuer Klassiker
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Limoncello](rezepte/limoncello.md) - nach italienischem Rezept
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Milchkefir](rezepte/milchkefir.md) - probiotisch und fermentiert
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Mote con huesillos](rezepte/moteconhuesillos.md) - receta tradicional chilena

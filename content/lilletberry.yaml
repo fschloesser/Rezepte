@@ -1,0 +1,24 @@
+ingredients:
+- amount: ''
+  ingredient: Lillet
+  unit: ''
+- amount: ''
+  ingredient: Beerentonic
+  unit: ''
+- amount: ''
+  ingredient: gefrorene Beeren
+  unit: ''
+- amount: ''
+  ingredient: Eiswuerfel
+  unit:
+instructions: 'Einen Teil Lilletwein und zwei Teile Tonic mischen.
+  In einem schoenen Glas mit gefrorenen Beeren und Eiswuerfeln garnieren.
+
+  Mit einem Strohhalm servieren.
+
+  Alternativ koennen natuerlich auch frische Beeren verwendet werden.'
+subtitle: neuer Klassiker
+title: Lillet Berry
+tags:
+  - Getraenke
+rating: 1
