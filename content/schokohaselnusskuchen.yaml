@@ -1,0 +1,42 @@
+ingredients:
+- amount: '150'
+  ingredient: Butter
+  unit: 'g'
+- amount: '60'
+  ingredient: Zucker
+  unit: 'g'
+- amount: '4'
+  ingredient: Eier
+  unit: ''
+- amount: '100'
+  ingredient: Zartbitterschokolade
+  unit: 'g'
+- amount: '150'
+  ingredient: Haselnuesse (gemahlen)
+  unit: 'g'
+- amount: '100'
+  ingredient: Mehl
+  unit: 'g'
+- amount: '1'
+  ingredient: Backpulver
+  unit: 'TL'
+- amount: '1'
+  ingredient: Salz
+  unit: 'Prise'
+instructions: 'Butter und Zucker cremig schlagen.
+  Die Eier trennen und die Eigelbe nach und nach unterruehren.
+
+  Schokolade reiben und mit Mehl, Backpulver und den Haselnuessen vermengen.
+  In die Eier-Zucker-Masse geben und unterruehren.
+
+  Das Eiweiss mit einer Prise Salz steif schlagen und vorsichtig unter den Teig heben.
+
+  In eine Kastenform fuellen und fuer etwa 50 Minuten backen.
+
+  Mit Schokoglasur ueberziehen. Wird besser wenn man stattdessen den Kuchen als Boden in einer runden Form nimmt und mit einer guten Menge Bananenfostercreme garniert.
+  '
+subtitle: besser mit Bananenfostercreme
+title: Schoko-Haselnuss-Kuchen
+tags:
+  - Kuchen
+rating: 1

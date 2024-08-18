@@ -112,12 +112,14 @@ Kuchen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Apfelrührkuchen](rezepte/apfelruehrkuchen.md) - fluffig und saftig
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananabread mit Datteln](rezepte/bananabread_with_dates.md) - mit Datteln
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bananenfostercreme](rezepte/bananenfostercreme.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Banoffee Pie](rezepte/banoffee.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Hermann](rezepte/hermann.md) - nachwachsend
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rhabarberkuchen](rezepte/rhabarberpie.md) - Französisch
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sandkuchen](rezepte/sandkuchen.md) - Zum Beispiel mit Apfel
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Schoko-Haselnuss-Kuchen](rezepte/schokohaselnusskuchen.md) - besser mit Bananenfostercreme
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Stollen](rezepte/stollen.md) - Rezept von 1945
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Torta Pompadour](rezepte/tortapompadour.md) - einer Grossmutters Rezept
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Tres Leches](rezepte/tresleches.md) - klassisch suedamerikanisch
@@ -160,6 +162,7 @@ Salate
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Obstsalat](rezepte/obstsalat.md) - erfrischend
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Selleriesalat](rezepte/selleriesalat.md) - nach Mamas Art
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Taboule](rezepte/petersiliensalat.md) - Petersiliensalat
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Wassermelonensalat](rezepte/tomatewassermelone.md) - sommerlich
 
 Snacks
 ---

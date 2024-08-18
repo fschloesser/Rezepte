@@ -1,0 +1,25 @@
+ingredients:
+- amount: '4'
+  ingredient: reife Bananen
+  unit: ''
+- amount: '50'
+  ingredient: Butter
+  unit: 'g'
+- amount: '100'
+  ingredient: Zucker
+  unit: 'g'
+- amount: '1'
+  ingredient: Zitrone
+  unit: ''
+instructions: 'Die Bananen in Scheiben schneiden und die Zitrone auspressen.
+  Die Butter in der Pfanne zerlassen, Zitronensaft und Zucker hinzugeben und aufloesen.
+
+  Nun die Bananenscheiben hinzugeben und garen, dann alles karamellisieren lassen. Dabei aufpassen dass die Masse nicht anbrennt.
+
+  Vom Herd nehmen und abkuehlen lassen, dann die Bananen zerdruecken und alles zu einer homogenen Masse verruehren.
+  '
+subtitle: himmlisch
+title: Bananenfostercreme
+tags:
+  - Kuchen
+rating: 2
