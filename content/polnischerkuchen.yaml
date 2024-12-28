@@ -1,0 +1,36 @@
+ingredients:
+- amount: '350'
+  unit: 'g'
+  ingredient: Margarine
+- amount: '2'
+  unit: 'Glaeser'
+  ingredient: Zucker
+- amount: '1/2'
+  unit: 'Glas'
+  ingredient: Wasser
+- amount: '3'
+  unit: 'EL'
+  ingredient: Kakao
+- amount: '4'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '2'
+  unit: 'Glas'
+  ingredient: Mehl
+- amount: '3/4'
+  unit: 'Pck'
+  ingredient: Backpulver
+instructions: '
+  Margarine, Zucker, Wasser, Kakao: alles aufkochen, von der Masse eine 3/4 Tasse abnehmen, den Rest 15 Minuten abkuehlen lassen.
+
+  Dann Eier, Vanillezucker, Mehl, Backpulver unterruehren, in eine Kastenform fuellen und bei Mittelhitze 25-30 Minuten backen. Danach die restliche Masse drueber giessen und fertig backen.
+  Der Teig kann durch Mandeln, Nuesse, Sultaninen, Zitronat verfeinert werden.
+  '
+subtitle: von Mutti - gesammelte Rezepte von Oma
+title: Polnischer Kuchen
+tags:
+  - Kuchen
+rating: 2

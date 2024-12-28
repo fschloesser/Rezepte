@@ -1,0 +1,36 @@
+ingredients:
+- amount: '150'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '400'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '150'
+  unit: 'g'
+  ingredient: Butter
+- amount: '7'
+  unit: ''
+  ingredient: Eier
+- amount: '1/2'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '1'
+  unit: 'Pse'
+  ingredient: Salz
+- amount: '300'
+  unit: 'g'
+  ingredient: suesse Mandeln
+instructions: '
+  Teig: Mehl, 150 g Zucker, Butter, 3 Eier, Backpulver, Salz.
+
+  Belag: Mandeln, 250 g Zucker, 4 Eier.
+
+  Butter zerlassen, Zucker zugeben, danach Mandeln und Eier.
+
+  30 Minuten backen.
+  '
+subtitle: von L - gesammelte Rezepte von Oma
+title: Nusstorte von L
+tags:
+  - Torten
+rating: 2

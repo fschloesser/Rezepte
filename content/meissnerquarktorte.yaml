@@ -1,0 +1,42 @@
+ingredients:
+- amount: '250'
+  unit: 'g'
+  ingredient: Butter
+- amount: '6'
+  unit: ''
+  ingredient: Eier
+- amount: '300'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '1'
+  unit: 'TL'
+  ingredient: Zitronenschale und Saft
+- amount: '100'
+  unit: 'g'
+  ingredient: Gries
+- amount: '1'
+  unit: 'EL'
+  ingredient: Mehl
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '1'
+  unit: 'Pse'
+  ingredient: Salz
+- amount: '125'
+  unit: 'g'
+  ingredient: Puderzucker
+instructions: '
+  200 g Butter schaumig ruehren, Eier trennen.
+  Eigelb, Zucker, Zitronenschale, Saft zur Butter geben, gut verruehren.
+  Quark, Gries, Mehl, Bakcpulver vermischen, zur Buttereiermasse geben.
+  Eiweiss mit einer Prise Salz steif unter die Masse geben.
+  In Springform im vorgeheizten Ofen 180 Grad 50-60 Minuten.
+  Mit der restlichen Butter bestreichen.
+  Puderzucker uebersieben.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Meissner Quarktorte, die echte saechsische
+tags:
+  - Torten
+rating: 2

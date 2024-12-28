@@ -1,0 +1,24 @@
+ingredients:
+- amount: '12'
+  unit: ''
+  ingredient: Eigelb
+- amount: '1/4'
+  unit: 'l'
+  ingredient: Sprit (95% Alkohol Apotheke)
+- amount: '1'
+  unit: 'Pfund'
+  ingredient: Puderzucker
+- amount: '3'
+  unit: 'Dosen'
+  ingredient: Kondensmilch
+instructions: '
+  Eigelb und gesiebten Puderzucker mischen, dann die Milch dazu geben.
+  Zum Schluss dne Alkohol dazu und noch mal alles gut durchruehren.
+
+  Fertig!
+  '
+subtitle: von Mutti - gesammelte Rezepte von Oma
+title: Eierlikoer
+tags:
+  - Getraenke
+rating: 2

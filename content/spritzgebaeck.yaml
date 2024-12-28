@@ -1,0 +1,35 @@
+ingredients:
+- amount: '8'
+  unit: ''
+  ingredient: Eigelb
+- amount: '400'
+  unit: 'g'
+  ingredient: Zucker (gemahlen)
+- amount: '750'
+  unit: 'g'
+  ingredient: Butter
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '1 1/2'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '1'
+  unit: 'kg'
+  ingredient: Mehl
+- amount: '2'
+  unit: 'Block'
+  ingredient: Schokolade
+instructions: '
+  Den Teig kneten, er is sehr locker.
+  Einige Stunden kalt stellen.
+  Backen bei 200 Grad zirka 10 Minuten.
+  Nicht braun werden lassen.
+  Dieses Spritzgebaeck darf nach dem backen nur vorsichtig vom Blech genommen werden.
+  Es ist sehr zerbrechlich.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Spritzgebaeck
+tags:
+  - Kekse
+rating: 2

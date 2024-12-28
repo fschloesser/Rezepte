@@ -1,0 +1,43 @@
+ingredients:
+- amount: '10'
+  unit: ''
+  ingredient: Eiweiss
+- amount: '4'
+  unit: 'EL'
+  ingredient: Haferflocken
+- amount: '200'
+  unit: 'g'
+  ingredient: Mandeln
+- amount: '200'
+  unit: 'g'
+  ingredient: Haselnuesse
+- amount: '200'
+  unit: 'g'
+  ingredient: Walnuesse
+- amount: '200'
+  unit: 'g'
+  ingredient: Zitronat
+- amount: '200'
+  unit: 'g'
+  ingredient: Orangat
+- amount: '200'
+  unit: 'g'
+  ingredient: Rosinen
+- amount: '150'
+  unit: 'g'
+  ingredient: Puderzucker
+- amount: '200'
+  unit: 'g'
+  ingredient: Kuvertuere
+instructions: '
+  Alle Zutaten mit dem steifen Eiweiss, dem der Puderzucker untergemischt wurde, vermengen.
+  Auf ein Blech, oder zwei streichen, bei kleiner Hitze, 150 Grad, dann 90 Grad 1/2 Stunde backen.
+  Noch warm in kleine Streifenstuecke schneidn.
+
+  warme Kuvertuere durch eine spitze Tuete schoen verzieren.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Nussgebaeck vom Blech
+tags:
+  - Gebaeck
+rating: 2

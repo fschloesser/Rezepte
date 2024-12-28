@@ -1,0 +1,41 @@
+ingredients:
+- amount: '150'
+  unit: g
+  ingredient: Mehl
+- amount: '600'
+  unit: g
+  ingredient: Butter
+- amount: '50'
+  unit: g
+  ingredient: Zucker
+- amount: '1/2'
+  unit: Pck
+  ingredient: Backpulver
+- amount: '6'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: Pfund
+  ingredient: Quark
+- amount: 'etwas'
+  unit: ''
+  ingredient: Zitronensaft
+- amount: '2'
+  unit: Pck
+  ingredient: Vanillepuddingpulver
+instructions: '
+  Boden: (groessere Springform) Mehl, 100 g Butter, Zucker, Backpulver, 1 Ei.
+
+  Fuellung: Quark, Zitronensaft, evtl ein paar Korinthen, mit Puddingpulver verruehren, evtl etwas Milch zugeben.
+  Masse darf nicht zu weich sein!
+
+  Eierschecke:
+  von Vanillepuddingpulver Pudding kochen, darin 1/4 Pfund Butter, 5 Eidotter ruhern, dann die 5 Eiweiss und 2 Pck Vanillezucker steif schlagen.
+  Langsam unter die Puddingmasse ruhern.
+  Alles zusammen bei kleiner Flamme zirca 50 Minuten abbacken.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Eierschecke
+tags:
+  - Nachspeisen
+rating: 2

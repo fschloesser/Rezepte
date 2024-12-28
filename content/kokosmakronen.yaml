@@ -1,0 +1,23 @@
+ingredients:
+- amount: '300'
+  unit: 'g'
+  ingredient: Kokosraspeln
+- amount: '3'
+  unit: ''
+  ingredient: Eiweiss
+- amount: '250'
+  unit: 'g'
+  ingredient: Puderzucker
+- amount: '1'
+  unit: 'TL'
+  ingredient: Zitronensaft
+instructions: '
+  auf Bakcpapier Haeufchen setzen
+
+  bei 170-150 Grad 20 Minuten backen, eher trocknen
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Kokosmakronen
+tags:
+  - Gebaeck
+rating: 2

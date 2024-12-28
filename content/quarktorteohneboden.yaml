@@ -1,0 +1,39 @@
+ingredients:
+- amount: '1250'
+  unit: 'g'
+  ingredient: Quark
+- amount: '250'
+  unit: 'g'
+  ingredient: Margaine
+- amount: '350'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '3'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '5'
+  unit: 'EL'
+  ingredient: Gries
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Pudding (Sahne)
+- amount: ''
+  unit: ''
+  ingredient: Rosinen
+- amount: '2'
+  unit: 'EL'
+  ingredient: Zitronensaft
+- amount: '1'
+  unit: 'EL'
+  ingredient: Zitronenschale
+instructions: '
+  60 Minuten backen, 200 Grad Umluft
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Quarktorte ohne Boden von B
+tags:
+  - Torten
+rating: 2

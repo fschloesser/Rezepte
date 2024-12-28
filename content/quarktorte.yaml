@@ -1,0 +1,49 @@
+ingredients:
+- amount: '200'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '75'
+  unit: 'g'
+  ingredient: Butter
+- amount: '225'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '2'
+  unit: ''
+  ingredient: Eier
+- amount: '1/2'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '500'
+  unit: 'g'
+  ingredient: Quark
+- amount: '2'
+  unit: ''
+  ingredient: Eigelb
+- amount: '1'
+  unit: 'Tasse'
+  ingredient: Oel
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Pudding
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '1/2'
+  unit: 'l'
+  ingredient: Milch
+- amount: '1'
+  unit: ''
+  ingredient: Zitrone
+instructions: '
+  Boden: Mehl, Butter, 75 g Zucker, 1 Ei, Backpulver
+
+  Quarkmasse: Quark, 150 g Zucker, 1 Ei, Eigelb, Oel, Pudding, Vanillezucker, Milch, Zitrone
+
+  50 Minuten backen, dann Eischnee darauf und 10 Minuten backen
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Quarktorte
+tags:
+  - Torten
+rating: 2

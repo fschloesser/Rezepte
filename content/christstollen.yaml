@@ -1,0 +1,56 @@
+ingredients:
+- amount: '1500'
+  unit: g
+  ingredient: Mehl
+- amount: '3'
+  unit: Wuerfel
+  ingredient: Hefe
+- amount: '3/8'
+  unit: l
+  ingredient: Milch
+- amount: '300'
+  unit: g
+  ingredient: Rosinen
+- amount: '225'
+  unit: g
+  ingredient: Korinten
+- amount: '300'
+  unit: g
+  ingredient: Zucker
+- amount: '300'
+  unit: g
+  ingredient: Mandeln (oder Nuesse)
+- amount: '150'
+  unit: g
+  ingredient: Orangat
+- amount: '150'
+  unit: g
+  ingredient: Zitronat
+- amount: '300'
+  unit: g
+  ingredient: Puderzucker
+- amount: '3'
+  unit: Pck
+  ingredient: Vanillezucker
+- amount: ''
+  unit: ''
+  ingredient: Salz
+- amount: '600'
+  unit: g
+  ingredient: Butter
+- amount: '150'
+  unit: g
+  ingredient: Schmalz
+- amount: '200'
+  unit: g
+  ingredient: Butter zum einpinseln
+instructions: '
+  3-4 Stollen formen
+
+  25-30 Minuten bei 170 Grad backen.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Christstollen
+tags:
+  - Kuchen
+rating: 2

@@ -1,0 +1,57 @@
+ingredients:
+- amount: '125'
+  unit: g
+  ingredient: Butter
+- amount: '200'
+  unit: g
+  ingredient: Zucker
+- amount: '2'
+  unit: Pck
+  ingredient: Vanillezucker
+- amount: '4'
+  unit: ''
+  ingredient: Eier
+- amount: '150'
+  unit: g
+  ingredient: Mehl
+- amount: '2'
+  unit: TL
+  ingredient: Backpulver
+- amount: '4'
+  unit: EL
+  ingredient: Milch
+- amount: '300'
+  unit: g
+  ingredient: Puderzucker
+- amount: '500'
+  unit: g
+  ingredient: Erdbeeren
+- amount: '375'
+  unit: g
+  ingredient: Magerquark
+- amount: '375'
+  unit: g
+  ingredient: Mascarpone
+- amount: '50'
+  unit: g
+  ingredient: Marzipanmasse
+- amount: '1'
+  unit: EL
+  ingredient: Zitronensaft
+instructions: '
+  Butter, 125  Zucker, 1 Pck Vanillezucker schaumig schlagen. Eier trennen, Eigelbe zur Buttermasse ruehren.
+  Mehl, Backpulver mit der Milch unterziehen.
+  Haelfte des Teigs in gefettete Springform streichen.
+  Eiweiss steif schlagen, 200 g Puderzucker zugeben.
+  Haelfte der Baisermasse auf den Teig streichen, dass ein ca 2 cm breiter Teigrand frei bleibt.
+  10 Minuten backen.
+  Zweiten Boden genauso backen.
+  Beeren auf einen Boden legen.
+  Quark, Mascarpone 75g Zucker, 1 Pck Vanillezucker verruehren, aufstreichen.
+  Mit zweitem Boden bedecken.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Erdbeer-Baiser-Torte
+tags:
+  - Torten
+rating: 2

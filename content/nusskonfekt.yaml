@@ -1,0 +1,35 @@
+ingredients:
+- amount: '300'
+  unit: 'g'
+  ingredient: Kuvertuere
+- amount: '200'
+  unit: 'g'
+  ingredient: Haselnuesse
+- amount: '200'
+  unit: 'g'
+  ingredient: Walnuesse
+- amount: '200'
+  unit: 'g'
+  ingredient: Mandeln
+- amount: '200'
+  unit: 'g'
+  ingredient: Rosinen in Alkohol
+- amount: '2'
+  unit: 'EL'
+  ingredient: Honig
+- amount: '2'
+  unit: 'EL'
+  ingredient: Butter
+instructions: '
+  Kuvertuere, Nuesse und Rosinen zerkleinern.
+
+  In heisser Pfanne Honig und Butter braeunen.
+  Nussmischung und zerlassene Kuvertuere verruehren, leicht erkalten und kleine Haeufchen auf Pergamentpapier setzen.
+
+  Koestlich!
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Nussgebaeck vom Blech
+tags:
+  - Gebaeck
+rating: 2

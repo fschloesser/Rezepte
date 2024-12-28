@@ -5,10 +5,10 @@ ingredients:
 - amount: '250'
   ingredient: kalte Butter
   unit: g
-- amount: '100'
-  ingredient: gemahlene Mandeln oder Nüsse
+- amount: '150'
+  ingredient: fein gemahlene Mandeln oder Nüsse
   unit: g
-- amount: '100'
+- amount: '80'
   ingredient: (Vanille) Zucker
   unit: g
 - amount: '1'
@@ -25,7 +25,7 @@ instructions: 'Die Zutaten rasch zu einem Mürbeteig verkneten und münzdicke Ro
 
   Bei 180 Grad Celsius mit Ober/Unterhitze etwa 12 Minuten backen, nach dem Herausholen
   in Vanillezucker/Puderzuckergemisch wälzen und dann abkühlen lassen.'
-subtitle: Zubereitung ein bisschen kompliziert
+subtitle: gesammelte Rezepte von Oma
 title: Vanille Kipferl
 tags:
   - Kekse

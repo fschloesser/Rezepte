@@ -1,13 +1,13 @@
 Vanille Kipferl
 ===
-Zubereitung ein bisschen kompliziert
+gesammelte Rezepte von Oma
 
 Zutaten:
 ---
 - 300 g Mehl
 - 250 g kalte Butter
-- 100 g gemahlene Mandeln oder Nüsse
-- 100 g (Vanille) Zucker
+- 150 g fein gemahlene Mandeln oder Nüsse
+- 80 g (Vanille) Zucker
 - 1 Prise optional Zimt
 - 1 Prise Salz
 

@@ -1,0 +1,27 @@
+ingredients:
+- amount: '8'
+  unit: ''
+  ingredient: Eier
+- amount: '200'
+  unit: g
+  ingredient: Zucker
+- amount: '150'
+  unit: g
+  ingredient: Speisestaerke
+- amount: '1'
+  unit: ''
+  ingredient: Orange
+instructions: '
+  Eigelb, Zucker, Speisestaerke, Saft der Orange.
+
+  Eiweiss schlagen, zum Schluss unterziehen.
+
+  20 Minuten backen.
+
+  Teilen und nach belieben fuellen.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Omas Bisquitboden
+tags:
+  - Teige
+rating: 2

@@ -1,0 +1,24 @@
+ingredients:
+- amount: '200'
+  unit: g
+  ingredient: Mehl
+- amount: '1'
+  unit: ''
+  ingredient: Ei
+- amount: '1'
+  unit: EL
+  ingredient: Oel
+- amount: '1/8'
+  unit: l
+  ingredient: Milch
+- amount: '1'
+  unit: Pse
+  ingredient: Salz
+instructions: '
+  Alles schoen verkneten und ins kochende Wasser zupfen.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: ungarische Gnotschi Nudeln
+tags:
+  - Getraenke
+rating: 1

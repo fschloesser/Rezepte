@@ -1,0 +1,43 @@
+ingredients:
+- amount: '500'
+  unit: 'g'
+  ingredient: Margarine
+- amount: '500'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '3/4'
+  unit: 'Pfund'
+  ingredient: Zucker
+- amount: '2'
+  unit: 'Pck'
+  ingredient: Vanille
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '100'
+  unit: 'g'
+  ingredient: Nuesse
+- amount: '100'
+  unit: 'g'
+  ingredient: Mandeln
+- amount: '100'
+  unit: 'g'
+  ingredient: Rosinen
+- amount: '100'
+  unit: 'g'
+  ingredient: Zitronat
+- amount: '8'
+  unit: ''
+  ingredient: Eigelb
+- amount: '1'
+  unit: 'Pse'
+  ingredient: Salz
+- amount: '8'
+  unit: ''
+  ingredient: Eischnee
+instructions: '1 Stunde backen - sehr lecker'
+subtitle: von Frau S - gesammelte Rezepte von Oma
+title: Nusskuchen
+tags:
+  - Kuchen
+rating: 2

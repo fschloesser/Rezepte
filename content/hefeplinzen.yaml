@@ -1,0 +1,35 @@
+ingredients:
+- amount: '4'
+  unit: ''
+  ingredient: Eigelb
+- amount: '4'
+  unit: ''
+  ingredient: geschlagene Eiweiss
+- amount: '1'
+  unit: 'Wuerfel'
+  ingredient: Hefe
+- amount: '1'
+  unit: 'Pse'
+  ingredient: Salz
+- amount: '1/2'
+  unit: l
+  ingredient: Buttermilch
+- amount: '4'
+  unit: EL
+  ingredient: Zucker
+- amount: '2'
+  unit: EL
+  ingredient: Leinoel
+- amount: '200'
+  unit: g
+  ingredient: Mehl
+instructions: '
+  1 Stunde gehen lassen!
+
+  In wenig Leinoel ausbacken, mit Apfelmus und Puderzucker servieren.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Spreewaelder Hefeplinzen
+tags:
+  - Gebaeck
+rating: 2

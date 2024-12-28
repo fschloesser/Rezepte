@@ -1,0 +1,34 @@
+ingredients:
+- amount: '400'
+  ingredient: gehackte Tomaten (aus der Dose)
+  unit: ml
+- amount: 2
+  ingredient: Tomatenmark
+  unit: TL
+- amount: ''
+  ingredient: Thymian, Oregano, Majoran
+  unit: etwas
+- amount: '4'
+  ingredient: Knoblauch
+  unit: Zehen
+- amount: '1'
+  ingredient: Butter
+  unit: EL
+- amount: ''
+  ingredient: Zucker, Salz und Pfeffer
+  unit: ''
+instructions: '
+  In einem Topf die Butter zerlassen und das Tomatenmark darin anbraten.
+  Bevor es verbrennt, die gehackten Tomaten dazu geben und auf kleiner Flamme kochen.
+  Zwei EL Zucker dazugeben und mitkochen.
+
+  Dann die Knoblauchzehen klein hacken, und zusammen mit den Krauetern zu der Sosse dazu geben.
+
+  Mit Salz und Pfeffer abschmecken und so lange köcheln lassen, bis die gewuenschte Konsistenz erreicht ist.
+
+  Statt gehackter Tomaten kann auch Tomatenpuree benutzt werden.'
+subtitle: fuer drei Bleche Pizza
+title: Pizza-Tomatensosse
+tags:
+  - Sossen
+rating: 1

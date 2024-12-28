@@ -1,0 +1,38 @@
+ingredients:
+- amount: '1'
+  unit: Pfund
+  ingredient: Quark
+- amount: '700'
+  unit: g
+  ingredient: Mehl
+- amount: '150'
+  unit: g
+  ingredient: Zucker
+- amount: '3'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: Pck
+  ingredient: Backpuler
+- amount: '1'
+  unit: Pse
+  ingredient: Salz
+- amount: '1'
+  unit: ''
+  ingredient: Zitrone
+- amount: '2'
+  unit: EL
+  ingredient: Oel
+- amount: '2'
+  unit: EL
+  ingredient: Milch
+instructions: '
+  Zitrone zesten und auspressen.
+
+  Einen zaehen Teig herstellen und in heissem Fett ausbacken.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Krabbelchen (Quarkspitzen)
+tags:
+  - Gebaeck
+rating: 2

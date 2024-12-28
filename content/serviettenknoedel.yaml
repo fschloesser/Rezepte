@@ -1,0 +1,23 @@
+ingredients:
+- amount: '4'
+  unit: ''
+  ingredient: Broetchen
+- amount: '1/2'
+  unit: 'l'
+  ingredient: Milch
+- amount: '1'
+  unit: ''
+  ingredient: Ei
+- amount: '1'
+  unit: ''
+  ingredient: Eigelb
+- amount: '125'
+  unit: 'g'
+  ingredient: Mehl
+instructions: '
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Serviettenknoedel
+tags:
+  - Beilagen
+rating: 2

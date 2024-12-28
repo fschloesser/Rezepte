@@ -1,0 +1,39 @@
+ingredients:
+- amount: '250'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '250'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '3'
+  unit: 'EL'
+  ingredient: Margarine
+- amount: '3'
+  unit: 'EL'
+  ingredient: Kakao
+- amount: '1'
+  unit: 'TL'
+  ingredient: Natron
+- amount: '1/2'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '1'
+  unit: ''
+  ingredient: Ei
+- amount: '1'
+  unit: 'Tasse'
+  ingredient: saure Milch
+instructions: '
+  30 Minuten backen
+
+  Mit Buttercreme fuellen
+
+  Mit Schokoladenstreussel und Mandelblaettchen bestreuen'
+subtitle: von Mutti - gesammelte Rezepte von Oma
+title: Herrentorte
+tags:
+  - Kuchen
+rating: 2

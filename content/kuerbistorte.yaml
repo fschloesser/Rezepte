@@ -1,0 +1,45 @@
+ingredients:
+- amount: ''
+  unit: ''
+  ingredient: Kuerbis
+- amount: '150'
+  unit: 'g'
+  ingredient: Zwiebeln
+- amount: '80'
+  unit: 'g'
+  ingredient: Schmalz
+- amount: '2'
+  unit: ''
+  ingredient: Lorbeerblaetter
+- amount: ''
+  unit: ''
+  ingredient: gekoernte Bruehe
+- amount: '300'
+  unit: 'g'
+  ingredient: Kartoffeln
+- amount: '300'
+  unit: 'g'
+  ingredient: Tomaten
+- amount: '1'
+  unit: 'EL'
+  ingredient: Tomatenmark
+- amount: ''
+  unit: ''
+  ingredient: Pfeffer
+- amount: '200'
+  unit: 'g'
+  ingredient: Sahne
+- amount: 'etwas'
+  unit: ''
+  ingredient: Butter
+instructions: '
+  Kuerbis schaelen, wuerfeln, kochen.
+
+  Alles puerieren, Sahne unterziehen, 1 Stich Butter.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: spanische Kuerbistorte
+tags:
+  - Hauptspeisen
+rating: 2
+

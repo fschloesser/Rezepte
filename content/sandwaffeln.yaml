@@ -1,0 +1,29 @@
+ingredients:
+- amount: '150'
+  unit: 'g'
+  ingredient: Butter
+- amount: '150'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '3'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: 'TL'
+  ingredient: Zimt
+- amount: '1'
+  unit: 'EL'
+  ingredient: Rum
+- amount: '150'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '1/2'
+  unit: 'TL'
+  ingredient: Backpulver
+instructions: '
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Sandwaffeln
+tags:
+  - Gebaeck
+rating: 2

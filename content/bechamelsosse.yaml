@@ -1,0 +1,36 @@
+ingredients:
+- amount: ''
+  unit: ''
+  ingredient: Butter
+- amount: ''
+  unit: ''
+  ingredient: Speck
+- amount: ''
+  unit: ''
+  ingredient: Zwiebeln
+- amount: ''
+  unit: ''
+  ingredient: Mehl
+- amount: ''
+  unit: ''
+  ingredient: Lorbeerblatt
+- amount: ''
+  unit: ''
+  ingredient: Zitronensaft
+- amount: ''
+  unit: ''
+  ingredient: Milch
+- amount: ''
+  unit: ''
+  ingredient: Salz, Pfeffer
+instructions: '
+  Butter zergehen lassen, Speck und Zwiebeln anbraten, Mehl unterruehren.
+  Lorbeerblatt, Salz, Pfeffer, Zitronensaft, Milch zugiessen, leise koecheln lassen.
+
+  Gut fuer Auflaeufe!
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Bechamelsosse
+tags:
+  - Sossen
+rating: 2

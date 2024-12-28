@@ -1,0 +1,60 @@
+ingredients:
+- amount: '500'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '500'
+  unit: 'g'
+  ingredient: Honig
+- amount: '75'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '100'
+  unit: 'g'
+  ingredient: Butter
+- amount: '2'
+  unit: 'EL'
+  ingredient: Milch
+- amount: '2'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: 'Pse'
+  ingredient: Salz
+- amount: '1'
+  unit: 'TL'
+  ingredient: Zimt
+- amount: '1/2'
+  unit: 'TL'
+  ingredient: gemahlene Nelken
+- amount: '1/2'
+  unit: 'TL'
+  ingredient: gemahlene Ingwer
+- amount: '1/2'
+  unit: 'TL'
+  ingredient: gemahlene Kardamom
+- amount: '1'
+  unit: 'TL'
+  ingredient: Kaffee
+- amount: '2'
+  unit: 'Tr'
+  ingredient: Bittermandel
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '100'
+  unit: 'g'
+  ingredient: gehobelte Mandeln oder Haselnuesse
+- amount: '50'
+  unit: 'g'
+  ingredient: Zitronat
+instructions: '
+  Zum Verzieren abgezogene Mandeln
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Honigkuchen
+tags:
+  - Kuchen
+rating: 2

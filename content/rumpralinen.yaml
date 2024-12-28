@@ -1,0 +1,26 @@
+ingredients:
+- amount: '200'
+  unit: 'g'
+  ingredient: Zartbitterschokolade
+- amount: '2'
+  unit: 'EL'
+  ingredient: Rum
+- amount: '2'
+  unit: ''
+  ingredient: Eigelb
+- amount: '125'
+  unit: 'g'
+  ingredient: Butter
+- amount: '65'
+  unit: 'g'
+  ingredient: Puderzucker
+- amount: '4'
+  unit: 'EL'
+  ingredient: Kakao
+instructions: '
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Rumpralinen
+tags:
+  - Gebaeck
+rating: 2

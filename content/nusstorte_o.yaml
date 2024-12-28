@@ -1,0 +1,46 @@
+ingredients:
+- amount: '240'
+  unit: 'g'
+  ingredient: Butter
+- amount: '240'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '4'
+  unit: 'EL'
+  ingredient: Mehl
+- amount: '8'
+  unit: ''
+  ingredient: Eier
+- amount: '1/2'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '1'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '240'
+  unit: 'g'
+  ingredient: geriebene Schokolade
+- amount: '240'
+  unit: 'g'
+  ingredient: geriebene Nuesse
+- amount: ''
+  unit: ''
+  ingredient: Rosenwasser
+- amount: '150'
+  unit: 'g'
+  ingredient: Kuvertuere
+- amount: '25'
+  unit: 'g'
+  ingredient: Butter
+instructions: '
+  Teig: Butter, Zucker, Mehl, Eier, Backpulver, Vanillezucker, geriebene Schokolade und Nuesse.
+
+  40-50 Minuten backen
+
+  Guss: Rosenwasser, Kuvertuere, Butter
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Nusstorte
+tags:
+  - Torten
+rating: 2

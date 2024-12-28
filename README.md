@@ -4,10 +4,12 @@ Alle Rezepte im Ueberblick:
 
 Beilagen
 ---
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Moehrengemuese](rezepte/moehrengemuese.md) - eine klassische Beilage
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Ofengemüse](rezepte/ofengemuese.md) - einfach, schnell und lecker
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rotkohl](rezepte/rotkohl.md) - ganz klassisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Semmelknödel](rezepte/semmelknoedel.md) - etwa 4 Knödel
-- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spätzle](rezepte/spaetzle.md) - traditional schwäbisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Serviettenknoedel](rezepte/serviettenknoedel.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spätzle](rezepte/spaetzle.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [crunchy Tofu](rezepte/crunchytofu.md) - a la Kylie
 
 Brote
@@ -42,6 +44,7 @@ Dressings
 Eingelegtes
 ---
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gelbe Bete](rezepte/eingelegtegelbebete.md) - eingelegte
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Omas Sauerkraut](rezepte/sauerkraut_oma.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sauerkraut](rezepte/sauerkraut.md) - selbstgemacht
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zwiebelallerlei](rezepte/zwiebeln.md) - angemacht
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [chinesischer eingelegter Knoblauch](rezepte/chinesegarlic.md) - Laba Garlic
@@ -64,26 +67,38 @@ Fruehstueck
 
 Gebaeck
 ---
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Grossmutters echte Laugenbrezeln](rezepte/laugenbrezeln.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kokosmakronen](rezepte/kokosmakronen.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Krabbelchen (Quarkspitzen)](rezepte/krabbelchen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Lebkuchen](rezepte/lebkuchen.md) - für ein großes oder zwei kleine Lebkuchenhäuschen
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Nussgebaeck vom Blech](rezepte/nusskonfekt.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rumpralinen](rezepte/rumpralinen.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Sandwaffeln](rezepte/sandwaffeln.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spreewaelder Hefeplinzen](rezepte/hefeplinzen.md) - gesammelte Rezepte von Oma
 
 Getraenke
 ---
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Beerenbowle](rezepte/beerenbowle.md) - fruchtig
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chaitee](rezepte/chaitee.md) - Gewürztee
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Eierlikoer](rezepte/eierlikoer.md) - von Mutti - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 1](rezepte/gazpacho1.md) - Für heiße Tage und vier Portionen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Gazpacho 2](rezepte/gazpacho2.md) - Andaluz, original
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Holunderbluetenextrakt](rezepte/holunderbluetenextrakt.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Ingwerbier](rezepte/ingwerbier.md) - für etwa 3 Liter
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Lillet Berry](rezepte/lilletberry.md) - neuer Klassiker
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Limoncello](rezepte/limoncello.md) - nach italienischem Rezept
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Milchkefir](rezepte/milchkefir.md) - probiotisch und fermentiert
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Mote con huesillos](rezepte/moteconhuesillos.md) - receta tradicional chilena
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Salbeiextrakt](rezepte/salbeiextrakt.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Waldmeisterbowle](rezepte/waldmeisterbowle.md) - Klassiker
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Wasserkefir](rezepte/wasserkefir.md) - ferment
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zitronenlimo](rezepte/zitronenlimo.md) - erfrischend
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [ungarische Gnotschi Nudeln](rezepte/gnotschi.md) - gesammelte Rezepte von Oma
 
 Hauptspeisen
 ---
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bratwursttorte](rezepte/bratwursttorte.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Elsässer Flammkuchen](rezepte/flammkuchen.md) - Einfach und gut - für 4 Portionen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - herzhaft. klingt komisch, ist aber gut
@@ -93,7 +108,9 @@ Hauptspeisen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Omelette](rezepte/omelette.md) - leicht
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quiche](rezepte/quiche.md) - für 16 Muffins, 6 kleine Tartes oder eine große
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schmorgurken](rezepte/schmorgurken.md) - geht auch mit Speck
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Tomatenbrot mit Ei und Kaese](rezepte/tomatenbrot.md) - leicht und schnell
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Volognese](rezepte/volognese.md) - Vegane Bolognese
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [spanische Kuerbistorte](rezepte/kuerbistorte.md) - gesammelte Rezepte von Oma
 
 Kekse
 ---
@@ -103,8 +120,9 @@ Kekse
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mandelhörnchen](rezepte/mandelhoernchen.md) - weihnachtliche, klassisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schwarz-Weiss Kekse](rezepte/blackwhitecookies.md) - Klassiker
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spritzgebaeck](rezepte/spritzgebaeck.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Streuselkekse](rezepte/streuselkekse.md) - für 1 Blech
-- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Vanille Kipferl](rezepte/vanillekipferl.md) - Zubereitung ein bisschen kompliziert
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Vanille Kipferl](rezepte/vanillekipferl.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Zimtsterne](rezepte/zimtsterne.md) - vegan, weihnachtlich
 
 Kuchen
@@ -115,12 +133,20 @@ Kuchen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bananenfostercreme](rezepte/bananenfostercreme.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Banoffee Pie](rezepte/banoffee.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Christstollen](rezepte/christstollen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Hermann](rezepte/hermann.md) - nachwachsend
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Herrentorte](rezepte/herrentorte.md) - von Mutti - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Honigkuchen](rezepte/honigkuchen.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Nusskuchen](rezepte/nusskuchen.md) - von Frau S - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Polnischer Kuchen](rezepte/polnischerkuchen.md) - von Mutti - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quark Streusselkuchen (Zupfkuchen)](rezepte/zupfkuchen.md) - von Mutti - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rhabarberkuchen](rezepte/rhabarberpie.md) - Französisch
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sandkuchen](rezepte/sandkuchen.md) - Zum Beispiel mit Apfel
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schmandtorte](rezepte/schmandtorte.md) - von Mutti - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Schoko-Haselnuss-Kuchen](rezepte/schokohaselnusskuchen.md) - besser mit Bananenfostercreme
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Stollen](rezepte/stollen.md) - Rezept von 1945
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Thueringer Schmandkuchen](rezepte/thueringerschmandkuchen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Torta Pompadour](rezepte/tortapompadour.md) - einer Grossmutters Rezept
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Tres Leches](rezepte/tresleches.md) - klassisch suedamerikanisch
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Zitronen Polenta Kuchen](rezepte/zitronenpolentakuchen.md) - glutenfrei
@@ -133,8 +159,10 @@ Nachspeisen
 ---
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananen-Pfannkuchen](rezepte/bananenpfannkuchen.md) - amerikanisches Rezept
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bratäpfel](rezepte/bratapfel.md) - Fast vegan
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Eierschecke](rezepte/eierschecke.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Indischer Brotpudding](rezepte/indischerbrotpudding.md) - Double ka Meetha
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Kaiserschmarrn](rezepte/kaiserschmarrn.md) - eine Portion
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Marillenknoedel](rezepte/marillenknoedel.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Milchreis](rezepte/milchreis.md) - a la mama, 1 Portion
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mohnkloesse](rezepte/mohnkloesse.md) - traditionell schlesisch
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Obstquark](rezepte/obstquark.md) - a la Mama
@@ -174,12 +202,14 @@ Snacks
 
 Sossen
 ---
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bechamelsosse](rezepte/bechamelsosse.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bechamelsoße](rezepte/bechamel.md) - reicht knapp für eine Linsenlasagne
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Champignon-Tomatenrahmsoße](rezepte/champignontomatensosse.md) - mit Basilikum
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Champignoncreme](rezepte/champignoncreme.md) - auch als Fuellung
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Käsesoße](rezepte/kaesesosse.md) - für Nudeln, Windbeutel
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pilzsoße](rezepte/pilzsosse.md) - etwa zwei Portionen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pistazienpesto](rezepte/pistazienpesto.md) - zum Beispiel zum Grillkartoffelsalat
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pizza-Tomatensosse](rezepte/tomatensosse.md) - fuer drei Bleche Pizza
 
 Suppen
 ---
@@ -201,9 +231,22 @@ Teige
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bisquit](rezepte/bisquit.md) - sehr fluffy, gut zu schneiden, von Julien Picamil
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefeteig](rezepte/hefekuchenteig.md) - ein Blech, für Blechkuchen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mürbeteig](rezepte/muerbeteig.md) - für 16 Muffins, 6 kleine Tartes oder eine große
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Omas Bisquitboden](rezepte/omasbisquitboden.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pizza-Öl-Teig](rezepte/pizzaoelteig.md) - Einfach
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pizzateig](rezepte/pizzateig.md) - original italienisch
-- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spätzle](rezepte/spaetzle.md) - traditional schwäbisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Quark-Öl-Teig](rezepte/quarkoelteig.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Spätzle](rezepte/spaetzle.md) - gesammelte Rezepte von Oma
+
+Torten
+---
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Erdbeer-Baiser-Torte](rezepte/erdbeerbaisertorte.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Meissner Quarktorte, die echte saechsische](rezepte/meissnerquarktorte.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mohntorte](rezepte/mohntorte.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Nusstorte](rezepte/nusstorte_o.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Nusstorte mit Eierlikoer](rezepte/nusstorte_m.md) - von M - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Nusstorte von L](rezepte/nusstorte_l.md) - von L - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quarktorte](rezepte/quarktorte.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quarktorte ohne Boden von B](rezepte/quarktorteohneboden.md) - gesammelte Rezepte von Oma
 
 Veganes
 ---

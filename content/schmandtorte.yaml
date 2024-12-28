@@ -1,0 +1,31 @@
+ingredients:
+- amount: '3/4'
+  unit: 'l'
+  ingredient: Milch
+- amount: '300'
+  unit: 'g'
+  ingredient: Zucker
+- amount: '3'
+  unit: 'Pck'
+  ingredient: Vanillepudding
+- amount: '1'
+  unit: ''
+  ingredient: Muerbeteigboden
+- amount: '1'
+  unit: 'kg'
+  ingredient: Schmand
+- amount: '150'
+  unit: 'g'
+  ingredient: saure Sahne
+instructions: 'Aus Milch, Zucker und Vanillepudding den Pudding kochen.
+  Einen Muerbeboden mit einer Dose Mandarinen belegen.
+
+  Schmand und saure Sahne mit dem Pudding mischen und auf den Boden geben.
+
+  45 Minuten bei 200 Grad backen oder 40 Minuten bei 150 Grad backen.
+  '
+subtitle: von Mutti - gesammelte Rezepte von Oma
+title: Schmandtorte
+tags:
+  - Kuchen
+rating: 2

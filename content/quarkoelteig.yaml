@@ -1,0 +1,31 @@
+ingredients:
+- amount: '400'
+  unit: g
+  ingredient: Mehl
+- amount: '200'
+  unit: g
+  ingredient: Quark
+- amount: '6'
+  unit: EL
+  ingredient: Milch
+- amount: '1'
+  unit:
+  ingredient: Ei
+- amount: '8'
+  unit: EL
+  ingredient: Oel
+- amount: '100'
+  unit: g
+  ingredient: Zucker
+- amount: '1'
+  unit: Prise
+  ingredient: Salz
+- amount: '1'
+  unit: Pck
+  ingredient: Backpulver
+instructions: ''
+subtitle: gesammelte Rezepte von Oma
+title: Quark-Öl-Teig
+tags:
+  - Teige
+rating: 1

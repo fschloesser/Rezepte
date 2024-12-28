@@ -1,0 +1,40 @@
+ingredients:
+- amount: '220'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '125'
+  unit: 'g'
+  ingredient: Butter
+- amount: 'etwas'
+  unit: ''
+  ingredient: Wasser
+- amount: ''
+  unit: ''
+  ingredient: Zwiebeln
+- amount: '4'
+  unit: 'alte'
+  ingredient: Broetchen
+- amount: '2'
+  unit: ''
+  ingredient: Eier
+- amount: ''
+  unit: ''
+  ingredient: Salz, Pfeffer, Petersilie
+- amount: ''
+  unit: ''
+  ingredient: Bratwurst
+instructions: '
+  Teig: Mehl, Butter, Wasser. Etwas Teig aufheben fuer obendrauf.
+
+  Zwiebeln in etwas Butter duensten.
+  4 aufgeweichte Broetchen, 2 Eier verkneten, mit Salz, Pfeffer und Petersilie wuerzen.
+
+  Bratwurstkingel leicht anbraten, Teig in eine Form, Bratworst oben auf, dann den Broetchenteig, vom restlichen teig Streifen schneiden und garnieren.
+
+  25 Minuten backen.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Bratwursttorte
+tags:
+  - Hauptspeisen
+rating: 2

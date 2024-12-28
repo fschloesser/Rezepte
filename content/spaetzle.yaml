@@ -1,9 +1,9 @@
 ingredients:
-- amount: '100'
+- amount: '300'
   ingredient: Mehl
   unit: g
-- amount: '1'
-  ingredient: Ei
+- amount: '4'
+  ingredient: Eier
   unit: ''
 - amount: ''
   ingredient: Salz
@@ -11,9 +11,16 @@ ingredients:
 - amount: ''
   ingredient: Wasser
   unit: etwas
-instructions: 'Zutaten zu einem zähflüssigen Teig mischen und in gesalzenes, kochendes Wasser schaben.
-  Kochen bis die Spätzle an die Oberfläche schwimmen, heraus nehmen und servieren.'
-subtitle: traditional schwäbisch
+instructions: 'Zutaten zu einem zähflüssigen Teig mischen und 30 Minuten ruhen lassen.
+
+  Vom Brettchen in gesalzenes, kochendes Wasser schaben, danach warm abspuelen.
+
+  Kochen bis die Spätzle an die Oberfläche schwimmen, heraus nehmen und servieren.
+
+  Spaetzleauflauf: Fuer die Fuellung 300 g Zwiebeln duensten, mit Parmesan bestreuen.
+
+  Makaroniauflauf: Fuer die Fuellung Paprika und gekochten Schinken, Eiersahne und Kaese drueber.'
+subtitle: gesammelte Rezepte von Oma
 title: Spätzle
 tags:
   - Beilagen

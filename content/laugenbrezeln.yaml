@@ -1,0 +1,34 @@
+ingredients:
+- amount: '1'
+  unit: 'Wuerfel'
+  ingredient: Hefe
+- amount: '300'
+  unit: 'ml'
+  ingredient: laues Wasser
+- amount: '1'
+  unit: 'TL'
+  ingredient: Zucker
+- amount: '500'
+  unit: 'g'
+  ingredient: Weizenmehl
+- amount: '1'
+  unit: 'TL'
+  ingredient: Salz
+- amount: '20'
+  unit: 'g'
+  ingredient: Margarine
+- amount: '10'
+  unit: 'g'
+  ingredient: Natron
+- amount: ''
+  unit: ''
+  ingredient: grobes Salz
+instructions: '
+  Zubereitung: Aus dem Teig Brezeln formen, Wasser mit Natron zum kochen bringen, die Brezeln 30 Sekunden ins kochende Wasser legen, mit Kelle auf Backpapier legen, mit Salz bestreuen.
+    Danach 30 Minuten kalt stellen, dann abbacken 20 Minuten bei 200 Grad.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Grossmutters echte Laugenbrezeln
+tags:
+  - Gebaeck
+rating: 2

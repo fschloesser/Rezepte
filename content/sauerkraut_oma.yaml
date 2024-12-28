@@ -1,0 +1,37 @@
+ingredients:
+- amount: ''
+  unit: ''
+  ingredient: Weißkohl
+- amount: ''
+  unit: ''
+  ingredient: Rosinen
+- amount: ''
+  unit: ''
+  ingredient: Zwiebeln
+- amount: ''
+  unit: ''
+  ingredient: Knoblauch
+- amount: ''
+  unit: ''
+  ingredient: Wachholderbeeren
+- amount: ''
+  unit: ''
+  ingredient: Aepfel
+- amount: ''
+  unit: ''
+  ingredient: Salz
+- amount: ''
+  unit: ''
+  ingredient: Zucker
+instructions: '
+  Kraut fein schneiden und schichtweise mit den Gewuerzen in einem Steintopf stampfen, is Eigensaft entsteht.
+  Mit Holzbrett und Stein abdecken.
+  Alles sehr steril behandeln, mit kochendem Wasser abbruehen.
+  4 Wochen warm stellen, bis Gaehrung beendet.
+  Dann kuehl.
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Omas Sauerkraut
+tags:
+  - Eingelegtes
+rating: 1

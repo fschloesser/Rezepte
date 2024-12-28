@@ -1,0 +1,25 @@
+ingredients:
+- amount: '3'
+  unit: ''
+  ingredient: Eier
+- amount: '200'
+  unit: 'g'
+  ingredient: Mehl
+- amount: '1'
+  unit: 'Pfund'
+  ingredient: Quark
+- amount: '3'
+  unit: 'EL'
+  ingredient: Oel
+- amount: ''
+  unit: ''
+  ingredient: Aprikosen aus der Dose
+instructions: '
+  Teig ist sehr weich, mit viel Mehl formen.
+  Die Aprikosen vorsichtig reindruecken
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Marillenknoedel
+tags:
+  - Nachspeisen
+rating: 2

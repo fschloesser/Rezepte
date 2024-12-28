@@ -1,8 +1,8 @@
 ingredients:
-- amount: '175'
+- amount: '300'
   ingredient: Wasser (20 C)
   unit: ml
-- amount: '500'
+- amount: '700'
   ingredient: Mehl
   unit: g
 - amount: '10'
@@ -16,7 +16,11 @@ instructions: 'Mehl und Trockenhefe mischen, Salz in Wasser auflösen, danach zu
 
   15 Minuten ordentlich kneten und 2 Stunden ruhen lassen.
 
-  Den Teig in 2 kleinere Kugeln teilen und 4 weitere Stunden ruhen lassen. Alternativ ueber Nacht stehen lassen.'
+  Den Teig in 2 kleinere Kugeln teilen und 4 weitere Stunden ruhen lassen. Alternativ ueber Nacht stehen lassen.
+
+  Sollte fuer zwei Bleche reichen.
+
+  Tipp: Vollkornmehl braucht mehr Wasser im Teig.'
 subtitle: original italienisch
 title: Pizzateig
 tags:

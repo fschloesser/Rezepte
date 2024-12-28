@@ -1,0 +1,43 @@
+ingredients:
+- amount: '1'
+  unit: 'Pfund'
+  ingredient: Quark
+- amount: '5'
+  unit: 'EL'
+  ingredient: Gries
+- amount: '2'
+  unit: 'EL'
+  ingredient: Mehl
+- amount: '2'
+  unit: 'EL'
+  ingredient: Zucker
+- amount: '1/2'
+  unit: 'Pck'
+  ingredient: Backpulver
+- amount: '2'
+  unit: ''
+  ingredient: Eier
+- amount: '200'
+  unit: 'g'
+  ingredient: Butter
+- amount: '2'
+  unit: ''
+  ingredient: Eigelb
+- amount: '3'
+  unit: 'Pck'
+  ingredient: Vanillezucker
+- amount: '1'
+  unit: 'Becher'
+  ingredient: Schmand
+instructions: '
+  Fuers Blech: Quark, Gries, Mehl, Zucker, Backpulver, Eier, Butter
+
+  Mit Aepfeln belegen
+
+  Fuer den Guss: Eigelb, Vanillezucker, Schmand
+  '
+subtitle: gesammelte Rezepte von Oma
+title: Thueringer Schmandkuchen
+tags:
+  - Kuchen
+rating: 2
