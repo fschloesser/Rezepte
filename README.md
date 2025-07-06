@@ -23,7 +23,7 @@ Brote
 Dips
 ---
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Avocado-Basilikum-Dip](rezepte/avocadodip.md) - vegan und schoen cremig
-- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) - 
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) - lateinamerikanischer Klassiker
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Erdnussdip](rezepte/erdnussdip.md) - zum Beispiel zu Sommerrollen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hummus](rezepte/hummus.md) - einfach und schnell
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kraeuterbutter](rezepte/kraeuterbutter.md) - klassisch
@@ -154,6 +154,7 @@ Kuchen
 Marmeladen
 ---
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Birnenmarmelade](rezepte/birnenmarmelade.md) - Von der Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Rhabarbermarmelade](rezepte/rhabarbermarmelade.md) - klassisch, nicht zu suess
 
 Nachspeisen
 ---
