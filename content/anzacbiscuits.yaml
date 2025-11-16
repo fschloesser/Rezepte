@@ -1,0 +1,47 @@
+ingredients:
+- amount: '1'
+  unit: Tasse
+  ingredient: Mehl
+- amount: '1'
+  unit: Tasse
+  ingredient: Haferflocken
+- amount: '1'
+  unit: Tasse
+  ingredient: gemahlene Kokosflocken
+- amount: '3/4'
+  unit: Tasse
+  ingredient: Zucker
+- amount: '1/4'
+  unit: Tasse
+  ingredient: Sirup
+- amount: '125'
+  unit: g
+  ingredient: Butter
+- amount: '1'
+  unit: TL
+  ingredient: Natron
+- amount: '2'
+  unit: TL
+  ingredient: kochendes Wasser
+instructions: '
+Das Mehl in eine Schuessel sieben, Haferflocken, Kokosflocken, Zucker und eine Prise Salz unterruehren.
+
+Sirup und Butter in einem Topf erwaermen und zusammen schmelzen.
+
+Dann in einer Tasse den Natron mit dem Wasser mischen und zu der Sirup-Butter-Masse geben.
+
+Diese mit den trockenen Zutaten vermischen bis eine Masse entsteht.
+(Es kann ein wenig Wasser hinzugegeben werden wenn die Masse zu trocken ist.)
+
+Mit einem Abstand von ca 3 Zentimeter essloeffelgrosse Portionen auf ein mit Backpapier ausgelegtes Blech geben.
+
+Bei 180 Grad Celsius Umluft 12-15 Minuten golden backen.
+
+Kurz auskuehlen lassen, dann auf einen Rost legen.
+
+Bis zum Verzehr in einer luftdichten Dose lagern.'
+title: Anzac Biscuits
+subtitle: australisch
+tags:
+  - Kekse
+rating: 1

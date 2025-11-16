@@ -1,0 +1,36 @@
+ingredients:
+- amount: '125'
+  unit: g
+  ingredient: Butter
+- amount: '1'
+  unit: TL
+  ingredient: Vanille-Extrakt
+- amount: '275'
+  unit: g
+  ingredient: Zucker
+- amount: '3'
+  unit: ''
+  ingredient: Eier
+- amount: '1'
+  unit: Paeckchen
+  ingredient: Backpulver
+- amount: '225'
+  unit: g
+  ingredient: Mehl
+- amount: '1/4'
+  unit: TL
+  ingredient: Natron
+- amount: '125'
+  unit: ml
+  ingredient: Milch
+instructions: '
+Die Zutaten in einer Schuessel verruehren.
+
+In eine gebutterte Kuchenform geben und bei 170 Grad Celsius Umluft bei circa 75 Minuten backen.
+
+5 Minuten auskuehlen lassen und auf einen Rost stuerzen.'
+title: Butterkuchen
+subtitle: australisch
+tags:
+  - Kuchen
+rating: 1

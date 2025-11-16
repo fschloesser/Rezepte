@@ -69,6 +69,7 @@ Gebaeck
 ---
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Grossmutters echte Laugenbrezeln](rezepte/laugenbrezeln.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Klassischer Pie](rezepte/australianpie.md) - australisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kokosmakronen](rezepte/kokosmakronen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Krabbelchen (Quarkspitzen)](rezepte/krabbelchen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Lebkuchen](rezepte/lebkuchen.md) - für ein großes oder zwei kleine Lebkuchenhäuschen
@@ -102,6 +103,7 @@ Hauptspeisen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Elsässer Flammkuchen](rezepte/flammkuchen.md) - Einfach und gut - für 4 Portionen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Gemüsecurry](rezepte/gemuesecurry.md) - Vegan, 90 min
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kakaolinsensuppe](rezepte/kakaolinsensuppe.md) - herzhaft. klingt komisch, ist aber gut
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Klassischer Pie](rezepte/australianpie.md) - australisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Koshary](rezepte/koshary.md) - für 4-6 Personen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Linsenlasagne](rezepte/linsenlasagne.md) - vegetarisch
@@ -115,6 +117,7 @@ Hauptspeisen
 Kekse
 ---
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Alfajores](rezepte/alfajores.md) - für etwa 20
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Anzac Biscuits](rezepte/anzacbiscuits.md) - australisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Berliner Brot](rezepte/berlinerbrot.md) - Ein Klassiker
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Chocolate-Chip-Cookies](rezepte/chocolatechipcookies.md) - 24 Kekse, jeder 160 cals
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Kaesegebaeck](rezepte/kaesegebaeck.md) - einfach und herzhaft
@@ -133,6 +136,7 @@ Kuchen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bananenfostercreme](rezepte/bananenfostercreme.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Banoffee Pie](rezepte/banoffee.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Butterkuchen](rezepte/buttercake.md) - australisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Christstollen](rezepte/christstollen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Hermann](rezepte/hermann.md) - nachwachsend
@@ -145,11 +149,14 @@ Kuchen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Sandkuchen](rezepte/sandkuchen.md) - Zum Beispiel mit Apfel
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schmandtorte](rezepte/schmandtorte.md) - von Mutti - gesammelte Rezepte von Oma
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Schoko-Haselnuss-Kuchen](rezepte/schokohaselnusskuchen.md) - besser mit Bananenfostercreme
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Schokoladen-Fudge-Kuchen](rezepte/chocolatefudgecake.md) - australisch
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Stollen](rezepte/stollen.md) - Rezept von 1945
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Tee-Kuchen](rezepte/cinnamonteacake.md) - zimtig
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Thueringer Schmandkuchen](rezepte/thueringerschmandkuchen.md) - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Torta Pompadour](rezepte/tortapompadour.md) - einer Grossmutters Rezept
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Tres Leches](rezepte/tresleches.md) - klassisch suedamerikanisch
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Zitronen Polenta Kuchen](rezepte/zitronenpolentakuchen.md) - glutenfrei
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zitronenkuchen](rezepte/lemoncake.md) - australisch
 
 Marmeladen
 ---

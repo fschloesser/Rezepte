@@ -1,0 +1,57 @@
+Klassischer Pie
+===
+australisch
+
+Zutaten:
+---
+- 185 g Mehl
+- 100 g kalte Butter
+- 1.25 kg Rindsfleisch, gewuerfelt
+- 1/2 TL Pfeffer
+- 1/2 TL Salz
+- 2-3 TL Olivenoel
+- 1  Zwiebel
+- 4 Zehen Knoblauch
+- 5 TL Mehl
+- 315 ml Rinderbruehe
+- 750 g Rotwein
+- 2 TL Tomatenmark
+- 1 TL Worcestershire-Sosse
+- 2 TL Pfeffer
+- 2  Lorbeerblaetter
+
+Anleitung:
+---
+ Die Fuellung vorbereiten:
+
+Das Rindsfleisch mit Salz und Pfeffer bestreuen.
+
+Olivenoel in einem Topf erhitzen und die Fleischwuerfel scharf anbraten bis sie von allen Seiten schoen braun sind. Dann heraus nehmen. (Eventuell in mehreren Durchgaengen)
+
+Den Topf auf mittlere Hitze herunter drehen, gehackten Knoblauch und Zwiebeln 3 Minuten anbraten, mit Mehl bestaeuben und umruehren.
+
+Die Bruehe unter staendigem Ruehren nach und nach hinzugeben, dann Wein, Tomatenmark, Worcestershiresosse, Pfeffer und Lorbeerblaetter hinzugeben.
+
+Die Fleischwuerfel zurueck in den Topf geben, Deckel drauf und 1,5 Stunden koecheln lassen. Den Deckel abnehmen, bei mehr Hitze nocheinmal etwa 30 Minuten einkochen bis die Sosse reduziert und das Fleisch geradeso noch bedeckt.(Nicht zu sehr einkochen, beim Backen wird die Fuellung weiter eindicken.)
+
+Den Teig vorbereiten:
+
+Die Butter in Wuerfel schneiden und mit 185g Mehl, 3 TL kaltem Wasser und 1/2 TL Salz kurz zusammen mischen. Dies ist ein Muerbeteig, also nicht zu viel, nur ein bisschen kneten.
+
+Die Fuellung bereit stellen.
+
+Den Teig 2-3 Millimeter dick ausrollen und etwa 6 Pieformen mit dem Teig auslegen. Dabei aufpassen dass spaeter noch die Deckel aus dem Teig gemacht werden muessen, also in diesem Schritt nur etwa 2/3 des Teiges benutzen. Beim Auslegen den Teig nicht ziehen, die Pies wuerden zusammen schrumpfen.
+
+Mit Backpapier und Gewichten auslegen und 20 Minuten bei 180 Grad Celsius backen.
+
+Die Gewichte heraus nehmen und weitere 5 Minuten backen bis der Boden leicht golden und trocken ist. (optionaler Schritt)
+
+Grosszuegig mit der ausgekuehlten Fuellung fuellen und andruecken.
+
+Aus dem restlichen Teig Deckel ausstechen, die etwas groesser sein sollten als die Formen.
+
+Die Kanten von den Pies mit Ei bestreichen, die Deckel auflegen und die Raender andruecken.
+
+Die Deckel mit Ei bestreichen und in der Mitte ein kleines Luftloch einstechen.
+
+Bei 180 Grad Celsius etwa 30 Minuten oder bis goldbraun backen. 

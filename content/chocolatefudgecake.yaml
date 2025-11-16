@@ -1,0 +1,30 @@
+ingredients:
+- amount: '250'
+  unit: g
+  ingredient: dunkle Schokolade, geschmolzen
+- amount: '125'
+  unit: g
+  ingredient: Butter
+- amount: '150'
+  unit: g
+  ingredient: Zucker
+- amount: '100'
+  unit: ''
+  ingredient: Mehl
+- amount: '1'
+  unit: Paeckchen
+  ingredient: Backpulver
+- amount: '4'
+  unit: ''
+  ingredient: Eier
+instructions: '
+Die Zutaten in einer Schuessel verruehren.
+
+In eine gebutterte Form geben und bei 180 Grad Celsius Umluft bei circa 30 Minuten backen.
+
+5 Minuten auskuehlen lassen und auf einen Rost stuerzen.'
+title: Schokoladen-Fudge-Kuchen
+subtitle: australisch
+tags:
+  - Kuchen
+rating: 1

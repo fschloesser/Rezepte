@@ -1,0 +1,40 @@
+ingredients:
+- amount: '60'
+  unit: g
+  ingredient: Butter
+- amount: '1'
+  unit: TL
+  ingredient: Vanille-Extrakt
+- amount: '150'
+  unit: g
+  ingredient: Zucker
+- amount: '1'
+  unit: ''
+  ingredient: Ei
+- amount: '150'
+  unit: g
+  ingredient: Mehl
+- amount: '1'
+  unit: Paeckchen
+  ingredient: Backpulver
+- amount: '80'
+  unit: ml
+  ingredient: Milch
+- amount: '1'
+  unit: TL
+  ingredient: Zimt
+instructions: '
+In einer Schuessel Butter, Zucker und Ei fluffig schlagen.
+
+Mehl und Milch unterruehren, Teig in eine gebutterte Kuchenform mit 20cm Durchmesser fuellen.
+
+Bei 180 Grad Celsius Ober-Unter-Hitze circa 30 Minuten backen.
+
+Fuer 5 Minuten abkuehlen lassen und auf einen Rost stuerzen.
+
+10g Butter schmelzen, Zimt und Zucker unterruehren und den Kuchen damit bestreichen.'
+title: Tee-Kuchen
+subtitle: zimtig
+tags:
+  - Kuchen
+rating: 1

@@ -1,0 +1,31 @@
+ingredients:
+- amount: '125'
+  unit: g
+  ingredient: Butter
+- amount: '2'
+  unit: TL
+  ingredient: Zitronenzeste
+- amount: '60'
+  unit: ml
+  ingredient: Zitronensaft
+- amount: '275'
+  unit: g
+  ingredient: Zucker
+- amount: '3'
+  unit: ''
+  ingredient: Eier
+- amount: '125'
+  unit: ml
+  ingredient: Milch
+- amount: '1'
+  unit: Paeckchen
+  ingredient: Backpulver
+- amount: '225'
+  unit: g
+  ingredient: Mehl
+instructions: 'Zutaten in einer Schuessel verruehren, in eine gebutterte Kuchenform geben und bei 180 Grad Celsius Ober-Unter-Hitze circa 50 Minuten backen.'
+title: Zitronenkuchen
+subtitle: australisch
+tags:
+  - Kuchen
+rating: 1
