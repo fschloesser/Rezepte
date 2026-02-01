@@ -64,6 +64,7 @@ Fruehstueck
 ---
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [American Pancakes](rezepte/americanpancakes.md) - einfach
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bircher-Müsli](rezepte/birchermuesli.md) - overnight oats
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Muesli](rezepte/muesli.md) - australisch
 
 Gebaeck
 ---
@@ -107,11 +108,13 @@ Hauptspeisen
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Koshary](rezepte/koshary.md) - für 4-6 Personen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Kürbis-Linseneintopf](rezepte/kuerbislinseneintopf.md) - simpel, 4 Portionen
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Linsenlasagne](rezepte/linsenlasagne.md) - vegetarisch
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Okra Sambar oder Dal](rezepte/okrasambar.md) - indisch
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Omelette](rezepte/omelette.md) - leicht
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quiche](rezepte/quiche.md) - für 16 Muffins, 6 kleine Tartes oder eine große
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Schmorgurken](rezepte/schmorgurken.md) - geht auch mit Speck
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Tomatenbrot mit Ei und Kaese](rezepte/tomatenbrot.md) - leicht und schnell
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Volognese](rezepte/volognese.md) - Vegane Bolognese
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [gedaempfte Eier](rezepte/gedaempfteeier.md) - koreanisch, japanisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [spanische Kuerbistorte](rezepte/kuerbistorte.md) - gesammelte Rezepte von Oma
 
 Kekse
@@ -135,13 +138,16 @@ Kuchen
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananenbrot](rezepte/bananenbrot.md) - ohne Datteln
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bananenfostercreme](rezepte/bananenfostercreme.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Banoffee Pie](rezepte/banoffee.md) - himmlisch
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blondies](rezepte/blondies.md) - helle Brownies
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Blueberrypie](rezepte/blueberrypie.md) - 18 cm Springform oder etwas größer
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Butterkuchen](rezepte/buttercake.md) - australisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Christstollen](rezepte/christstollen.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Crema pastelera](rezepte/cremapastelera.md) - fuer Kuchen und Gebaeck
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Hefezopf mit Rosinen](rezepte/hefezopf.md) - zu Ostern
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Hermann](rezepte/hermann.md) - nachwachsend
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Herrentorte](rezepte/herrentorte.md) - von Mutti - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Honigkuchen](rezepte/honigkuchen.md) - gesammelte Rezepte von Oma
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Karotten Muffins](rezepte/karottenmuffins.md) - etwa 15 Stück a 230 cals
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Nusskuchen](rezepte/nusskuchen.md) - von Frau S - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Polnischer Kuchen](rezepte/polnischerkuchen.md) - von Mutti - gesammelte Rezepte von Oma
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Quark Streusselkuchen (Zupfkuchen)](rezepte/zupfkuchen.md) - von Mutti - gesammelte Rezepte von Oma
@@ -180,6 +186,7 @@ Nachspeisen
 Pfannengebaeck
 ---
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [American Pancakes](rezepte/americanpancakes.md) - einfach
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Bananen-Pfannkuchen](rezepte/bananenpfannkuchen.md) - amerikanisches Rezept
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Crumpets](rezepte/crumpets.md) - classic english
 - :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Kaiserschmarrn](rezepte/kaiserschmarrn.md) - eine Portion
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Mamas Pfannkuchen](rezepte/pfannkuchenmama.md) - Reicht für 6 große
@@ -273,12 +280,34 @@ Veganes
 
 Zutaten
 ---
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bananenfostercreme](rezepte/bananenfostercreme.md) - himmlisch
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Bauernkäse](rezepte/bauernkaese.md) - traditionell englischer farmers cheese
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Cashew-Ricotta](rezepte/cashewricotta.md) - vegan
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Crema pastelera](rezepte/cremapastelera.md) - fuer Kuchen und Gebaeck
 - :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Streusel](rezepte/streusel.md) - für 1 Blech
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Tapiokaperlen](rezepte/tapiokapearls.md) - für Bubble tea
 - :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [crunchy Tofu](rezepte/crunchytofu.md) - a la Kylie
+
+australisch
+---
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Anzac Biscuits](rezepte/anzacbiscuits.md) - australisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Butterkuchen](rezepte/buttercake.md) - australisch
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Klassischer Pie](rezepte/australianpie.md) - australisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Muesli](rezepte/muesli.md) - australisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Schokoladen-Fudge-Kuchen](rezepte/chocolatefudgecake.md) - australisch
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Zitronenkuchen](rezepte/lemoncake.md) - australisch
+
+chilenisch
+---
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Chimichurri](rezepte/chimichurri.md) - lateinamerikanischer Klassiker
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Mote con huesillos](rezepte/moteconhuesillos.md) - receta tradicional chilena
+- :full_moon_with_face: :new_moon_with_face: :new_moon_with_face: [Pebre](rezepte/pebre.md) - pica - scharf
+- :full_moon_with_face: :full_moon_with_face: :new_moon_with_face: [Torta Pompadour](rezepte/tortapompadour.md) - einer Grossmutters Rezept
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Tres Leches](rezepte/tresleches.md) - klassisch suedamerikanisch
+
+indisch
+---
+- :full_moon_with_face: :full_moon_with_face: :full_moon_with_face: [Okra Sambar oder Dal](rezepte/okrasambar.md) - indisch
 
 suesses Gebaeck
 ---

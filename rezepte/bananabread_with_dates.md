@@ -19,7 +19,7 @@ Zutaten:
 
 Anleitung:
 ---
-Den Ofen auf 170 C vorheizen und eine Backform buttern und Mehlen.
+Den Ofen auf 170 C vorheizen und eine Backform buttern und mehlen.
 
 In einer Schüssel Mehl, Backpulver, Natron, Salz, Zimt vermischen.
 

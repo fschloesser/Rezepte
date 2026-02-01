@@ -1,0 +1,50 @@
+ingredients:
+- amount: '1000'
+  unit: 'g'
+  ingredient: Haferflocken
+- amount: '150'
+  unit: 'g'
+  ingredient: Sonnenblumensamen
+- amount: '150'
+  unit: 'g'
+  ingredient: Kuerbiskerne
+- amount: '300'
+  unit: 'g'
+  ingredient: Kokosstreifen
+- amount: '300'
+  unit: 'g'
+  ingredient: Mandelsplitter
+- amount: '200'
+  unit: 'g'
+  ingredient: Kokosoel
+- amount: '300'
+  unit: 'g'
+  ingredient: Honig
+- amount: '150'
+  unit: 'g'
+  ingredient: getrocknete Johannisbeeren
+- amount: '150'
+  unit: 'g'
+  ingredient: Sultaninen
+- amount: '150'
+  unit: 'g'
+  ingredient: getrocknete Aprikosen
+- amount: '150'
+  unit: 'g'
+  ingredient: getrocknete Cranberries
+instructions: '
+Haferflocken, Sonnenblumensamen, Kuerbiskerne Kokosstreifen und Mandelsplitter in einer grossen Schuessel mischen.
+Honig und Kokosoel schmelzen und ueber die Mischung geben, alles vermengen.
+
+Die Masse duenn auf Bleche verteilen und im Ofen bei 180 Grad Celsius etwa 20 Minuten backen oder bis der gewuenschte Roestgrad erreicht ist.
+Dabei darauf achten dass die oberen Schichten nicht verbrennen und die Masse regelmaessig wenden.
+
+Aus dem Ofen nehmen, durchmischen und abkuehlen lassen, danach die getrockneten Fruechte darunter mischen.
+
+Wenn das Muesli vollstaendig abgekuehlt ist kann es in luftdichte Dosen abgefuellt werden und ist etwa zwei Wochen haltbar.'
+title: Muesli
+subtitle: australisch
+tags:
+  - Fruehstueck
+  - australisch
+rating: 1
