@@ -40,8 +40,8 @@ def format_time(number):
         if i < number:
             out += ":clock{}: ".format(randint(1,12))
         else:
-            ":white_circle: "
-            break
+            out += ":white_circle: "
+            # break
     return out
 
 smileys = [ ":smiley: ",
@@ -61,7 +61,9 @@ def format_difficulty(number):
         if i < number:
             out += smileys[randint(0,smileys_length)]
         else:
-            out += ":dotted_line_face: "
+            out += ":white_circle: "
+            # out += ":dotted_line_face: "
+            # break
     return out
 
 def recipe_link(recipe):
@@ -119,6 +121,7 @@ for tag in tags:
 # write the readme file, first the toc, then each chapter
 with open("{}".format(readme_file), 'w', encoding='utf-8') as readme:
     readme.write("# Alle Rezepte im Ueberblick:\n")
+    readme.write("Je mehr smileys, desto komplizierter; je mehr Uhren, desto laenger dauert es.\n")
     readme.write(toc)
     for tag in tags:
         readme.write(chapters[tag])
