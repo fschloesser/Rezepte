@@ -1,31 +1,34 @@
 ingredients:
-- amount: '200'
+- amount: '450'
   ingredient: Okra
   unit: 'g'
-- amount: '3'
+- amount: '2'
   ingredient: Zwiebeln
-  unit: ''
-- amount: '1'
+  unit: 'Stueck'
+- amount: '2'
   ingredient: gespaltene Linsen
-  unit: ''
-- amount: '2'
+  unit: 'Tassen'
+- amount: '1'
   ingredient: Tamarind
-  unit: Zehen
-- amount: '3'
-  ingredient: Senfsaat
   unit: EL
-- amount: '3'
-  ingredient: Kreuzkuemmel
-  unit: EL
-- amount: '1'
-  ingredient: Kurkumapulver
-  unit: ''
-- amount: '1'
+- amount: '7'
   ingredient: Knoblauch
-  unit: EL
-- amount: '2'
+  unit: Zehen
+- amount: '1'
+  ingredient: Senfsaat
+  unit: TL
+- amount: '1'
+  ingredient: Kreuzkuemmel
+  unit: TL
+- amount: '0.5'
+  ingredient: Kurkumapulver
+  unit: TL
+- amount: '1'
   ingredient: rotes Chilipulver
-  unit: EL
+  unit: TL
+- amount: '1'
+  ingredient: Salz
+  unit: TL
 instructions: '
 Okra waschen und abtrocknen, dies ist wichtig damit der Schleim nicht schon beim schneiden austritt.
 Linsen etwa eine halbe bis ganze Stunde einweichen und mehrmals waschen bis das Wasser klar ist.
@@ -50,7 +53,8 @@ title: Okra Sambar oder Dal
 tags:
   - Hauptspeisen
   - indisch
-rating: 3
+time: 2
+difficulty: 3
 
 ingredients:
 - amount: '200'
@@ -103,4 +107,5 @@ title: Okra Sambar oder Dal
 tags:
   - Hauptspeisen
   - indisch
-rating: 3
+time: 2
+difficulty: 3

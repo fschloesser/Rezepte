@@ -20,13 +20,15 @@ ingredients:
 - amount: ''
   ingredient: Lorbeer
   unit: ''
-instructions: Speck oder Räuchertofu in der Pfanne anbraten, eine Zwiebel dazu, anschwitzen.
+instructions: '
+  Speck oder Räuchertofu in der Pfanne anbraten, eine Zwiebel dazu, anschwitzen.
   Dann Möhren und Kartoffeln zu gleichen Teilen und gleichgroßen Stücken dazu geben,
   mit Wasser aufgießen bis das Gemüse bedeckt ist. Einen Brühwürfel, Pimentkörner
   und ein Lorbeerblatt dazu geben, dann 10 Minuten im Schnellkochtopf kochen. Mit
-  Salz, Pfeffer, frischem Knoblauch, Basilikum und Muskat würzen. Done
+  Salz, Pfeffer, frischem Knoblauch, Basilikum und Muskat würzen. Done'
 subtitle: a la mama
 title: Möhren Kartoffel Suppe
 tags:
   - Suppen
-rating: 1
+time: 1
+difficulty: 1

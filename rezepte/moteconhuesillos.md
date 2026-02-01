@@ -16,6 +16,6 @@ El dia siguiente:
 
 Hervir mote en agua por 20 minutos.
 
-Hervir  huesillos en azúcar con canela en agua por 40 minutos.
+Hervir huesillos en azúcar con canela en agua por 40 minutos.
 
 Refrigerar y servir.

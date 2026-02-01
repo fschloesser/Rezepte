@@ -14,7 +14,7 @@ instructions: 'Remojar huesillos en agua durante la noche.
 
   Hervir mote en agua por 20 minutos.
 
-  Hervir  huesillos en azúcar con canela en agua por 40 minutos.
+  Hervir huesillos en azúcar con canela en agua por 40 minutos.
 
   Refrigerar y servir.'
 subtitle: receta tradicional chilena
@@ -22,4 +22,5 @@ title: Mote con huesillos
 tags:
   - Getraenke
   - chilenisch
-rating: 1
+time: 3
+difficulty: 1

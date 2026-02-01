@@ -25,7 +25,7 @@ In einem Topf Milch unter Rühren auf die Hälfte einkochen, dann Mandeln hinzuf
 
 Den Zucker mit Wasser in einer Pfanne zu Sirup einkochen. Wenn er zähflüssig wird die getoasteten Brotstücke hinzufügen und vorsichtig mit dem Sirup überziehen. Dann die kondensierte Milch hinzufügen und 2 bis 3 Minuten bei Hitze ziehen lassen.
 
-Den Herd ausstellen bevor die gesamte Flüssigkeit evaporiert.
+Den Herd ausstellen bevor die gesamte Flüssigkeit verdampft.
 
 Die Brotstücke in einer Schüssel anrichten, die Nüsse und Rosinen darüber geben und erkalten lassen.
 

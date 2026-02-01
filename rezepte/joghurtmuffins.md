@@ -1,6 +1,6 @@
 Joghurt Muffins
 ===
-None
+einfach und gut
 
 Zutaten:
 ---
