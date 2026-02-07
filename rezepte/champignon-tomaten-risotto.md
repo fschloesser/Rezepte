@@ -1,6 +1,6 @@
 Champignon-Tomaten-Risotto
 ===
-
+a la Mark, reicht fuer 3-4 Portionen
 
 Zutaten:
 ---

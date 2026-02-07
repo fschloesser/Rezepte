@@ -1,6 +1,6 @@
 Mexikanische Reispfanne
 ===
-2 Portionen
+a la Mark, reicht fuer 2 Portionen
 
 Zutaten:
 ---
