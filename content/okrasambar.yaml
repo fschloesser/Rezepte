@@ -1,108 +1,67 @@
 ingredients:
-- amount: '450'
+- amount: '400'
   ingredient: Okra
   unit: 'g'
-- amount: '2'
+- amount: '6'
   ingredient: Zwiebeln
-  unit: 'Stueck'
-- amount: '2'
+  unit: ''
+- amount: '200'
   ingredient: gespaltene Linsen
-  unit: 'Tassen'
-- amount: '1'
-  ingredient: Tamarind
-  unit: EL
-- amount: '7'
-  ingredient: Knoblauch
-  unit: Zehen
-- amount: '1'
+  unit: 'g'
+- amount: '3'
+  ingredient: Tamarindenpaste
+  unit: TL
+- amount: '2'
   ingredient: Senfsaat
   unit: TL
-- amount: '1'
+- amount: '2'
   ingredient: Kreuzkuemmel
   unit: TL
-- amount: '0.5'
+- amount: '2'
   ingredient: Kurkumapulver
   unit: TL
 - amount: '1'
+  ingredient: Knoblauch
+  unit: Knolle
+- amount: '1'
   ingredient: rotes Chilipulver
   unit: TL
-- amount: '1'
+- amount: '2'
   ingredient: Salz
   unit: TL
 instructions: '
-Okra waschen und abtrocknen, dies ist wichtig damit der Schleim nicht schon beim schneiden austritt.
-Linsen etwa eine halbe bis ganze Stunde einweichen und mehrmals waschen bis das Wasser klar ist.
-Tamarindenpaste verwenden oder ganze Tamarindenschoten. Letztere in warmem Wasser aufweichen und ausdruecken.
+Linsen mehrmals waschen bis das Wasser klar ist und dann etwa eine halbe bis ganze Stunde einweichen.
 
-Ein Teil Linsen in zwei Teilen Wasser kochen und beiseite stellen.
+Okra waschen und gut abtrocknen, damit der Schleim nicht schon beim Schneiden austritt.
 
-Senf und Kreuzkuemmel in etwas Oel auf mittlerer Hitze anbraten, dabei vorsichtig sein mit spritzendem Oel.
+Tamarindenpaste in einer grosszuegigen Tasse Wasser aufloesen.
+Stattdessen koennen ganze Tamarindenschoten benutzt werden, diese in warmem Wasser aufweichen und ausdruecken.
+
+Die Linsen in der doppelten Menge Wasser kochen und beiseite stellen.
+
+Okra in 1.5 cm breite Scheiben und Zwiebeln in etwa 0.5 breite Stifte schneiden und bereit stellen.
+
+In einem Topf den Senf und Kreuzkuemmel in etwas Oel auf mittlerer Hitze anbraten, dabei vorsichtig sein mit spritzendem Oel.
 Knoblauch hinzugeben und kurz mit anbraten, dann den Kurkuma hinzugeben.
-Nun das Tamarindenwasser hinzugeben und einige Minuten kochen bis weisser Schaum sichtbar ist.
-Die geschnittene Okra hinzugeben bis diese die Farbe aendern, dies sollte etwa 20 Minuten dauern, dabei gelegentlich und vorsichtig ruehren um die Okra nicht zu zerdruecken.
-Nun die gekochten Linsen hinzugeben und einruehren.
-Salz Chili und hinzugeben
 
-- Add cooked dal to the pot and mix it well and gently (to avoid breaking okra pieces). The action of mixing itself will change the color of dal from bright yellow to a bit brownish due to the tamarind water.
-- Add some water, if needed, for desired consistency of the dish, and mix well. If cold water, then wait until the dish becomes warm again. If warm water, then no need to wait before the next step.
-- Add salt, red chili powder (if using it), and onions. Cook for a few more minutes. Stir everything for an even distribution. I prefer to add onions at this stage to retain some texture and crunchiness of them in the dish (as opposed to adding onions in the beginning itself).
-- That’s all, folks! The okra sambar/dal is ready. You may keep the pot aside for a while to let the dish settle down. The residual heat can continue cooking the dish, evaporate some leftover water, and make it more creamier.
-'
-subtitle: indisch
-title: Okra Sambar oder Dal
-tags:
-  - Hauptspeisen
-  - indisch
-time: 2
-difficulty: 3
+Nun das Tamarindenwasser hinzugeben und einige Minuten kochen bis weisser Schaum sichtbar ist, dies ist das Zeichen dass die Tamarinde gekocht ist.
 
-ingredients:
-- amount: '200'
-  ingredient: Okra
-  unit: 'g'
-- amount: '3'
-  ingredient: Zwiebeln
-  unit: ''
-- amount: '100'
-  ingredient: gespaltene Linsen
-  unit: 'g'
-- amount: 'etwas'
-  ingredient: Tamarind
-  unit: ''
-- amount: '1'
-  ingredient: Senfsaat
-  unit: TL
-- amount: '1'
-  ingredient: Kreuzkuemmel
-  unit: TL
-- amount: '1'
-  ingredient: Kurkumapulver
-  unit: TL
-- amount: '2'
-  ingredient: Knoblauch
-  unit: Zehen
-- amount: '1/2'
-  ingredient: rotes Chilipulver
-  unit: TL
-instructions: '
-Okra waschen und abtrocknen, dies ist wichtig damit der Schleim nicht schon beim schneiden austritt.
-Linsen etwa eine halbe bis ganze Stunde einweichen und mehrmals waschen bis das Wasser klar ist.
-Tamarindenpaste verwenden oder ganze Tamarindenschoten. Letztere in warmem Wasser aufweichen und ausdruecken.
+Die geschnittene Okra hinzugeben bis diese die Farbe aendern, dies sollte etwa 20 Minuten dauern, dabei gelegentlich und vorsichtig ruehren um die Okra nicht zu zerdruecken, evtl ein wenig Wasser hinzugeben damit nichts anbrennt.
 
-Ein Teil Linsen in zwei Teilen Wasser kochen und beiseite stellen.
+Nun die gekochten Linsen hinzugeben und einruehren, mit Wasser verduennen bis die gewuenschte Konsistenz erreicht ist.
+Dabei regelmaessig vorsichtig ruehren damit nichts anbrennnt.
 
-Senf und Kreuzkuemmel in etwas Oel auf mittlerer Hitze anbraten, dabei vorsichtig sein mit spritzendem Oel.
-Knoblauch hinzugeben und kurz mit anbraten, dann den Kurkuma hinzugeben.
-Nun das Tamarindenwasser hinzugeben und einige Minuten kochen bis weisser Schaum sichtbar ist.
-Die geschnittene Okra hinzugeben bis diese die Farbe aendern, dies sollte etwa 20 Minuten dauern, dabei gelegentlich und vorsichtig ruehren um die Okra nicht zu zerdruecken.
-Nun die gekochten Linsen hinzugeben und einruehren.
-Salz, Chili und geschnittene Zwiebeln hinzugeben, einige weitere Minuten kochen lassen.
+Die geschnittenen Zwiebeln hinzugeben, und einige weitere Minuten kochen lassen.
+
+Mit Salz und Chili nach Belieben wuerzen und servieren
 
 Tips:
 - Es ist wichtig gute Okra zu verwenden, also beim Einkauf darauf achten dass sie frisch und jung sind.
 - Gespaltene Linsen werden beim Kochen cremiger als ganze, da keine Huelle enthalten ist.
-- Mit Tamarinde ein bisschen vorsichtig sein, da diese in grossen Mengen den Darm anregen koennen.  '
-subtitle: indisch
+- Mit Tamarinde ein bisschen vorsichtig sein, da diese in grossen Mengen den Darm anregen koennen.
+- Das Dal kann mit oder ohne Reis gegessen werden. Die angegebenen Mengen reichen fuer zwei Portionen ohne Reis.
+'
+subtitle: indisch, 2 Portionen
 title: Okra Sambar oder Dal
 tags:
   - Hauptspeisen

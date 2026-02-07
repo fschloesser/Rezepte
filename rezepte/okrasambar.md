@@ -1,25 +1,42 @@
 Okra Sambar oder Dal
 ===
-indisch
+indisch, 2 Portionen
 
 Zutaten:
 ---
-- 200 g Okra
-- 3  Zwiebeln
-- 100 g gespaltene Linsen
-- etwas  Tamarind
-- 1 TL Senfsaat
-- 1 TL Kreuzkuemmel
-- 1 TL Kurkumapulver
-- 2 Zehen Knoblauch
-- 1/2 TL rotes Chilipulver
+- 400 g Okra
+- 6  Zwiebeln
+- 200 g gespaltene Linsen
+- 3 TL Tamarindenpaste
+- 2 TL Senfsaat
+- 2 TL Kreuzkuemmel
+- 2 TL Kurkumapulver
+- 1 Knolle Knoblauch
+- 1 TL rotes Chilipulver
+- 2 TL Salz
 
 Anleitung:
 ---
- Okra waschen und abtrocknen, dies ist wichtig damit der Schleim nicht schon beim schneiden austritt. Linsen etwa eine halbe bis ganze Stunde einweichen und mehrmals waschen bis das Wasser klar ist. Tamarindenpaste verwenden oder ganze Tamarindenschoten. Letztere in warmem Wasser aufweichen und ausdruecken.
+ Linsen mehrmals waschen bis das Wasser klar ist und dann etwa eine halbe bis ganze Stunde einweichen.
 
-Ein Teil Linsen in zwei Teilen Wasser kochen und beiseite stellen.
+Okra waschen und gut abtrocknen, damit der Schleim nicht schon beim Schneiden austritt.
 
-Senf und Kreuzkuemmel in etwas Oel auf mittlerer Hitze anbraten, dabei vorsichtig sein mit spritzendem Oel. Knoblauch hinzugeben und kurz mit anbraten, dann den Kurkuma hinzugeben. Nun das Tamarindenwasser hinzugeben und einige Minuten kochen bis weisser Schaum sichtbar ist. Die geschnittene Okra hinzugeben bis diese die Farbe aendern, dies sollte etwa 20 Minuten dauern, dabei gelegentlich und vorsichtig ruehren um die Okra nicht zu zerdruecken. Nun die gekochten Linsen hinzugeben und einruehren. Salz, Chili und geschnittene Zwiebeln hinzugeben, einige weitere Minuten kochen lassen.
+Tamarindenpaste in einer grosszuegigen Tasse Wasser aufloesen. Stattdessen koennen ganze Tamarindenschoten benutzt werden, diese in warmem Wasser aufweichen und ausdruecken.
 
-Tips: - Es ist wichtig gute Okra zu verwenden, also beim Einkauf darauf achten dass sie frisch und jung sind. - Gespaltene Linsen werden beim Kochen cremiger als ganze, da keine Huelle enthalten ist. - Mit Tamarinde ein bisschen vorsichtig sein, da diese in grossen Mengen den Darm anregen koennen.  
+Die Linsen in der doppelten Menge Wasser kochen und beiseite stellen.
+
+Okra in 1.5 cm breite Scheiben und Zwiebeln in etwa 0.5 breite Stifte schneiden und bereit stellen.
+
+In einem Topf den Senf und Kreuzkuemmel in etwas Oel auf mittlerer Hitze anbraten, dabei vorsichtig sein mit spritzendem Oel. Knoblauch hinzugeben und kurz mit anbraten, dann den Kurkuma hinzugeben.
+
+Nun das Tamarindenwasser hinzugeben und einige Minuten kochen bis weisser Schaum sichtbar ist, dies ist das Zeichen dass die Tamarinde gekocht ist.
+
+Die geschnittene Okra hinzugeben bis diese die Farbe aendern, dies sollte etwa 20 Minuten dauern, dabei gelegentlich und vorsichtig ruehren um die Okra nicht zu zerdruecken, evtl ein wenig Wasser hinzugeben damit nichts anbrennt.
+
+Nun die gekochten Linsen hinzugeben und einruehren, mit Wasser verduennen bis die gewuenschte Konsistenz erreicht ist. Dabei regelmaessig vorsichtig ruehren damit nichts anbrennnt.
+
+Die geschnittenen Zwiebeln hinzugeben, und einige weitere Minuten kochen lassen.
+
+Mit Salz und Chili nach Belieben wuerzen und servieren
+
+Tips: - Es ist wichtig gute Okra zu verwenden, also beim Einkauf darauf achten dass sie frisch und jung sind. - Gespaltene Linsen werden beim Kochen cremiger als ganze, da keine Huelle enthalten ist. - Mit Tamarinde ein bisschen vorsichtig sein, da diese in grossen Mengen den Darm anregen koennen. - Das Dal kann mit oder ohne Reis gegessen werden. Die angegebenen Mengen reichen fuer zwei Portionen ohne Reis. 
