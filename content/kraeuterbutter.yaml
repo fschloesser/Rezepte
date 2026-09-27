@@ -2,6 +2,9 @@ ingredients:
 - amount: '250'
   ingredient: Butter
   unit: g
+- amount: '1'
+  ingredient: Zwiebel
+  unit: kleine
 - amount: '2'
   ingredient: Knoblauch
   unit: Zehen
@@ -13,12 +16,12 @@ ingredients:
   unit: ''
 instructions: 'Butter auf kleinster Flamme aufwaermen und schaumig ruehren.
 
-  Knoblauch fein hacken und auf Salz zerdruecken.
+  Knoblauch fein hacken oder reiben und auf Salz zerdruecken.
 
   Kraeuter und Knoblauch mit der Butter vermengen und nach Belieben salzen.
 
   Kalt stellen.'
-subtitle: klassisch
+subtitle: klassisch, von Mama
 title: Kraeuterbutter
 tags:
   - Dips

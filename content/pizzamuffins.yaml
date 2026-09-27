@@ -1,0 +1,53 @@
+ingredients:
+- amount: '20'
+  unit: g
+  ingredient: "frische Hefe"
+- amount: '2'
+  unit: TL
+  ingredient: Zucker
+- amount: '250'
+  unit: ml
+  ingredient: Wasser
+- amount: '3'
+  unit: EL
+  ingredient: Olivenoel
+- amount: '1'
+  unit: Pkg
+  ingredient: Backpulver
+- amount: '2'
+  unit: TL
+  ingredient: Salz
+- amount: '400'
+  unit: g
+  ingredient: Mehl
+- amount: '1'
+  unit: kleine Dose
+  ingredient: Mais
+- amount: '1/2'
+  unit: Glas
+  ingredient: "eingelegte, getrocknete Tomaten"
+- amount: '4'
+  unit: Stueck
+  ingredient: Champignons
+- amount: '1'
+  unit: kleine
+  ingredient: "kleingeschnittene Zwiebel"
+- amount: '2'
+  unit: Zehen
+  ingredient: Knoblauch
+- amount: 'etwas'
+  unit: getrockneten
+  ingredient: "Majoran und Oregano"
+instructions: '
+  hefe mit Zucker in handwarmem Wasser aufloesen.
+  Die uebrigen Zutaten fuer den Teig verkneten und ca 1 Stunde gehen lassen.
+
+  Die getrockneten Tomaten in kleine Stuecke schneiden
+  Die weiteren Zutaten in den Teig mengen und in Muffinformen fuellen, 15 Minuten gehen lassen und dann bei 200 Grad Celsius etwa eine halbe Stunde backen.
+  '
+subtitle: super fuer Partys
+title: Pizzamuffins
+tags:
+  - Fingerfood
+time: 2
+difficulty: 1
